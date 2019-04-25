@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/shawngmc/patchtracker.io#readme",
   "dependencies": {
-    "github-graphql-api": "^1.0.6"
+    "@octokit/rest": "^16.25.0"
   }
 }

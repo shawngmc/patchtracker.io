@@ -1,0 +1,22 @@
+{
+  "name": "patchtracker.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawngmc/patchtracker.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shawngmc/patchtracker.io/issues"
+  },
+  "homepage": "https://github.com/shawngmc/patchtracker.io#readme",
+  "dependencies": {
+    "github-graphql-api": "^1.0.6"
+  }
+}

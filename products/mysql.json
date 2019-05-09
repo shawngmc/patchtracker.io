@@ -1,0 +1,20 @@
+{
+  "name": "MySQL",
+  "links": [
+    {
+      "title": "GitHub",
+      "url": "https://github.com/mysql/mysql-server"
+    },
+    {
+      "title": "Homepage",
+      "url": "https://www.mysql.com/"
+    }
+  ],
+  "polling": {
+    "method": "github",
+    "owner": "mysql",
+    "project": "mysql-server",
+    "regexMap": []
+  },
+  "version_chains": []
+}

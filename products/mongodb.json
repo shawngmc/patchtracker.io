@@ -1,0 +1,20 @@
+{
+  "name": "MongoDB",
+  "links": [
+    {
+      "title": "GitHub",
+      "url": "https://github.com/mongodb/mongo"
+    },
+    {
+      "title": "Homepage",
+      "url": "https://www.mongodb.com/"
+    }
+  ],
+  "polling": {
+    "method": "github",
+    "owner": "mongodb",
+    "project": "mongo",
+    "regexMap": []
+  },
+  "version_chains": []
+}

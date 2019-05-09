@@ -1,0 +1,20 @@
+{
+  "name": "HAProxy",
+  "links": [
+    {
+      "title": "GitHub",
+      "url": "https://github.com/haproxy/haproxy"
+    },
+    {
+      "title": "Homepage",
+      "url": "https://www.haproxy.org/"
+    }
+  ],
+  "polling": {
+    "method": "github",
+    "owner": "haproxy",
+    "project": "haproxy",
+    "regexMap": []
+  },
+  "version_chains": []
+}

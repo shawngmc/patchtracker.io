@@ -1,0 +1,123 @@
+{
+  "name": "node",
+  "links": [
+    {
+      "title": "GitHub",
+      "url": "https://github.com/nodejs/node"
+    },
+    {
+      "title": "Homepage",
+      "url": "https://nodejs.org"
+    }
+  ],
+  "polling": [
+    {
+      "method": "github",
+      "owner": "nodejs",
+      "project": "node",
+      "regexMap": [
+        {
+          "version": "12.x",
+          "regex": {
+            "test": "(v)(12).(\\d+).(\\d+)",
+            "parse": "$2.$3.$4"
+          }
+        },
+        {
+          "version": "11.x",
+          "regex": {
+            "test": "(v)(11).(\\d+).(\\d+)",
+            "parse": "$2.$3.$4"
+          }
+        },
+        {
+          "version": "10.x",
+          "regex": {
+            "test": "(v)(10).(\\d+).(\\d+)",
+            "parse": "$2.$3.$4"
+          }
+        },
+        {
+          "version": "9.x",
+          "regex": {
+            "test": "(v)(9).(\\d+).(\\d+)",
+            "parse": "$2.$3.$4"
+          }
+        },
+        {
+          "version": "8.x",
+          "regex": {
+            "test": "(v)(8).(\\d+).(\\d+)",
+            "parse": "$2.$3.$4"
+          }
+        },
+        {
+          "version": "7.x",
+          "regex": {
+            "test": "(v)(7).(\\d+).(\\d+)",
+            "parse": "$2.$3.$4"
+          }
+        },
+        {
+          "version": "6.x",
+          "regex": {
+            "test": "(v)(6).(\\d+).(\\d+)",
+            "parse": "$2.$3.$4"
+          }
+        },
+        {
+          "version": "5.x",
+          "regex": {
+            "test": "(v)(5).(\\d+).(\\d+)",
+            "parse": "$2.$3.$4"
+          }
+        },
+        {
+          "version": "4.x",
+          "regex": {
+            "test": "(v)(4).(\\d+).(\\d+)",
+            "parse": "$2.$3.$4"
+          }
+        }
+      ]
+    }
+  ],
+  "version_chains": [
+    {
+      "title": "12.x",
+      "versions": []
+    },
+    {
+      "title": "11.x",
+      "versions": []
+    },
+    {
+      "title": "10.x",
+      "versions": []
+    },
+    {
+      "title": "9.x",
+      "versions": []
+    },
+    {
+      "title": "8.x",
+      "versions": []
+    },
+    {
+      "title": "7.x",
+      "versions": []
+    },
+    {
+      "title": "6.x",
+      "versions": []
+    },
+    {
+      "title": "5.x",
+      "versions": []
+    },
+    {
+      "title": "4.x",
+      "versions": []
+    }
+  ]
+}

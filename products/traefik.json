@@ -1,0 +1,20 @@
+{
+  "name": "Traefik",
+  "links": [
+    {
+      "title": "GitHub",
+      "url": "https://github.com/containous/traefik"
+    },
+    {
+      "title": "Homepage",
+      "url": "https://traefik.io"
+    }
+  ],
+  "polling": {
+    "method": "github",
+    "owner": "containous",
+    "project": "traefik",
+    "regexMap": []
+  },
+  "version_chains": []
+}

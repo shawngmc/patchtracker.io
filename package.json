@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/shawngmc/patchtracker.io#readme",
   "dependencies": {
-    "@octokit/rest": "^16.25.0"
+    "@octokit/rest": "^16.25.0",
+    "bluebird": "^3.5.4",
+    "lodash": "^4.17.11",
+    "prompts": "^2.0.4"
   }
 }

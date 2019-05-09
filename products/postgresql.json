@@ -1,0 +1,20 @@
+{
+  "name": "PostgreSQL",
+  "links": [
+    {
+      "title": "GitHub",
+      "url": "https://github.com/postgres/postgres"
+    },
+    {
+      "title": "Homepage",
+      "url": "https://www.postgresql.org/"
+    }
+  ],
+  "polling": {
+    "method": "github",
+    "owner": "postgres",
+    "project": "postgres",
+    "regexMap": []
+  },
+  "version_chains": []
+}

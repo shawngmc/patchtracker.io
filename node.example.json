@@ -1,0 +1,35 @@
+{
+  "name": "node",
+  "links": [
+    {
+      "title": "github",
+      "url": "https://github.com/nodejs/node/releases"
+    },
+    {
+      "title": "homepage",
+      "url": "https://nodejs.org"
+    }
+  ],
+  "version_chains": [
+    {
+      "title": "12.x",
+      "polling": {
+        "method": "github",
+        "tag_regex": [
+          "v12"
+        ]
+      },
+      "versions": [
+        {
+          "version": "12.0.0",
+          "links": [
+            {
+              "title": "github_release",
+              "url": "https://github.com/nodejs/node/releases"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

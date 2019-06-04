@@ -18,63 +18,91 @@
       {
         "version": "12.x",
         "regex": {
-          "test": "(v)(12).(\\d+).(\\d+)",
+          "test": "(v)(12).(\\d+).(\\d+)$",
           "parse": "$2.$3.$4"
         }
       },
       {
         "version": "11.x",
         "regex": {
-          "test": "(v)(11).(\\d+).(\\d+)",
+          "test": "(v)(11).(\\d+).(\\d+)$",
           "parse": "$2.$3.$4"
         }
       },
       {
         "version": "10.x",
         "regex": {
-          "test": "(v)(10).(\\d+).(\\d+)",
+          "test": "(v)(10).(\\d+).(\\d+)$",
           "parse": "$2.$3.$4"
         }
       },
       {
         "version": "9.x",
         "regex": {
-          "test": "(v)(9).(\\d+).(\\d+)",
+          "test": "(v)(9).(\\d+).(\\d+)$",
           "parse": "$2.$3.$4"
         }
       },
       {
         "version": "8.x",
         "regex": {
-          "test": "(v)(8).(\\d+).(\\d+)",
+          "test": "(v)(8).(\\d+).(\\d+)$",
           "parse": "$2.$3.$4"
         }
       },
       {
         "version": "7.x",
         "regex": {
-          "test": "(v)(7).(\\d+).(\\d+)",
+          "test": "(v)(7).(\\d+).(\\d+)$",
           "parse": "$2.$3.$4"
         }
       },
       {
         "version": "6.x",
         "regex": {
-          "test": "(v)(6).(\\d+).(\\d+)",
+          "test": "(v)(6).(\\d+).(\\d+)$",
           "parse": "$2.$3.$4"
         }
       },
       {
         "version": "5.x",
         "regex": {
-          "test": "(v)(5).(\\d+).(\\d+)",
+          "test": "(v)(5).(\\d+).(\\d+)$",
           "parse": "$2.$3.$4"
         }
       },
       {
         "version": "4.x",
         "regex": {
-          "test": "(v)(4).(\\d+).(\\d+)",
+          "test": "(v)(4).(\\d+).(\\d+)$",
+          "parse": "$2.$3.$4"
+        }
+      },
+      {
+        "version": "3.x",
+        "regex": {
+          "test": "(v)(3).(\\d+).(\\d+)$",
+          "parse": "$2.$3.$4"
+        }
+      },
+      {
+        "version": "2.x",
+        "regex": {
+          "test": "(v)(2).(\\d+).(\\d+)$",
+          "parse": "$2.$3.$4"
+        }
+      },
+      {
+        "version": "1.x",
+        "regex": {
+          "test": "(v)(1).(\\d+).(\\d+)$",
+          "parse": "$2.$3.$4"
+        }
+      },
+      {
+        "version": "0.x",
+        "regex": {
+          "test": "(v)(0).(\\d+).(\\d+)$",
           "parse": "$2.$3.$4"
         }
       }
@@ -84,6 +112,11 @@
     {
       "title": "12.x",
       "versions": [
+        {
+          "version": "12.4.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v12.4.0",
+          "publishedDate": "2019-06-03T12:16:07Z"
+        },
         {
           "version": "12.3.1",
           "url": "https://github.com/nodejs/undefined/releases/tag/v12.3.1",
@@ -950,11 +983,6 @@
           "publishedDate": "2016-03-16T19:56:49Z"
         },
         {
-          "version": "5.8.1-rc.1",
-          "url": "https://github.com/nodejs/undefined/releases/tag/v5.8.1-rc.1",
-          "publishedDate": "2016-03-14T19:17:39Z"
-        },
-        {
           "version": "5.8.0",
           "url": "https://github.com/nodejs/undefined/releases/tag/v5.8.0",
           "publishedDate": "2016-03-08T23:00:00Z"
@@ -1013,16 +1041,6 @@
           "version": "5.0.0",
           "url": "https://github.com/nodejs/undefined/releases/tag/v5.0.0",
           "publishedDate": "2015-10-29T11:54:20Z"
-        },
-        {
-          "version": "5.0.0-rc.2",
-          "url": "https://github.com/nodejs/undefined/releases/tag/v5.0.0-rc.2",
-          "publishedDate": "2015-10-29T03:09:34Z"
-        },
-        {
-          "version": "5.0.0-rc.1",
-          "url": "https://github.com/nodejs/undefined/releases/tag/v5.0.0-rc.1",
-          "publishedDate": "2015-10-27T00:48:56Z"
         }
       ]
     },
@@ -1160,26 +1178,6 @@
           "publishedDate": "2016-03-08T22:47:11Z"
         },
         {
-          "version": "4.4.0-rc.4",
-          "url": "https://github.com/nodejs/undefined/releases/tag/v4.4.0-rc.4",
-          "publishedDate": "2016-03-03T16:01:56Z"
-        },
-        {
-          "version": "4.4.0-rc.3",
-          "url": "https://github.com/nodejs/undefined/releases/tag/v4.4.0-rc.3",
-          "publishedDate": "2016-03-01T22:15:14Z"
-        },
-        {
-          "version": "4.4.0-rc.2",
-          "url": "https://github.com/nodejs/undefined/releases/tag/v4.4.0-rc.2",
-          "publishedDate": "2016-02-23T00:17:25Z"
-        },
-        {
-          "version": "4.4.0-rc.1",
-          "url": "https://github.com/nodejs/undefined/releases/tag/v4.4.0-rc.1",
-          "publishedDate": "2016-02-18T16:58:57Z"
-        },
-        {
           "version": "4.3.2",
           "url": "https://github.com/nodejs/undefined/releases/tag/v4.3.2",
           "publishedDate": "2016-03-02T19:53:00Z"
@@ -1188,16 +1186,6 @@
           "version": "4.3.1",
           "url": "https://github.com/nodejs/undefined/releases/tag/v4.3.1",
           "publishedDate": "2016-02-16T21:50:51Z"
-        },
-        {
-          "version": "4.3.1-rc.2",
-          "url": "https://github.com/nodejs/undefined/releases/tag/v4.3.1-rc.2",
-          "publishedDate": "2016-02-13T02:08:20Z"
-        },
-        {
-          "version": "4.3.1-rc.1",
-          "url": "https://github.com/nodejs/undefined/releases/tag/v4.3.1-rc.1",
-          "publishedDate": "2016-02-11T23:54:20Z"
         },
         {
           "version": "4.3.0",
@@ -1220,11 +1208,6 @@
           "publishedDate": "2015-12-23T16:40:03Z"
         },
         {
-          "version": "4.2.4-rc.1",
-          "url": "https://github.com/nodejs/undefined/releases/tag/v4.2.4-rc.1",
-          "publishedDate": "2015-12-21T17:02:39Z"
-        },
-        {
           "version": "4.2.3",
           "url": "https://github.com/nodejs/undefined/releases/tag/v4.2.3",
           "publishedDate": "2015-12-03T21:45:31Z"
@@ -1233,16 +1216,6 @@
           "version": "4.2.2",
           "url": "https://github.com/nodejs/undefined/releases/tag/v4.2.2",
           "publishedDate": "2015-11-03T19:49:06Z"
-        },
-        {
-          "version": "4.2.2-rc.2",
-          "url": "https://github.com/nodejs/undefined/releases/tag/v4.2.2-rc.2",
-          "publishedDate": "2015-11-02T17:07:39Z"
-        },
-        {
-          "version": "4.2.2-rc.1",
-          "url": "https://github.com/nodejs/undefined/releases/tag/v4.2.2-rc.1",
-          "publishedDate": "2015-10-29T15:58:41Z"
         },
         {
           "version": "4.2.1",
@@ -1273,31 +1246,1526 @@
           "version": "4.0.0",
           "url": "https://github.com/nodejs/undefined/releases/tag/v4.0.0",
           "publishedDate": "2015-09-08T13:29:00Z"
+        }
+      ]
+    },
+    {
+      "title": "3.x",
+      "versions": [
+        {
+          "version": "3.3.1",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v3.3.1",
+          "publishedDate": "2015-09-15T07:55:40Z"
         },
         {
-          "version": "4.0.0-rc.5",
-          "url": "https://github.com/nodejs/undefined/releases/tag/v4.0.0-rc.5",
-          "publishedDate": "2015-09-08T07:55:58Z"
+          "version": "3.3.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v3.3.0",
+          "publishedDate": "2015-09-02T10:12:36Z"
         },
         {
-          "version": "4.0.0-rc.4",
-          "url": "https://github.com/nodejs/undefined/releases/tag/v4.0.0-rc.4",
-          "publishedDate": "2015-09-08T04:37:04Z"
+          "version": "3.2.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v3.2.0",
+          "publishedDate": "2015-08-25T05:19:51Z"
         },
         {
-          "version": "4.0.0-rc.3",
-          "url": "https://github.com/nodejs/undefined/releases/tag/v4.0.0-rc.3",
-          "publishedDate": "2015-09-08T01:44:43Z"
+          "version": "3.1.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v3.1.0",
+          "publishedDate": "2015-08-19T15:54:16Z"
         },
         {
-          "version": "4.0.0-rc.2",
-          "url": "https://github.com/nodejs/undefined/releases/tag/v4.0.0-rc.2",
-          "publishedDate": "2015-09-07T11:04:12Z"
+          "version": "3.0.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v3.0.0",
+          "publishedDate": "2015-08-04T21:07:41Z"
+        }
+      ]
+    },
+    {
+      "title": "2.x",
+      "versions": [
+        {
+          "version": "2.5.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v2.5.0",
+          "publishedDate": "2015-07-28T15:08:18Z"
         },
         {
-          "version": "4.0.0-rc.1",
-          "url": "https://github.com/nodejs/undefined/releases/tag/v4.0.0-rc.1",
-          "publishedDate": "2015-09-06T11:40:07Z"
+          "version": "2.4.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v2.4.0",
+          "publishedDate": "2015-07-17T23:23:26Z"
+        },
+        {
+          "version": "2.3.4",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v2.3.4",
+          "publishedDate": "2015-07-09T19:23:41Z"
+        },
+        {
+          "version": "2.3.3",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v2.3.3",
+          "publishedDate": "2015-07-04T00:10:40Z"
+        },
+        {
+          "version": "2.3.2",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v2.3.2",
+          "publishedDate": "2015-07-02T08:58:40Z"
+        },
+        {
+          "version": "2.3.1",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v2.3.1",
+          "publishedDate": "2015-06-23T05:32:41Z"
+        },
+        {
+          "version": "2.3.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v2.3.0",
+          "publishedDate": "2015-06-13T04:09:33Z"
+        },
+        {
+          "version": "2.2.1",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v2.2.1",
+          "publishedDate": "2015-06-01T03:21:15Z"
+        },
+        {
+          "version": "2.2.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v2.2.0",
+          "publishedDate": "2015-05-31T06:00:27Z"
+        },
+        {
+          "version": "2.1.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v2.1.0",
+          "publishedDate": "2015-05-24T02:08:57Z"
+        },
+        {
+          "version": "2.0.2",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v2.0.2",
+          "publishedDate": "2015-05-15T22:38:20Z"
+        },
+        {
+          "version": "2.0.1",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v2.0.1",
+          "publishedDate": "2015-05-07T21:12:47Z"
+        },
+        {
+          "version": "2.0.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v2.0.0",
+          "publishedDate": "2015-05-04T21:34:44Z"
+        }
+      ]
+    },
+    {
+      "title": "1.x",
+      "versions": [
+        {
+          "version": "1.8.4",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v1.8.4",
+          "publishedDate": "2015-07-09T21:11:10Z"
+        },
+        {
+          "version": "1.8.3",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v1.8.3",
+          "publishedDate": "2015-07-04T02:38:44Z"
+        },
+        {
+          "version": "1.8.2",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v1.8.2",
+          "publishedDate": "2015-05-18T02:28:13Z"
+        },
+        {
+          "version": "1.8.1",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v1.8.1",
+          "publishedDate": "2015-04-20T23:00:30Z"
+        },
+        {
+          "version": "1.7.1",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v1.7.1",
+          "publishedDate": "2015-04-14T12:58:04Z"
+        },
+        {
+          "version": "1.7.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v1.7.0",
+          "publishedDate": "2015-04-14T12:11:29Z"
+        },
+        {
+          "version": "1.6.4",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v1.6.4",
+          "publishedDate": "2015-04-06T14:09:20Z"
+        },
+        {
+          "version": "1.6.3",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v1.6.3",
+          "publishedDate": "2015-03-31T11:45:08Z"
+        },
+        {
+          "version": "1.6.2",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v1.6.2",
+          "publishedDate": "2015-03-23T05:26:28Z"
+        },
+        {
+          "version": "1.6.1",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v1.6.1",
+          "publishedDate": "2015-03-20T02:19:18Z"
+        },
+        {
+          "version": "1.6.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v1.6.0",
+          "publishedDate": "2015-03-19T18:12:05Z"
+        },
+        {
+          "version": "1.5.1",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v1.5.1",
+          "publishedDate": "2015-03-09T18:01:40Z"
+        },
+        {
+          "version": "1.5.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v1.5.0",
+          "publishedDate": "2015-03-06T21:59:02Z"
+        },
+        {
+          "version": "1.4.3",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v1.4.3",
+          "publishedDate": "2015-03-03T00:45:43Z"
+        },
+        {
+          "version": "1.4.2",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v1.4.2",
+          "publishedDate": "2015-02-28T21:12:58Z"
+        },
+        {
+          "version": "1.4.1",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v1.4.1",
+          "publishedDate": "2015-02-26T19:37:12Z"
+        },
+        {
+          "version": "1.3.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v1.3.0",
+          "publishedDate": "2015-02-20T09:27:42Z"
+        },
+        {
+          "version": "1.2.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v1.2.0",
+          "publishedDate": "2015-02-11T02:48:17Z"
+        },
+        {
+          "version": "1.1.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v1.1.0",
+          "publishedDate": "2015-02-03T22:13:21Z"
+        },
+        {
+          "version": "1.0.4",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v1.0.4",
+          "publishedDate": "2015-01-24T11:35:32Z"
+        },
+        {
+          "version": "1.0.3",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v1.0.3",
+          "publishedDate": "2015-01-20T01:35:53Z"
+        },
+        {
+          "version": "1.0.2",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v1.0.2",
+          "publishedDate": "2015-01-16T04:00:22Z"
+        },
+        {
+          "version": "1.0.1",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v1.0.1",
+          "publishedDate": "2015-01-14T04:31:29Z"
+        },
+        {
+          "version": "1.0.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v1.0.0",
+          "publishedDate": "2015-01-14T03:07:28Z"
+        }
+      ]
+    },
+    {
+      "title": "0.x",
+      "versions": [
+        {
+          "version": "0.12.18",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.12.18",
+          "publishedDate": "2016-12-21T12:14:28Z"
+        },
+        {
+          "version": "0.12.17",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.12.17",
+          "publishedDate": "2016-10-18T13:41:01Z"
+        },
+        {
+          "version": "0.12.16",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.12.16",
+          "publishedDate": "2016-09-27T17:30:02Z"
+        },
+        {
+          "version": "0.12.15",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.12.15",
+          "publishedDate": "2016-06-23T16:46:33Z"
+        },
+        {
+          "version": "0.12.14",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.12.14",
+          "publishedDate": "2016-05-06T12:59:34Z"
+        },
+        {
+          "version": "0.12.13",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.12.13",
+          "publishedDate": "2016-03-31T23:26:45Z"
+        },
+        {
+          "version": "0.12.12",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.12.12",
+          "publishedDate": "2016-03-08T12:29:45Z"
+        },
+        {
+          "version": "0.12.11",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.12.11",
+          "publishedDate": "2016-03-03T15:55:11Z"
+        },
+        {
+          "version": "0.12.10",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.12.10",
+          "publishedDate": "2016-02-09T16:41:18Z"
+        },
+        {
+          "version": "0.12.9",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.12.9",
+          "publishedDate": "2015-12-03T21:44:40Z"
+        },
+        {
+          "version": "0.12.8",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.12.8",
+          "publishedDate": "2015-11-24T23:21:52Z"
+        },
+        {
+          "version": "0.12.7",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.12.7",
+          "publishedDate": "2015-07-09T22:41:19Z"
+        },
+        {
+          "version": "0.12.6",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.12.6",
+          "publishedDate": "2015-07-04T00:33:28Z"
+        },
+        {
+          "version": "0.12.5",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.12.5",
+          "publishedDate": "2015-06-22T18:22:53Z"
+        },
+        {
+          "version": "0.12.4",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.12.4",
+          "publishedDate": "2015-05-23T03:06:54Z"
+        },
+        {
+          "version": "0.12.3",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.12.3",
+          "publishedDate": "2015-05-14T00:30:45Z"
+        },
+        {
+          "version": "0.12.2",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.12.2",
+          "publishedDate": "2015-03-31T22:13:01Z"
+        },
+        {
+          "version": "0.12.1",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.12.1",
+          "publishedDate": "2015-03-24T01:12:47Z"
+        },
+        {
+          "version": "0.12.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.12.0",
+          "publishedDate": "2015-02-06T20:04:23Z"
+        },
+        {
+          "version": "0.11.16",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.11.16",
+          "publishedDate": "2015-01-30T06:13:10Z"
+        },
+        {
+          "version": "0.11.15",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.11.15",
+          "publishedDate": "2015-01-20T21:22:17Z"
+        },
+        {
+          "version": "0.11.14",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.11.14",
+          "publishedDate": "2014-09-24T21:46:41Z"
+        },
+        {
+          "version": "0.11.13",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.11.13",
+          "publishedDate": "2014-05-02T00:49:51Z"
+        },
+        {
+          "version": "0.11.12",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.11.12",
+          "publishedDate": "2014-03-11T21:49:48Z"
+        },
+        {
+          "version": "0.11.11",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.11.11",
+          "publishedDate": "2014-01-29T01:29:56Z"
+        },
+        {
+          "version": "0.11.10",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.11.10",
+          "publishedDate": "2013-12-31T23:37:12Z"
+        },
+        {
+          "version": "0.11.9",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.11.9",
+          "publishedDate": "2013-11-21T00:03:31Z"
+        },
+        {
+          "version": "0.11.8",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.11.8",
+          "publishedDate": "2013-10-30T00:08:07Z"
+        },
+        {
+          "version": "0.11.7",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.11.7",
+          "publishedDate": "2013-09-04T21:01:26Z"
+        },
+        {
+          "version": "0.11.6",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.11.6",
+          "publishedDate": "2013-08-21T20:20:50Z"
+        },
+        {
+          "version": "0.11.5",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.11.5",
+          "publishedDate": "2013-08-06T21:41:21Z"
+        },
+        {
+          "version": "0.11.4",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.11.4",
+          "publishedDate": "2013-07-12T20:51:04Z"
+        },
+        {
+          "version": "0.11.3",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.11.3",
+          "publishedDate": "2013-06-26T18:15:10Z"
+        },
+        {
+          "version": "0.11.2",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.11.2",
+          "publishedDate": "2013-05-13T21:54:38Z"
+        },
+        {
+          "version": "0.11.1",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.11.1",
+          "publishedDate": "2013-04-19T15:32:32Z"
+        },
+        {
+          "version": "0.11.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.11.0",
+          "publishedDate": "2013-03-28T20:53:13Z"
+        },
+        {
+          "version": "0.10.48",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.48",
+          "publishedDate": "2016-10-18T13:32:51Z"
+        },
+        {
+          "version": "0.10.47",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.47",
+          "publishedDate": "2016-09-27T16:20:44Z"
+        },
+        {
+          "version": "0.10.46",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.46",
+          "publishedDate": "2016-06-23T15:21:29Z"
+        },
+        {
+          "version": "0.10.45",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.45",
+          "publishedDate": "2016-05-06T12:53:59Z"
+        },
+        {
+          "version": "0.10.44",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.44",
+          "publishedDate": "2016-03-31T23:50:40Z"
+        },
+        {
+          "version": "0.10.43",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.43",
+          "publishedDate": "2016-03-04T01:42:46Z"
+        },
+        {
+          "version": "0.10.42",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.42",
+          "publishedDate": "2016-02-09T16:40:30Z"
+        },
+        {
+          "version": "0.10.41",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.41",
+          "publishedDate": "2015-12-03T21:37:29Z"
+        },
+        {
+          "version": "0.10.40",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.40",
+          "publishedDate": "2015-07-09T21:19:36Z"
+        },
+        {
+          "version": "0.10.39",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.39",
+          "publishedDate": "2015-06-19T05:57:52Z"
+        },
+        {
+          "version": "0.10.38",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.38",
+          "publishedDate": "2015-03-23T19:23:33Z"
+        },
+        {
+          "version": "0.10.37",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.37",
+          "publishedDate": "2015-03-11T23:30:44Z"
+        },
+        {
+          "version": "0.10.36",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.36",
+          "publishedDate": "2015-01-26T18:28:23Z"
+        },
+        {
+          "version": "0.10.35",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.35",
+          "publishedDate": "2014-12-22T21:22:32Z"
+        },
+        {
+          "version": "0.10.34",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.34",
+          "publishedDate": "2014-12-17T21:21:23Z"
+        },
+        {
+          "version": "0.10.33",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.33",
+          "publishedDate": "2014-10-23T17:45:12Z"
+        },
+        {
+          "version": "0.10.32",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.32",
+          "publishedDate": "2014-09-16T22:47:52Z"
+        },
+        {
+          "version": "0.10.31",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.31",
+          "publishedDate": "2014-08-19T15:19:52Z"
+        },
+        {
+          "version": "0.10.30",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.30",
+          "publishedDate": "2014-07-31T17:24:06Z"
+        },
+        {
+          "version": "0.10.29",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.29",
+          "publishedDate": "2014-06-09T17:04:36Z"
+        },
+        {
+          "version": "0.10.28",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.28",
+          "publishedDate": "2014-05-02T00:47:47Z"
+        },
+        {
+          "version": "0.10.27",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.27",
+          "publishedDate": "2014-05-01T21:04:20Z"
+        },
+        {
+          "version": "0.10.26",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.26",
+          "publishedDate": "2014-02-18T23:34:29Z"
+        },
+        {
+          "version": "0.10.25",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.25",
+          "publishedDate": "2014-01-23T05:05:51Z"
+        },
+        {
+          "version": "0.10.24",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.24",
+          "publishedDate": "2013-12-18T23:49:45Z"
+        },
+        {
+          "version": "0.10.23",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.23",
+          "publishedDate": "2013-12-12T05:20:06Z"
+        },
+        {
+          "version": "0.10.22",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.22",
+          "publishedDate": "2013-11-12T20:22:12Z"
+        },
+        {
+          "version": "0.10.21",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.21",
+          "publishedDate": "2013-10-18T21:26:27Z"
+        },
+        {
+          "version": "0.10.20",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.20",
+          "publishedDate": "2013-09-30T20:52:48Z"
+        },
+        {
+          "version": "0.10.19",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.19",
+          "publishedDate": "2013-09-24T21:10:33Z"
+        },
+        {
+          "version": "0.10.18",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.18",
+          "publishedDate": "2013-09-04T17:51:53Z"
+        },
+        {
+          "version": "0.10.17",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.17",
+          "publishedDate": "2013-08-21T22:00:56Z"
+        },
+        {
+          "version": "0.10.16",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.16",
+          "publishedDate": "2013-08-16T15:32:38Z"
+        },
+        {
+          "version": "0.10.15",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.15",
+          "publishedDate": "2013-07-25T23:26:15Z"
+        },
+        {
+          "version": "0.10.14",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.14",
+          "publishedDate": "2013-07-25T18:49:01Z"
+        },
+        {
+          "version": "0.10.13",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.13",
+          "publishedDate": "2013-07-09T20:51:24Z"
+        },
+        {
+          "version": "0.10.12",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.12",
+          "publishedDate": "2013-06-18T16:50:53Z"
+        },
+        {
+          "version": "0.10.11",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.11",
+          "publishedDate": "2013-06-13T17:35:30Z"
+        },
+        {
+          "version": "0.10.10",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.10",
+          "publishedDate": "2013-06-04T19:13:46Z"
+        },
+        {
+          "version": "0.10.9",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.9",
+          "publishedDate": "2013-05-30T17:31:07Z"
+        },
+        {
+          "version": "0.10.8",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.8",
+          "publishedDate": "2013-05-24T22:06:33Z"
+        },
+        {
+          "version": "0.10.7",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.7",
+          "publishedDate": "2013-05-17T20:59:10Z"
+        },
+        {
+          "version": "0.10.6",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.6",
+          "publishedDate": "2013-05-14T20:51:43Z"
+        },
+        {
+          "version": "0.10.5",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.5",
+          "publishedDate": "2013-04-23T20:27:37Z"
+        },
+        {
+          "version": "0.10.4",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.4",
+          "publishedDate": "2013-04-11T16:39:16Z"
+        },
+        {
+          "version": "0.10.3",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.3",
+          "publishedDate": "2013-04-03T17:30:57Z"
+        },
+        {
+          "version": "0.10.2",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.2",
+          "publishedDate": "2013-03-28T19:07:52Z"
+        },
+        {
+          "version": "0.10.1",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.1",
+          "publishedDate": "2013-03-21T01:15:04Z"
+        },
+        {
+          "version": "0.10.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.10.0",
+          "publishedDate": "2013-03-11T00:36:28Z"
+        },
+        {
+          "version": "0.9.12",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.9.12",
+          "publishedDate": "2013-03-06T21:06:10Z"
+        },
+        {
+          "version": "0.9.11",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.9.11",
+          "publishedDate": "2013-03-01T18:59:24Z"
+        },
+        {
+          "version": "0.9.10",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.9.10",
+          "publishedDate": "2013-02-19T21:23:47Z"
+        },
+        {
+          "version": "0.9.9",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.9.9",
+          "publishedDate": "2013-02-07T17:11:11Z"
+        },
+        {
+          "version": "0.9.8",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.9.8",
+          "publishedDate": "2013-01-24T17:15:25Z"
+        },
+        {
+          "version": "0.9.7",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.9.7",
+          "publishedDate": "2013-01-18T19:04:11Z"
+        },
+        {
+          "version": "0.9.6",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.9.6",
+          "publishedDate": "2013-01-11T18:49:21Z"
+        },
+        {
+          "version": "0.9.5",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.9.5",
+          "publishedDate": "2012-12-30T00:54:24Z"
+        },
+        {
+          "version": "0.9.4",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.9.4",
+          "publishedDate": "2012-12-21T20:15:05Z"
+        },
+        {
+          "version": "0.9.3",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.9.3",
+          "publishedDate": "2012-10-24T16:21:44Z"
+        },
+        {
+          "version": "0.9.2",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.9.2",
+          "publishedDate": "2012-09-18T00:54:59Z"
+        },
+        {
+          "version": "0.9.1",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.9.1",
+          "publishedDate": "2012-08-28T22:27:49Z"
+        },
+        {
+          "version": "0.9.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.9.0",
+          "publishedDate": "2012-07-20T18:08:53Z"
+        },
+        {
+          "version": "0.8.28",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.8.28",
+          "publishedDate": "2014-07-31T18:17:31Z"
+        },
+        {
+          "version": "0.8.27",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.8.27",
+          "publishedDate": "2014-06-09T19:44:26Z"
+        },
+        {
+          "version": "0.8.26",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.8.26",
+          "publishedDate": "2013-10-18T17:44:03Z"
+        },
+        {
+          "version": "0.8.25",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.8.25",
+          "publishedDate": "2013-06-13T18:49:15Z"
+        },
+        {
+          "version": "0.8.24",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.8.24",
+          "publishedDate": "2013-06-03T23:53:09Z"
+        },
+        {
+          "version": "0.8.23",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.8.23",
+          "publishedDate": "2013-04-08T23:51:44Z"
+        },
+        {
+          "version": "0.8.22",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.8.22",
+          "publishedDate": "2013-03-06T23:47:29Z"
+        },
+        {
+          "version": "0.8.21",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.8.21",
+          "publishedDate": "2013-02-25T21:07:25Z"
+        },
+        {
+          "version": "0.8.20",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.8.20",
+          "publishedDate": "2013-02-15T18:50:11Z"
+        },
+        {
+          "version": "0.8.19",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.8.19",
+          "publishedDate": "2013-02-06T16:46:14Z"
+        },
+        {
+          "version": "0.8.18",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.8.18",
+          "publishedDate": "2013-01-18T20:15:41Z"
+        },
+        {
+          "version": "0.8.17",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.8.17",
+          "publishedDate": "2013-01-10T00:55:12Z"
+        },
+        {
+          "version": "0.8.16",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.8.16",
+          "publishedDate": "2012-12-13T19:49:39Z"
+        },
+        {
+          "version": "0.8.15",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.8.15",
+          "publishedDate": "2012-11-26T16:39:49Z"
+        },
+        {
+          "version": "0.8.14",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.8.14",
+          "publishedDate": "2012-10-25T20:49:32Z"
+        },
+        {
+          "version": "0.8.13",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.8.13",
+          "publishedDate": "2012-10-25T18:46:13Z"
+        },
+        {
+          "version": "0.8.12",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.8.12",
+          "publishedDate": "2012-10-11T21:34:11Z"
+        },
+        {
+          "version": "0.8.11",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.8.11",
+          "publishedDate": "2012-09-27T16:39:23Z"
+        },
+        {
+          "version": "0.8.10",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.8.10",
+          "publishedDate": "2012-09-25T20:48:15Z"
+        },
+        {
+          "version": "0.8.9",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.8.9",
+          "publishedDate": "2012-09-11T18:08:07Z"
+        },
+        {
+          "version": "0.8.8",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.8.8",
+          "publishedDate": "2012-08-22T18:03:20Z"
+        },
+        {
+          "version": "0.8.7",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.8.7",
+          "publishedDate": "2012-08-15T22:52:57Z"
+        },
+        {
+          "version": "0.8.6",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.8.6",
+          "publishedDate": "2012-08-07T18:56:58Z"
+        },
+        {
+          "version": "0.8.5",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.8.5",
+          "publishedDate": "2012-08-02T20:56:50Z"
+        },
+        {
+          "version": "0.8.4",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.8.4",
+          "publishedDate": "2012-07-25T00:06:58Z"
+        },
+        {
+          "version": "0.8.3",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.8.3",
+          "publishedDate": "2012-07-19T17:01:56Z"
+        },
+        {
+          "version": "0.8.2",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.8.2",
+          "publishedDate": "2012-07-07T22:15:17Z"
+        },
+        {
+          "version": "0.8.1",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.8.1",
+          "publishedDate": "2012-06-29T09:11:19Z"
+        },
+        {
+          "version": "0.8.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.8.0",
+          "publishedDate": "2012-06-25T14:37:20Z"
+        },
+        {
+          "version": "0.7.12",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.7.12",
+          "publishedDate": "2012-06-19T21:07:49Z"
+        },
+        {
+          "version": "0.7.11",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.7.11",
+          "publishedDate": "2012-06-15T19:10:43Z"
+        },
+        {
+          "version": "0.7.10",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.7.10",
+          "publishedDate": "2012-06-11T15:19:55Z"
+        },
+        {
+          "version": "0.7.9",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.7.9",
+          "publishedDate": "2012-05-29T03:03:03Z"
+        },
+        {
+          "version": "0.7.8",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.7.8",
+          "publishedDate": "2012-04-18T16:37:18Z"
+        },
+        {
+          "version": "0.7.7",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.7.7",
+          "publishedDate": "2012-03-30T03:20:23Z"
+        },
+        {
+          "version": "0.7.6",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.7.6",
+          "publishedDate": "2012-03-13T20:02:38Z"
+        },
+        {
+          "version": "0.7.5",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.7.5",
+          "publishedDate": "2012-02-23T22:12:39Z"
+        },
+        {
+          "version": "0.7.4",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.7.4",
+          "publishedDate": "2012-02-14T22:34:43Z"
+        },
+        {
+          "version": "0.7.3",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.7.3",
+          "publishedDate": "2012-02-07T23:42:33Z"
+        },
+        {
+          "version": "0.7.2",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.7.2",
+          "publishedDate": "2012-02-01T19:37:12Z"
+        },
+        {
+          "version": "0.7.1",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.7.1",
+          "publishedDate": "2012-01-24T01:26:20Z"
+        },
+        {
+          "version": "0.7.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.7.0",
+          "publishedDate": "2012-01-17T03:00:41Z"
+        },
+        {
+          "version": "0.6.21",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.6.21",
+          "publishedDate": "2012-08-03T21:39:24Z"
+        },
+        {
+          "version": "0.6.20",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.6.20",
+          "publishedDate": "2012-07-10T23:25:12Z"
+        },
+        {
+          "version": "0.6.19",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.6.19",
+          "publishedDate": "2012-06-06T00:46:27Z"
+        },
+        {
+          "version": "0.6.18",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.6.18",
+          "publishedDate": "2012-05-15T00:30:00Z"
+        },
+        {
+          "version": "0.6.17",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.6.17",
+          "publishedDate": "2012-05-04T20:12:52Z"
+        },
+        {
+          "version": "0.6.16",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.6.16",
+          "publishedDate": "2012-04-30T20:09:50Z"
+        },
+        {
+          "version": "0.6.15",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.6.15",
+          "publishedDate": "2012-04-09T16:03:00Z"
+        },
+        {
+          "version": "0.6.14",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.6.14",
+          "publishedDate": "2012-03-23T15:01:22Z"
+        },
+        {
+          "version": "0.6.13",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.6.13",
+          "publishedDate": "2012-03-15T15:45:35Z"
+        },
+        {
+          "version": "0.6.12",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.6.12",
+          "publishedDate": "2012-03-02T20:36:45Z"
+        },
+        {
+          "version": "0.6.11",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.6.11",
+          "publishedDate": "2012-02-17T20:39:45Z"
+        },
+        {
+          "version": "0.6.10",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.6.10",
+          "publishedDate": "2012-02-03T00:56:42Z"
+        },
+        {
+          "version": "0.6.9",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.6.9",
+          "publishedDate": "2012-01-28T00:32:19Z"
+        },
+        {
+          "version": "0.6.8",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.6.8",
+          "publishedDate": "2012-01-20T02:29:43Z"
+        },
+        {
+          "version": "0.6.7",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.6.7",
+          "publishedDate": "2012-01-07T00:31:03Z"
+        },
+        {
+          "version": "0.6.6",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.6.6",
+          "publishedDate": "2011-12-15T18:55:52Z"
+        },
+        {
+          "version": "0.6.5",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.6.5",
+          "publishedDate": "2011-12-04T08:10:23Z"
+        },
+        {
+          "version": "0.6.4",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.6.4",
+          "publishedDate": "2011-12-02T01:31:41Z"
+        },
+        {
+          "version": "0.6.3",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.6.3",
+          "publishedDate": "2011-11-25T10:23:28Z"
+        },
+        {
+          "version": "0.6.2",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.6.2",
+          "publishedDate": "2011-11-18T22:43:03Z"
+        },
+        {
+          "version": "0.6.1",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.6.1",
+          "publishedDate": "2011-11-11T22:56:27Z"
+        },
+        {
+          "version": "0.6.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.6.0",
+          "publishedDate": "2011-11-05T06:48:57Z"
+        },
+        {
+          "version": "0.5.10",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.5.10",
+          "publishedDate": "2011-10-22T01:46:42Z"
+        },
+        {
+          "version": "0.5.9",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.5.9",
+          "publishedDate": "2011-10-11T01:18:56Z"
+        },
+        {
+          "version": "0.5.8",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.5.8",
+          "publishedDate": "2011-09-30T20:59:44Z"
+        },
+        {
+          "version": "0.5.7",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.5.7",
+          "publishedDate": "2011-09-17T00:54:20Z"
+        },
+        {
+          "version": "0.5.6",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.5.6",
+          "publishedDate": "2011-09-09T22:29:35Z"
+        },
+        {
+          "version": "0.5.5",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.5.5",
+          "publishedDate": "2011-08-26T21:24:18Z"
+        },
+        {
+          "version": "0.5.4",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.5.4",
+          "publishedDate": "2011-08-12T08:17:05Z"
+        },
+        {
+          "version": "0.5.3",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.5.3",
+          "publishedDate": "2011-08-02T07:17:41Z"
+        },
+        {
+          "version": "0.5.2",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.5.2",
+          "publishedDate": "2011-07-22T10:55:26Z"
+        },
+        {
+          "version": "0.5.1",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.5.1",
+          "publishedDate": "2011-07-14T23:10:36Z"
+        },
+        {
+          "version": "0.5.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.5.0",
+          "publishedDate": "2011-07-06T01:45:03Z"
+        },
+        {
+          "version": "0.4.12",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.4.12",
+          "publishedDate": "2011-09-15T23:46:39Z"
+        },
+        {
+          "version": "0.4.11",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.4.11",
+          "publishedDate": "2011-08-18T01:18:10Z"
+        },
+        {
+          "version": "0.4.10",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.4.10",
+          "publishedDate": "2011-07-20T06:51:42Z"
+        },
+        {
+          "version": "0.4.9",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.4.9",
+          "publishedDate": "2011-06-29T11:24:02Z"
+        },
+        {
+          "version": "0.4.8",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.4.8",
+          "publishedDate": "2011-05-21T02:40:06Z"
+        },
+        {
+          "version": "0.4.7",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.4.7",
+          "publishedDate": "2011-04-23T00:06:25Z"
+        },
+        {
+          "version": "0.4.6",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.4.6",
+          "publishedDate": "2011-04-14T04:20:05Z"
+        },
+        {
+          "version": "0.4.5",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.4.5",
+          "publishedDate": "2011-04-02T01:00:43Z"
+        },
+        {
+          "version": "0.4.4",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.4.4",
+          "publishedDate": "2011-03-26T08:48:02Z"
+        },
+        {
+          "version": "0.4.3",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.4.3",
+          "publishedDate": "2011-03-18T21:25:20Z"
+        },
+        {
+          "version": "0.4.2",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.4.2",
+          "publishedDate": "2011-03-03T06:10:26Z"
+        },
+        {
+          "version": "0.4.1",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.4.1",
+          "publishedDate": "2011-02-20T02:45:34Z"
+        },
+        {
+          "version": "0.4.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.4.0",
+          "publishedDate": "2011-02-10T10:40:11Z"
+        },
+        {
+          "version": "0.3.8",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.3.8",
+          "publishedDate": "2011-02-05T03:35:43Z"
+        },
+        {
+          "version": "0.3.7",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.3.7",
+          "publishedDate": "2011-01-28T04:07:54Z"
+        },
+        {
+          "version": "0.3.6",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.3.6",
+          "publishedDate": "2011-01-22T02:18:37Z"
+        },
+        {
+          "version": "0.3.5",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.3.5",
+          "publishedDate": "2011-01-16T23:12:28Z"
+        },
+        {
+          "version": "0.3.4",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.3.4",
+          "publishedDate": "2011-01-08T23:46:07Z"
+        },
+        {
+          "version": "0.3.3",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.3.3",
+          "publishedDate": "2011-01-03T02:33:49Z"
+        },
+        {
+          "version": "0.3.2",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.3.2",
+          "publishedDate": "2010-12-17T17:51:48Z"
+        },
+        {
+          "version": "0.3.1",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.3.1",
+          "publishedDate": "2010-11-17T03:17:44Z"
+        },
+        {
+          "version": "0.3.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.3.0",
+          "publishedDate": "2010-10-23T23:00:15Z"
+        },
+        {
+          "version": "0.2.6",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.2.6",
+          "publishedDate": "2010-12-31T05:00:01Z"
+        },
+        {
+          "version": "0.2.5",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.2.5",
+          "publishedDate": "2010-11-17T05:46:59Z"
+        },
+        {
+          "version": "0.2.4",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.2.4",
+          "publishedDate": "2010-10-24T21:45:39Z"
+        },
+        {
+          "version": "0.2.3",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.2.3",
+          "publishedDate": "2010-10-02T13:05:56Z"
+        },
+        {
+          "version": "0.2.2",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.2.2",
+          "publishedDate": "2010-09-17T18:34:16Z"
+        },
+        {
+          "version": "0.2.1",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.2.1",
+          "publishedDate": "2010-09-10T20:52:33Z"
+        },
+        {
+          "version": "0.2.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.2.0",
+          "publishedDate": "2010-08-20T08:53:08Z"
+        },
+        {
+          "version": "0.1.104",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.104",
+          "publishedDate": "2010-08-13T16:02:10Z"
+        },
+        {
+          "version": "0.1.103",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.103",
+          "publishedDate": "2010-08-04T19:04:12Z"
+        },
+        {
+          "version": "0.1.102",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.102",
+          "publishedDate": "2010-07-26T06:39:58Z"
+        },
+        {
+          "version": "0.1.101",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.101",
+          "publishedDate": "2010-07-17T04:50:26Z"
+        },
+        {
+          "version": "0.1.100",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.100",
+          "publishedDate": "2010-07-03T06:37:46Z"
+        },
+        {
+          "version": "0.1.99",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.99",
+          "publishedDate": "2010-06-21T20:34:10Z"
+        },
+        {
+          "version": "0.1.98",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.98",
+          "publishedDate": "2010-06-11T19:58:14Z"
+        },
+        {
+          "version": "0.1.97",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.97",
+          "publishedDate": "2010-05-30T02:37:57Z"
+        },
+        {
+          "version": "0.1.96",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.96",
+          "publishedDate": "2010-05-21T09:55:38Z"
+        },
+        {
+          "version": "0.1.95",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.95",
+          "publishedDate": "2010-05-13T23:24:28Z"
+        },
+        {
+          "version": "0.1.94",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.94",
+          "publishedDate": "2010-05-06T17:39:27Z"
+        },
+        {
+          "version": "0.1.93",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.93",
+          "publishedDate": "2010-04-30T00:44:51Z"
+        },
+        {
+          "version": "0.1.92",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.92",
+          "publishedDate": "2010-04-23T23:37:14Z"
+        },
+        {
+          "version": "0.1.91",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.91",
+          "publishedDate": "2010-04-15T09:09:51Z"
+        },
+        {
+          "version": "0.1.90",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.90",
+          "publishedDate": "2010-04-10T00:05:03Z"
+        },
+        {
+          "version": "0.1.33",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.33",
+          "publishedDate": "2010-03-20T04:07:03Z"
+        },
+        {
+          "version": "0.1.32",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.32",
+          "publishedDate": "2010-03-13T02:50:46Z"
+        },
+        {
+          "version": "0.1.31",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.31",
+          "publishedDate": "2010-03-06T01:55:13Z"
+        },
+        {
+          "version": "0.1.30",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.30",
+          "publishedDate": "2010-02-22T09:31:14Z"
+        },
+        {
+          "version": "0.1.29",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.29",
+          "publishedDate": "2010-02-17T23:12:42Z"
+        },
+        {
+          "version": "0.1.28",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.28",
+          "publishedDate": "2010-02-09T21:20:20Z"
+        },
+        {
+          "version": "0.1.27",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.27",
+          "publishedDate": "2010-02-03T20:20:27Z"
+        },
+        {
+          "version": "0.1.26",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.26",
+          "publishedDate": "2010-01-20T19:28:32Z"
+        },
+        {
+          "version": "0.1.25",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.25",
+          "publishedDate": "2010-01-09T10:11:54Z"
+        },
+        {
+          "version": "0.1.24",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.24",
+          "publishedDate": "2009-12-31T08:30:53Z"
+        },
+        {
+          "version": "0.1.23",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.23",
+          "publishedDate": "2009-12-22T19:31:45Z"
+        },
+        {
+          "version": "0.1.22",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.22",
+          "publishedDate": "2009-12-19T00:24:59Z"
+        },
+        {
+          "version": "0.1.21",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.21",
+          "publishedDate": "2009-12-06T16:59:37Z"
+        },
+        {
+          "version": "0.1.20",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.20",
+          "publishedDate": "2009-11-28T16:04:42Z"
+        },
+        {
+          "version": "0.1.19",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.19",
+          "publishedDate": "2009-11-28T00:49:11Z"
+        },
+        {
+          "version": "0.1.18",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.18",
+          "publishedDate": "2009-11-17T14:05:10Z"
+        },
+        {
+          "version": "0.1.17",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.17",
+          "publishedDate": "2009-11-07T19:20:30Z"
+        },
+        {
+          "version": "0.1.16",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.16",
+          "publishedDate": "2009-11-03T12:48:02Z"
+        },
+        {
+          "version": "0.1.15",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.15",
+          "publishedDate": "2009-10-28T15:36:44Z"
+        },
+        {
+          "version": "0.1.14",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.14",
+          "publishedDate": "2009-10-09T16:15:16Z"
+        },
+        {
+          "version": "0.1.13",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.13",
+          "publishedDate": "2009-09-30T21:21:25Z"
+        },
+        {
+          "version": "0.1.12",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.12",
+          "publishedDate": "2009-09-24T11:51:10Z"
+        },
+        {
+          "version": "0.1.11",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.11",
+          "publishedDate": "2009-09-18T16:32:25Z"
+        },
+        {
+          "version": "0.1.10",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.10",
+          "publishedDate": "2009-09-11T19:06:50Z"
+        },
+        {
+          "version": "0.1.9",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.9",
+          "publishedDate": "2009-09-05T12:47:56Z"
+        },
+        {
+          "version": "0.1.8",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.8",
+          "publishedDate": "2009-09-04T10:35:30Z"
+        },
+        {
+          "version": "0.1.7",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.7",
+          "publishedDate": "2009-08-27T10:31:52Z"
+        },
+        {
+          "version": "0.1.6",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.6",
+          "publishedDate": "2009-08-22T11:07:31Z"
+        },
+        {
+          "version": "0.1.5",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.5",
+          "publishedDate": "2009-08-21T16:03:15Z"
+        },
+        {
+          "version": "0.1.4",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.4",
+          "publishedDate": "2009-08-13T13:52:55Z"
+        },
+        {
+          "version": "0.1.3",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.3",
+          "publishedDate": "2009-08-06T12:01:26Z"
+        },
+        {
+          "version": "0.1.2",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.2",
+          "publishedDate": "2009-08-01T12:56:45Z"
+        },
+        {
+          "version": "0.1.1",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.1",
+          "publishedDate": "2009-07-27T13:48:16Z"
+        },
+        {
+          "version": "0.1.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.1.0",
+          "publishedDate": "2009-06-30T13:18:05Z"
+        },
+        {
+          "version": "0.0.6",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.0.6",
+          "publishedDate": "2009-06-24T14:43:37Z"
+        },
+        {
+          "version": "0.0.5",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.0.5",
+          "publishedDate": "2009-06-18T21:22:31Z"
+        },
+        {
+          "version": "0.0.4",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.0.4",
+          "publishedDate": "2009-06-12T15:37:43Z"
+        },
+        {
+          "version": "0.0.3",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.0.3",
+          "publishedDate": "2009-06-11T11:54:03Z"
+        },
+        {
+          "version": "0.0.2",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.0.2",
+          "publishedDate": "2009-05-31T12:25:07Z"
+        },
+        {
+          "version": "0.0.1",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v0.0.1",
+          "publishedDate": "2009-05-27T14:29:55Z"
+        },
+        {
+          "version": "heads/tags/0.5.6",
+          "url": "https://github.com/nodejs/undefined/releases/tag/heads/tags/v0.5.6",
+          "publishedDate": "2011-11-25T12:07:22Z"
         }
       ]
     }

@@ -2,6 +2,7 @@ const octokit = require('@octokit/rest')({
     auth: '453c4b0064eb3e8ce759c224bf5a0e860c1ba384'
 })
 const Promise = require("bluebird");
+const _ = require('lodash');
 
 async function githubUpdate(productData) {
     let pollingConfig = productData.polling;
@@ -9,36 +10,32 @@ async function githubUpdate(productData) {
         .then(tags => {
             return Promise.each(tags, function(tag) {
                 console.log("Evaluating " + productData.name + " tag " + tag.name);
-                console.log(tag);
                 return Promise.each(pollingConfig.regexMap, function (regexSet) {
                     var regex = RegExp(regexSet.regex.test);
                     if (regex.test(tag.name)) {
                         let version = tag.name.replace(regex, regexSet.regex.parse);
-                        let versionChain = regexSet.version;
+                        let versionChainName = regexSet.version;
 
-                        return Promise.each(productData.version_chains, function (existingVersionChain) {
-                            if (existingVersionChain.title === versionChain) {
-                                let match = false;
-                                existingVersionChain.versions.forEach(function (existingVersion) {
-                                    if (existingVersion.version === version) {
-                                        match = true;
-                                    }
-                                })
-                                if (!match) {
-                                    console.log("Adding version " + version + "...");
-                                    return octokit.repos.getCommit({ owner: pollingConfig.owner, repo: pollingConfig.project, commit_sha: tag.commit.sha})
-                                        .then(commit => {
-                                            console.log(commit);
-                                            let verObj = {};
-                                            verObj.version = version;
-                                            verObj.url = "https://github.com/" + pollingConfig.owner + "/" + pollingConfig.repo + "/releases/tag/" + tag.name;
-                                            verObj.publishedDate = commit.data.commit.committer.date;
-                                            existingVersionChain.versions.push(verObj);
-                                            return Promise.delay(500);
-                                        });
-                                }
-                            }
-                        });
+                        let versionChain = _.find(productData.version_chains, {'title': versionChainName});
+                        if (!versionChain) {
+                            versionChain = {};
+                            versionChain.title = versionChainName;
+                            versionChain.versions = [];
+                            productData.version_chains.push(versionChain);
+                        }
+
+                        if (!_.find(versionChain.versions, {'version': version})) {
+                            console.log("Adding version " + version + "...");
+                            return octokit.repos.getCommit({ owner: pollingConfig.owner, repo: pollingConfig.project, commit_sha: tag.commit.sha})
+                                .then(commit => {
+                                    let verObj = {};
+                                    verObj.version = version;
+                                    verObj.url = "https://github.com/" + pollingConfig.owner + "/" + pollingConfig.repo + "/releases/tag/" + tag.name;
+                                    verObj.publishedDate = commit.data.commit.committer.date;
+                                    versionChain.versions.push(verObj);
+                                    return Promise.delay(500);
+                                });
+                        }
                     }
                 });
             })

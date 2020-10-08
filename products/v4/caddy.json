@@ -1,0 +1,22 @@
+{
+  "name": "Caddy",
+  "id": "caddy",
+  "links": [
+    {
+      "title": "GitHub",
+      "url": "https://github.com/mholt/caddy"
+    },
+    {
+      "title": "Homepage",
+      "url": "https://caddyserver.com"
+    }
+  ],
+  "polling": [
+    {
+      "method": "github",
+      "owner": "mholt",
+      "project": "caddy",
+      "regex":  "(v)(\\d+).(\\d+).(\\d+)"
+    }
+  ]
+}

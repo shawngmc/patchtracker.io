@@ -13,24 +13,10 @@
   ],
   "polling": [
     {
-      "version": "3.x",
       "method": "github",
       "owner": "ruby",
       "project": "ruby",
-      "regex": {
-        "test": "(v)(3)_(\\d+)_(\\d+)$",
-        "parse": "$2.$3.$4"
-      }
-    },
-    {
-      "version": "2.x",
-      "method": "github",
-      "owner": "ruby",
-      "project": "ruby",
-      "regex": {
-        "test": "(v)(2)_(\\d+)_(\\d+)$",
-        "parse": "$2.$3.$4"
-      }
+      "regex":  "(v)(\\d+)_(\\d+)_(\\d+)"
     }
   ]
 }

@@ -1,0 +1,82 @@
+[
+  {
+    "version": "7.0.106",
+    "publishedDate": "2020-09-22T17:45:50.000Z",
+    "major": 7,
+    "minor": 0,
+    "patch": 106,
+    "prerelease": []
+  },
+  {
+    "version": "8.5.58",
+    "publishedDate": "2020-09-16T08:00:00.000Z",
+    "major": 8,
+    "minor": 5,
+    "patch": 58,
+    "prerelease": []
+  },
+  {
+    "version": "9.0.38",
+    "publishedDate": "2020-09-16T07:44:48.000Z",
+    "major": 9,
+    "minor": 0,
+    "patch": 38,
+    "prerelease": []
+  },
+  {
+    "version": "7.0.105",
+    "publishedDate": "2020-07-09T08:03:29.000Z",
+    "major": 7,
+    "minor": 0,
+    "patch": 105,
+    "prerelease": []
+  },
+  {
+    "version": "8.5.57",
+    "publishedDate": "2020-07-06T20:10:04.000Z",
+    "major": 8,
+    "minor": 5,
+    "patch": 57,
+    "prerelease": []
+  },
+  {
+    "version": "9.0.37",
+    "publishedDate": "2020-07-06T19:55:31.000Z",
+    "major": 9,
+    "minor": 0,
+    "patch": 37,
+    "prerelease": []
+  },
+  {
+    "version": "8.5.56",
+    "publishedDate": "2020-06-08T20:56:21.000Z",
+    "major": 8,
+    "minor": 5,
+    "patch": 56,
+    "prerelease": []
+  },
+  {
+    "version": "9.0.36",
+    "publishedDate": "2020-06-08T20:31:03.000Z",
+    "major": 9,
+    "minor": 0,
+    "patch": 36,
+    "prerelease": []
+  },
+  {
+    "version": "8.5.55",
+    "publishedDate": "2020-05-12T15:26:49.000Z",
+    "major": 8,
+    "minor": 5,
+    "patch": 55,
+    "prerelease": []
+  },
+  {
+    "version": "9.0.34",
+    "publishedDate": "2020-05-12T15:09:17.000Z",
+    "major": 9,
+    "minor": 0,
+    "patch": 34,
+    "prerelease": []
+  }
+]

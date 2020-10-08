@@ -2,21 +2,19 @@ const updateVersions = require('../operations/updateVersions.js');
 const Promise = require("bluebird");
 const fs = Promise.promisifyAll(require('fs'));
 const _ = require('lodash');
-const YAML = require('yaml');
-const { fdatasync } = require('fs');
 
-let pFiles = fs.readdirSync(__dirname + '/../../products/');
+let pFiles = fs.readdirSync(__dirname + '/../../products/current/');
 let productFiles = _.filter(pFiles, function(pFile) {
     return pFile.toLowerCase().endsWith(".json");
 })
 
 Promise.each(productFiles, async function(productFile) {
-    let rawProduct = await fs.readFileAsync(__dirname + '/../../products/' + productFile, 'utf-8')
+    let rawProduct = await fs.readFileAsync(__dirname + '/../../products/current/' + productFile, 'utf-8')
     let product = JSON.parse(rawProduct);
 
     console.log("Reading known versions for " + product.id + "...");
     let versionFilePath = __dirname + '/../../versions/' + product.id + ".json";
-    let versions = {};
+    let versions = [];
     if (fs.existsSync(versionFilePath)) {
         try {
             let rawVersions = await fs.readFileAsync(versionFilePath, 'utf-8');

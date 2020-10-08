@@ -1,0 +1,36 @@
+{
+  "name": "Ruby",
+  "id": "ruby",
+  "links": [
+    {
+      "title": "GitHub",
+      "url": "https://github.com/ruby/ruby"
+    },
+    {
+      "title": "Homepage",
+      "url": "https://www.ruby-lang.org/en/"
+    }
+  ],
+  "polling": [
+    {
+      "version": "3.x",
+      "method": "github",
+      "owner": "ruby",
+      "project": "ruby",
+      "regex": {
+        "test": "(v)(3)_(\\d+)_(\\d+)$",
+        "parse": "$2.$3.$4"
+      }
+    },
+    {
+      "version": "2.x",
+      "method": "github",
+      "owner": "ruby",
+      "project": "ruby",
+      "regex": {
+        "test": "(v)(2)_(\\d+)_(\\d+)$",
+        "parse": "$2.$3.$4"
+      }
+    }
+  ]
+}

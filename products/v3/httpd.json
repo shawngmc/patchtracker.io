@@ -1,0 +1,21 @@
+{
+  "name": "Apache HTTPd",
+  "id": "httpd",
+  "links": [
+    {
+      "title": "Homepage",
+      "url": "https://httpd.apache.org"
+    }
+  ],
+  "polling": [
+    {
+      "version": "2.4.x",
+      "method": "rss",
+      "feedURL": "https://lists.apache.org/api/atom.lua?list=announce@httpd.apache.org",
+      "regex": {
+        "test": "(\\[ANNOUNCEMENT\\] Apache HTTP Server )(10).(\\d+).(\\d+)( )(.+)",
+        "parse": "$2.$3.$4"
+      }
+    }
+  ]
+}

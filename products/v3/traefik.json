@@ -1,0 +1,36 @@
+{
+  "name": "Traefik",
+  "id": "traefik",
+  "links": [
+    {
+      "title": "GitHub",
+      "url": "https://github.com/containous/traefik"
+    },
+    {
+      "title": "Homepage",
+      "url": "https://traefik.io"
+    }
+  ],
+  "polling": [
+    {
+      "version": "2.x",
+      "method": "github",
+      "owner": "containous",
+      "project": "traefik",
+      "regex": {
+        "test": "(v)(2).(\\d+).(\\d+)$",
+        "parse": "$2.$3.$4"
+      }
+    },
+    {
+      "version": "1.x",
+      "method": "github",
+      "owner": "containous",
+      "project": "traefik",
+      "regex": {
+        "test": "(v)(1).(\\d+).(\\d+)$",
+        "parse": "$2.$3.$4"
+      }
+    }
+  ]
+}

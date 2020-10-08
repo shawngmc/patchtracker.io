@@ -1,40 +1,33 @@
 const _ = require('lodash');
 const Parser = require('rss-parser');
 
-async function updateProduct(productData, versions) {
-    if (!versions) {
-        versions = {};
-    }
-
-    if (!versions.version_chains) {
-        versions.version_chains = []
-    }
+async function updateProductVersionChain(name, versionDescriptor, productVersions) {
+    let logContext = "[" + name + "-" + versionDescriptor.version + "] ";
+    console.log(logContext + "Pulling GitHub project data...");
 
     let parser = new Parser();
-    let pollingConfig = productData.polling;
 
     // Get the RSS file
-    let feed = await parser.parseURL(pollingConfig.feedURL);
+    let feed = await parser.parseURL(versionDescriptor.feedURL);
 
-    feed.items.forEach(item => {
-        console.log("Evaluating post title " + item.title + "...");
-        pollingConfig.regexMap.forEach(regexSet => {
-            var regex = RegExp(regexSet.regex.test);
+    for (const item of feed.items) {
+        console.log(logContext + "Evaluating post '" + item.title + "'...");
+            var regex = RegExp(versionDescriptor.regex.test);
             if (regex.test(item.title)) {
-                let version = item.title.replace(regex, regexSet.regex.parse);
-                let versionChainName = regexSet.version;
-                console.log("Found version " + version + "...");
+                let version = item.title.replace(regex, versionDescriptor.regex.parse);
+                let versionChainName = versionDescriptor.version;
+                console.log(logContext + "Found version " + version + "...");
 
-                let versionChain = _.find(versions.version_chains, { 'title': versionChainName });
+                let versionChain = _.find(productVersions.version_chains, { 'title': versionChainName });
                 if (!versionChain) {
                     versionChain = {};
                     versionChain.title = versionChainName;
                     versionChain.versions = [];
-                    versions.version_chains.push(versionChain);
+                    productVersions.version_chains.push(versionChain);
                 }
 
                 if (!_.find(versionChain.versions, { 'version': version })) {
-                    console.log("Adding version " + version + "...");
+                    console.log(logContext + "Adding version " + version + "...");
                     let verObj = {
                         version: version,
                         url: item.url,
@@ -43,11 +36,11 @@ async function updateProduct(productData, versions) {
                     versionChain.versions.push(verObj);
                 }
             };
-        });
-    });
-    return versions;
+    };
+
+    return productVersions;
 }
 
 module.exports = {
-    updateProduct: updateProduct
+    updateProductVersionChain: updateProductVersionChain
 }

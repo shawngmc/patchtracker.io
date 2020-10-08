@@ -1,4 +1,4 @@
-const updateVersions = require('../polling/updateversions.js');
+const updateVersions = require('../operations/updateVersions.js');
 const Promise = require("bluebird");
 const fs = Promise.promisifyAll(require('fs'));
 const _ = require('lodash');

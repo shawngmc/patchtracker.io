@@ -5,22 +5,13 @@
 // - Make version_chain and polling regex skeletons
 // - Write object
 const fs = require('fs');
+const config = require('../utils/config.js');
+const YAML = require('yaml')
 
 const octokit = require('@octokit/rest')({
-  auth: '453c4b0064eb3e8ce759c224bf5a0e860c1ba384'
+  auth: config.github.api_key
 })
 const prompts = require('prompts');
-
-async function listGithubTags(owner, project) {
-  return octokit.paginate('GET /repos/:owner/:repo/releases', { owner: owner, repo: project })
-      .then(releases => {
-          releases.forEach(function (release) {
-            console.log( "Tag name: " + release.tag_name);
-          })
-      })
-}
-
-
  
 let questions = [
   {
@@ -69,7 +60,7 @@ let questions = [
     "version_chains": []
   };
   
-  fs.writeFileSync('./products/' + response.name.toLowerCase() + '.json', JSON.stringify(baseProduct, null, 2));
+  fs.writeFileSync('./products/' + response.name.toLowerCase() + '.yaml', YAML.stringify(baseProduct, null, 2));
 })();
 
 

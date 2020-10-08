@@ -1,0 +1,42 @@
+{
+  "name": "Caddy",
+  "id": "caddy",
+  "links": [
+    {
+      "title": "GitHub",
+      "url": "https://github.com/mholt/caddy"
+    },
+    {
+      "title": "Homepage",
+      "url": "https://caddyserver.com"
+    }
+  ],
+  "polling": {
+    "method": "github",
+    "owner": "mholt",
+    "project": "caddy",
+    "regexMap": [
+      {
+        "version": "2.x.y",
+        "regex": {
+          "test": "(v)(2).(\\d+).(\\d+)$",
+          "parse": "$2.$3.$4"
+        }
+      },
+      {
+        "version": "1.x.y",
+        "regex": {
+          "test": "(v)(1).(\\d+).(\\d+)$",
+          "parse": "$2.$3.$4"
+        }
+      },
+      {
+        "version": "0.x.y",
+        "regex": {
+          "test": "(v)(0).(\\d+).(\\d+)",
+          "parse": "$2.$3.$4"
+        }
+      }
+    ]
+  }
+}

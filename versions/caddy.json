@@ -1,54 +1,62 @@
 {
-  "name": "Caddy",
-  "links": [
-    {
-      "title": "GitHub",
-      "url": "https://github.com/mholt/caddy"
-    },
-    {
-      "title": "Homepage",
-      "url": "https://caddyserver.com"
-    }
-  ],
-  "polling": {
-    "method": "github",
-    "owner": "mholt",
-    "project": "caddy",
-    "regexMap": [
-      {
-        "version": "1.x.y",
-        "regex": {
-          "test": "(v)(1).(\\d+).(\\d+)",
-          "parse": "$2.$3.$4"
-        }
-      },
-      {
-        "version": "0.x.y",
-        "regex": {
-          "test": "(v)(0).(\\d+).(\\d+)",
-          "parse": "$2.$3.$4"
-        }
-      }
-    ]
-  },
   "version_chains": [
+    {
+      "title": "2.x.y",
+      "versions": [
+        {
+          "version": "2.2.0",
+          "url": "https://github.com/mholt/undefined/releases/tag/v2.2.0",
+          "publishedDate": "2020-09-23T02:10:34Z"
+        },
+        {
+          "version": "2.1.1",
+          "url": "https://github.com/mholt/undefined/releases/tag/v2.1.1",
+          "publishedDate": "2020-06-30T17:53:29Z"
+        },
+        {
+          "version": "2.1.0",
+          "url": "https://github.com/mholt/undefined/releases/tag/v2.1.0",
+          "publishedDate": "2020-06-26T18:19:51Z"
+        },
+        {
+          "version": "2.0.0",
+          "url": "https://github.com/mholt/undefined/releases/tag/v2.0.0",
+          "publishedDate": "2020-05-02T23:24:54Z"
+        }
+      ]
+    },
     {
       "title": "1.x.y",
       "versions": [
         {
+          "version": "1.0.5",
+          "url": "https://github.com/mholt/undefined/releases/tag/v1.0.5",
+          "publishedDate": "2020-01-15T16:57:41Z"
+        },
+        {
+          "version": "1.0.4",
+          "url": "https://github.com/mholt/undefined/releases/tag/v1.0.4",
+          "publishedDate": "2019-11-15T20:11:32Z"
+        },
+        {
+          "version": "1.0.3",
+          "url": "https://github.com/mholt/undefined/releases/tag/v1.0.3",
+          "publishedDate": "2019-08-14T19:45:42Z"
+        },
+        {
+          "version": "1.0.2",
+          "url": "https://github.com/mholt/undefined/releases/tag/v1.0.2",
+          "publishedDate": "2019-08-13T20:37:58Z"
+        },
+        {
+          "version": "1.0.1",
+          "url": "https://github.com/mholt/undefined/releases/tag/v1.0.1",
+          "publishedDate": "2019-07-02T19:08:31Z"
+        },
+        {
           "version": "1.0.0",
           "url": "https://github.com/mholt/undefined/releases/tag/v1.0.0",
           "publishedDate": "2019-04-24T17:24:40Z"
-        },
-        {
-          "version": "1.0.0-beta2",
-          "url": "https://github.com/mholt/undefined/releases/tag/v1.0.0-beta2",
-          "publishedDate": "2019-04-20T19:13:42Z"
-        },
-        {
-          "version": "1.0.0-beta1",
-          "url": "https://github.com/mholt/undefined/releases/tag/v1.0.0-beta1",
-          "publishedDate": "2019-04-09T17:29:06Z"
         }
       ]
     },

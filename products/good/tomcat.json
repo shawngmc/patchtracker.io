@@ -1,0 +1,44 @@
+{
+  "name": "Tomcat",
+  "id": "tomcat",
+  "links": [
+    {
+      "title": "Homepage",
+      "url": "https://tomcat.apache.org"
+    }
+  ],
+  "polling": {
+    "method": "rss",
+    "feedURL": "http://tomcat.markmail.org/atom/+list:org%2Eapache%2Etomcat%2Eannounce",
+    "regexMap": [
+      {
+        "version": "10.x.y",
+        "regex": {
+          "test": "(\\[ANN\\] Apache Tomcat )(10).(\\d+).(\\d+)( )(.+)",
+          "parse": "$2.$3.$4"
+        }
+      },
+      {
+        "version": "9.x.y",
+        "regex": {
+          "test": "(\\[ANN\\] Apache Tomcat )(9).(\\d+).(\\d+)( )(.+)",
+          "parse": "$2.$3.$4"
+        }
+      },
+      {
+        "version": "8.5.y",
+        "regex": {
+          "test": "(\\[ANN\\] Apache Tomcat )(8).(5).(\\d+)( )(.+)",
+          "parse": "$2.$3.$4"
+        }
+      },
+      {
+        "version": "7.x.y",
+        "regex": {
+          "test": "(\\[ANN\\] Apache Tomcat )(7).(\\d+).(\\d+)( )(.+)",
+          "parse": "$2.$3.$4"
+        }
+      }
+    ]
+  }
+}

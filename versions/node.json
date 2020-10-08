@@ -1,117 +1,143 @@
 {
-  "name": "Node.js",
-  "links": [
-    {
-      "title": "GitHub",
-      "url": "https://github.com/nodejs/node"
-    },
-    {
-      "title": "Homepage",
-      "url": "https://nodejs.org"
-    }
-  ],
-  "polling": {
-    "method": "github",
-    "owner": "nodejs",
-    "project": "node",
-    "regexMap": [
-      {
-        "version": "12.x",
-        "regex": {
-          "test": "(v)(12).(\\d+).(\\d+)$",
-          "parse": "$2.$3.$4"
-        }
-      },
-      {
-        "version": "11.x",
-        "regex": {
-          "test": "(v)(11).(\\d+).(\\d+)$",
-          "parse": "$2.$3.$4"
-        }
-      },
-      {
-        "version": "10.x",
-        "regex": {
-          "test": "(v)(10).(\\d+).(\\d+)$",
-          "parse": "$2.$3.$4"
-        }
-      },
-      {
-        "version": "9.x",
-        "regex": {
-          "test": "(v)(9).(\\d+).(\\d+)$",
-          "parse": "$2.$3.$4"
-        }
-      },
-      {
-        "version": "8.x",
-        "regex": {
-          "test": "(v)(8).(\\d+).(\\d+)$",
-          "parse": "$2.$3.$4"
-        }
-      },
-      {
-        "version": "7.x",
-        "regex": {
-          "test": "(v)(7).(\\d+).(\\d+)$",
-          "parse": "$2.$3.$4"
-        }
-      },
-      {
-        "version": "6.x",
-        "regex": {
-          "test": "(v)(6).(\\d+).(\\d+)$",
-          "parse": "$2.$3.$4"
-        }
-      },
-      {
-        "version": "5.x",
-        "regex": {
-          "test": "(v)(5).(\\d+).(\\d+)$",
-          "parse": "$2.$3.$4"
-        }
-      },
-      {
-        "version": "4.x",
-        "regex": {
-          "test": "(v)(4).(\\d+).(\\d+)$",
-          "parse": "$2.$3.$4"
-        }
-      },
-      {
-        "version": "3.x",
-        "regex": {
-          "test": "(v)(3).(\\d+).(\\d+)$",
-          "parse": "$2.$3.$4"
-        }
-      },
-      {
-        "version": "2.x",
-        "regex": {
-          "test": "(v)(2).(\\d+).(\\d+)$",
-          "parse": "$2.$3.$4"
-        }
-      },
-      {
-        "version": "1.x",
-        "regex": {
-          "test": "(v)(1).(\\d+).(\\d+)$",
-          "parse": "$2.$3.$4"
-        }
-      },
-      {
-        "version": "0.x",
-        "regex": {
-          "test": "(v)(0).(\\d+).(\\d+)$",
-          "parse": "$2.$3.$4"
-        }
-      }
-    ]
-  },
   "version_chains": [
     {
       "title": "12.x",
       "versions": [
+        {
+          "version": "12.19.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v12.19.0",
+          "publishedDate": "2020-10-06T17:37:45Z"
+        },
+        {
+          "version": "12.18.4",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v12.18.4",
+          "publishedDate": "2020-09-14T06:50:51Z"
+        },
+        {
+          "version": "12.18.3",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v12.18.3",
+          "publishedDate": "2020-07-22T14:57:01Z"
+        },
+        {
+          "version": "12.18.2",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v12.18.2",
+          "publishedDate": "2020-06-26T23:41:32Z"
+        },
+        {
+          "version": "12.18.1",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v12.18.1",
+          "publishedDate": "2020-06-16T19:50:11Z"
+        },
+        {
+          "version": "12.18.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v12.18.0",
+          "publishedDate": "2020-06-02T14:05:31Z"
+        },
+        {
+          "version": "12.17.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v12.17.0",
+          "publishedDate": "2020-05-25T11:32:25Z"
+        },
+        {
+          "version": "12.16.3",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v12.16.3",
+          "publishedDate": "2020-04-27T21:58:31Z"
+        },
+        {
+          "version": "12.16.2",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v12.16.2",
+          "publishedDate": "2020-04-08T03:35:33Z"
+        },
+        {
+          "version": "12.16.1",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v12.16.1",
+          "publishedDate": "2020-02-18T02:12:58Z"
+        },
+        {
+          "version": "12.16.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v12.16.0",
+          "publishedDate": "2020-02-11T14:37:05Z"
+        },
+        {
+          "version": "12.15.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v12.15.0",
+          "publishedDate": "2020-02-05T23:20:35Z"
+        },
+        {
+          "version": "12.14.1",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v12.14.1",
+          "publishedDate": "2019-12-31T11:16:11Z"
+        },
+        {
+          "version": "12.14.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v12.14.0",
+          "publishedDate": "2019-12-16T19:58:44Z"
+        },
+        {
+          "version": "12.13.1",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v12.13.1",
+          "publishedDate": "2019-11-14T12:18:48Z"
+        },
+        {
+          "version": "12.13.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v12.13.0",
+          "publishedDate": "2019-10-18T07:14:31Z"
+        },
+        {
+          "version": "12.12.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v12.12.0",
+          "publishedDate": "2019-10-11T19:15:24Z"
+        },
+        {
+          "version": "12.11.1",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v12.11.1",
+          "publishedDate": "2019-10-01T13:01:26Z"
+        },
+        {
+          "version": "12.11.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v12.11.0",
+          "publishedDate": "2019-09-25T18:31:42Z"
+        },
+        {
+          "version": "12.10.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v12.10.0",
+          "publishedDate": "2019-09-04T15:04:16Z"
+        },
+        {
+          "version": "12.9.1",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v12.9.1",
+          "publishedDate": "2019-08-26T14:34:10Z"
+        },
+        {
+          "version": "12.9.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v12.9.0",
+          "publishedDate": "2019-08-20T16:51:14Z"
+        },
+        {
+          "version": "12.8.1",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v12.8.1",
+          "publishedDate": "2019-08-15T08:46:16Z"
+        },
+        {
+          "version": "12.8.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v12.8.0",
+          "publishedDate": "2019-08-06T14:59:46Z"
+        },
+        {
+          "version": "12.7.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v12.7.0",
+          "publishedDate": "2019-07-23T14:11:06Z"
+        },
+        {
+          "version": "12.6.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v12.6.0",
+          "publishedDate": "2019-07-02T20:01:39Z"
+        },
+        {
+          "version": "12.5.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v12.5.0",
+          "publishedDate": "2019-06-27T09:47:50Z"
+        },
         {
           "version": "12.4.0",
           "url": "https://github.com/nodejs/undefined/releases/tag/v12.4.0",
@@ -237,6 +263,66 @@
     {
       "title": "10.x",
       "versions": [
+        {
+          "version": "10.22.1",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v10.22.1",
+          "publishedDate": "2020-09-09T00:13:33Z"
+        },
+        {
+          "version": "10.22.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v10.22.0",
+          "publishedDate": "2020-07-15T15:27:18Z"
+        },
+        {
+          "version": "10.21.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v10.21.0",
+          "publishedDate": "2020-06-02T14:21:44Z"
+        },
+        {
+          "version": "10.20.1",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v10.20.1",
+          "publishedDate": "2020-04-12T11:48:28Z"
+        },
+        {
+          "version": "10.20.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v10.20.0",
+          "publishedDate": "2020-04-08T10:08:07Z"
+        },
+        {
+          "version": "10.19.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v10.19.0",
+          "publishedDate": "2020-02-05T23:22:07Z"
+        },
+        {
+          "version": "10.18.1",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v10.18.1",
+          "publishedDate": "2020-01-09T11:05:21Z"
+        },
+        {
+          "version": "10.18.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v10.18.0",
+          "publishedDate": "2019-12-16T19:58:22Z"
+        },
+        {
+          "version": "10.17.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v10.17.0",
+          "publishedDate": "2019-10-22T13:50:49Z"
+        },
+        {
+          "version": "10.16.3",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v10.16.3",
+          "publishedDate": "2019-08-15T18:11:58Z"
+        },
+        {
+          "version": "10.16.2",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v10.16.2",
+          "publishedDate": "2019-08-06T15:31:10Z"
+        },
+        {
+          "version": "10.16.1",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v10.16.1",
+          "publishedDate": "2019-07-31T15:41:22Z"
+        },
         {
           "version": "10.16.0",
           "url": "https://github.com/nodejs/undefined/releases/tag/v10.16.0",
@@ -457,6 +543,21 @@
     {
       "title": "8.x",
       "versions": [
+        {
+          "version": "8.17.0",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v8.17.0",
+          "publishedDate": "2019-12-16T19:59:10Z"
+        },
+        {
+          "version": "8.16.2",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v8.16.2",
+          "publishedDate": "2019-10-09T10:25:26Z"
+        },
+        {
+          "version": "8.16.1",
+          "url": "https://github.com/nodejs/undefined/releases/tag/v8.16.1",
+          "publishedDate": "2019-08-15T18:13:25Z"
+        },
         {
           "version": "8.16.0",
           "url": "https://github.com/nodejs/undefined/releases/tag/v8.16.0",

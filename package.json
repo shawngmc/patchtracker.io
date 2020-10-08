@@ -20,6 +20,8 @@
     "@octokit/rest": "^16.25.0",
     "bluebird": "^3.5.4",
     "lodash": "^4.17.11",
-    "prompts": "^2.0.4"
+    "prompts": "^2.0.4",
+    "rss-parser": "^3.9.0",
+    "yaml": "^1.10.0"
   }
 }

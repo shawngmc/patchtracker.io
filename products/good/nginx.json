@@ -1,0 +1,28 @@
+{
+  "name": "Nginx",
+  "id": "nginx",
+  "links": [
+    {
+      "title": "GitHub",
+      "url": "https://github.com/nginx/nginx"
+    },
+    {
+      "title": "Homepage",
+      "url": "https://nginx.org/en/"
+    }
+  ],
+  "polling": {
+    "method": "github",
+    "owner": "nginx",
+    "project": "nginx",
+    "regexMap": [
+      {
+        "version": "1.x.x",
+        "regex": {
+          "test": "(release-)(1).(\\d+).(\\d+)",
+          "parse": "$2.$3.$4"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,3557 @@
+[
+  {
+    "version": "8.0.21",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-8.0.21",
+    "publishedDate": "2020-06-16T13:51:03Z",
+    "major": 8,
+    "minor": 0,
+    "patch": 21,
+    "prerelease": []
+  },
+  {
+    "version": "8.0.20",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-8.0.20",
+    "publishedDate": "2020-03-26T12:34:15Z",
+    "major": 8,
+    "minor": 0,
+    "patch": 20,
+    "prerelease": []
+  },
+  {
+    "version": "8.0.19",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-8.0.19",
+    "publishedDate": "2019-12-09T19:48:18Z",
+    "major": 8,
+    "minor": 0,
+    "patch": 19,
+    "prerelease": []
+  },
+  {
+    "version": "8.0.18",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-8.0.18",
+    "publishedDate": "2019-09-20T08:29:23Z",
+    "major": 8,
+    "minor": 0,
+    "patch": 18,
+    "prerelease": []
+  },
+  {
+    "version": "8.0.17",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-8.0.17",
+    "publishedDate": "2019-06-25T09:50:40Z",
+    "major": 8,
+    "minor": 0,
+    "patch": 17,
+    "prerelease": []
+  },
+  {
+    "version": "8.0.16",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-8.0.16",
+    "publishedDate": "2019-04-13T11:41:06Z",
+    "major": 8,
+    "minor": 0,
+    "patch": 16,
+    "prerelease": []
+  },
+  {
+    "version": "8.0.15",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-8.0.15",
+    "publishedDate": "2019-01-25T22:31:34Z",
+    "major": 8,
+    "minor": 0,
+    "patch": 15,
+    "prerelease": []
+  },
+  {
+    "version": "8.0.14",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-8.0.14",
+    "publishedDate": "2018-12-20T20:05:15Z",
+    "major": 8,
+    "minor": 0,
+    "patch": 14,
+    "prerelease": []
+  },
+  {
+    "version": "8.0.13",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-8.0.13",
+    "publishedDate": "2018-10-07T08:41:27Z",
+    "major": 8,
+    "minor": 0,
+    "patch": 13,
+    "prerelease": []
+  },
+  {
+    "version": "8.0.12",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-8.0.12",
+    "publishedDate": "2018-06-28T15:46:28Z",
+    "major": 8,
+    "minor": 0,
+    "patch": 12,
+    "prerelease": []
+  },
+  {
+    "version": "8.0.11",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-8.0.11",
+    "publishedDate": "2018-04-08T06:17:02Z",
+    "major": 8,
+    "minor": 0,
+    "patch": 11,
+    "prerelease": []
+  },
+  {
+    "version": "8.0.4",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-8.0.4",
+    "publishedDate": "2018-01-18T15:43:56Z",
+    "major": 8,
+    "minor": 0,
+    "patch": 4,
+    "prerelease": []
+  },
+  {
+    "version": "8.0.3",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-8.0.3",
+    "publishedDate": "2017-09-19T10:22:09Z",
+    "major": 8,
+    "minor": 0,
+    "patch": 3,
+    "prerelease": []
+  },
+  {
+    "version": "8.0.2",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-8.0.2",
+    "publishedDate": "2017-06-27T11:00:43Z",
+    "major": 8,
+    "minor": 0,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "8.0.1",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-8.0.1",
+    "publishedDate": "2017-03-23T04:26:01Z",
+    "major": 8,
+    "minor": 0,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "8.0.0",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-8.0.0",
+    "publishedDate": "2016-08-25T12:05:26Z",
+    "major": 8,
+    "minor": 0,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "5.7.31",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.7.31",
+    "publishedDate": "2020-06-01T06:12:53Z",
+    "major": 5,
+    "minor": 7,
+    "patch": 31,
+    "prerelease": []
+  },
+  {
+    "version": "5.7.30",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.7.30",
+    "publishedDate": "2020-03-19T18:24:11Z",
+    "major": 5,
+    "minor": 7,
+    "patch": 30,
+    "prerelease": []
+  },
+  {
+    "version": "5.7.29",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.7.29",
+    "publishedDate": "2019-12-18T12:49:33Z",
+    "major": 5,
+    "minor": 7,
+    "patch": 29,
+    "prerelease": []
+  },
+  {
+    "version": "5.7.28",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.7.28",
+    "publishedDate": "2019-09-27T06:58:40Z",
+    "major": 5,
+    "minor": 7,
+    "patch": 28,
+    "prerelease": []
+  },
+  {
+    "version": "5.7.27",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.7.27",
+    "publishedDate": "2019-06-10T14:36:14Z",
+    "major": 5,
+    "minor": 7,
+    "patch": 27,
+    "prerelease": []
+  },
+  {
+    "version": "5.7.26",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.7.26",
+    "publishedDate": "2019-04-13T13:27:18Z",
+    "major": 5,
+    "minor": 7,
+    "patch": 26,
+    "prerelease": []
+  },
+  {
+    "version": "5.7.25",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.7.25",
+    "publishedDate": "2018-12-21T10:31:17Z",
+    "major": 5,
+    "minor": 7,
+    "patch": 25,
+    "prerelease": []
+  },
+  {
+    "version": "5.7.24",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.7.24",
+    "publishedDate": "2018-10-04T05:48:36Z",
+    "major": 5,
+    "minor": 7,
+    "patch": 24,
+    "prerelease": []
+  },
+  {
+    "version": "5.7.23",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.7.23",
+    "publishedDate": "2018-06-08T09:58:05Z",
+    "major": 5,
+    "minor": 7,
+    "patch": 23,
+    "prerelease": []
+  },
+  {
+    "version": "5.7.22",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.7.22",
+    "publishedDate": "2018-03-04T13:35:40Z",
+    "major": 5,
+    "minor": 7,
+    "patch": 22,
+    "prerelease": []
+  },
+  {
+    "version": "5.7.21",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.7.21",
+    "publishedDate": "2017-12-28T03:43:47Z",
+    "major": 5,
+    "minor": 7,
+    "patch": 21,
+    "prerelease": []
+  },
+  {
+    "version": "5.7.20",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.7.20",
+    "publishedDate": "2017-09-13T15:44:44Z",
+    "major": 5,
+    "minor": 7,
+    "patch": 20,
+    "prerelease": []
+  },
+  {
+    "version": "5.7.19",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.7.19",
+    "publishedDate": "2017-06-22T14:12:22Z",
+    "major": 5,
+    "minor": 7,
+    "patch": 19,
+    "prerelease": []
+  },
+  {
+    "version": "5.7.18",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.7.18",
+    "publishedDate": "2017-03-18T07:42:33Z",
+    "major": 5,
+    "minor": 7,
+    "patch": 18,
+    "prerelease": []
+  },
+  {
+    "version": "5.7.17",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.7.17",
+    "publishedDate": "2016-11-28T11:36:21Z",
+    "major": 5,
+    "minor": 7,
+    "patch": 17,
+    "prerelease": []
+  },
+  {
+    "version": "5.7.16",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.7.16",
+    "publishedDate": "2016-09-28T16:45:23Z",
+    "major": 5,
+    "minor": 7,
+    "patch": 16,
+    "prerelease": []
+  },
+  {
+    "version": "5.7.15",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.7.15",
+    "publishedDate": "2016-08-25T11:41:51Z",
+    "major": 5,
+    "minor": 7,
+    "patch": 15,
+    "prerelease": []
+  },
+  {
+    "version": "5.7.14",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.7.14",
+    "publishedDate": "2016-07-12T11:33:08Z",
+    "major": 5,
+    "minor": 7,
+    "patch": 14,
+    "prerelease": []
+  },
+  {
+    "version": "5.7.13",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.7.13",
+    "publishedDate": "2016-05-25T05:40:38Z",
+    "major": 5,
+    "minor": 7,
+    "patch": 13,
+    "prerelease": []
+  },
+  {
+    "version": "5.7.12",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.7.12",
+    "publishedDate": "2016-03-28T17:46:43Z",
+    "major": 5,
+    "minor": 7,
+    "patch": 12,
+    "prerelease": []
+  },
+  {
+    "version": "5.7.11",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.7.11",
+    "publishedDate": "2016-02-01T21:06:03Z",
+    "major": 5,
+    "minor": 7,
+    "patch": 11,
+    "prerelease": []
+  },
+  {
+    "version": "5.7.10",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.7.10",
+    "publishedDate": "2015-11-29T19:02:24Z",
+    "major": 5,
+    "minor": 7,
+    "patch": 10,
+    "prerelease": []
+  },
+  {
+    "version": "5.7.9",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.7.9",
+    "publishedDate": "2015-10-09T10:33:31Z",
+    "major": 5,
+    "minor": 7,
+    "patch": 9,
+    "prerelease": []
+  },
+  {
+    "version": "5.7.8",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.7.8",
+    "publishedDate": "2015-07-20T12:02:16Z",
+    "major": 5,
+    "minor": 7,
+    "patch": 8,
+    "prerelease": []
+  },
+  {
+    "version": "5.7.7",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.7.7",
+    "publishedDate": "2015-04-09T10:35:31Z",
+    "major": 5,
+    "minor": 7,
+    "patch": 7,
+    "prerelease": []
+  },
+  {
+    "version": "5.7.6",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.7.6",
+    "publishedDate": "2015-02-26T14:29:31Z",
+    "major": 5,
+    "minor": 7,
+    "patch": 6,
+    "prerelease": []
+  },
+  {
+    "version": "5.7.5",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.7.5",
+    "publishedDate": "2014-09-18T11:38:41Z",
+    "major": 5,
+    "minor": 7,
+    "patch": 5,
+    "prerelease": []
+  },
+  {
+    "version": "5.7.4",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.7.4",
+    "publishedDate": "2014-03-19T10:32:19Z",
+    "major": 5,
+    "minor": 7,
+    "patch": 4,
+    "prerelease": []
+  },
+  {
+    "version": "5.7.3",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.7.3",
+    "publishedDate": "2013-11-16T20:03:41Z",
+    "major": 5,
+    "minor": 7,
+    "patch": 3,
+    "prerelease": []
+  },
+  {
+    "version": "5.7.2",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.7.2",
+    "publishedDate": "2013-09-11T11:47:54Z",
+    "major": 5,
+    "minor": 7,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "5.7.1",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.7.1",
+    "publishedDate": "2013-04-03T08:55:04Z",
+    "major": 5,
+    "minor": 7,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "5.7.0",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.7-22-ndb-7.6.6",
+    "publishedDate": "2018-05-10T16:14:48Z",
+    "major": 5,
+    "minor": 7,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.49",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.6.49",
+    "publishedDate": "2020-06-01T06:06:15Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 49,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.48",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.6.48",
+    "publishedDate": "2020-03-09T08:17:53Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 48,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.47",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.6.47",
+    "publishedDate": "2019-11-25T10:25:39Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 47,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.46",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.6.46",
+    "publishedDate": "2019-09-27T07:08:18Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 46,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.45",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.6.45",
+    "publishedDate": "2019-05-23T15:19:31Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 45,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.44",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.6.44",
+    "publishedDate": "2019-03-13T06:17:17Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 44,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.43",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.6.43",
+    "publishedDate": "2018-12-21T07:02:56Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 43,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.42",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.6.42",
+    "publishedDate": "2018-09-10T10:12:39Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 42,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.41",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.6.41",
+    "publishedDate": "2018-06-15T12:58:49Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 41,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.40",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.6.40",
+    "publishedDate": "2018-02-26T09:21:06Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 40,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.39",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.6.39",
+    "publishedDate": "2017-12-06T07:49:57Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 39,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.38",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.6.38",
+    "publishedDate": "2017-09-13T15:47:09Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 38,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.37",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.6.37",
+    "publishedDate": "2017-06-02T17:40:34Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 37,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.36",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.6.36",
+    "publishedDate": "2017-03-18T06:41:21Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 36,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.35",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.6.35",
+    "publishedDate": "2016-11-28T12:05:22Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 35,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.34",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.6.34",
+    "publishedDate": "2016-09-30T11:16:14Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 34,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.33",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.6.33",
+    "publishedDate": "2016-08-26T11:01:54Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 33,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.32",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.6.32",
+    "publishedDate": "2016-07-11T09:12:36Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 32,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.31",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.6.31",
+    "publishedDate": "2016-05-16T11:46:29Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 31,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.30",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.6.30",
+    "publishedDate": "2016-03-03T15:26:49Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 30,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.29",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.6.29",
+    "publishedDate": "2016-01-15T02:32:57Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 29,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.28",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.6.28",
+    "publishedDate": "2015-11-16T09:24:41Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 28,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.27",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.6.27",
+    "publishedDate": "2015-09-18T14:15:58Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 27,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.26",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.6.26",
+    "publishedDate": "2015-06-25T13:06:45Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 26,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.25",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.6.25",
+    "publishedDate": "2015-05-05T10:50:42Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 25,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.24",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.6.24",
+    "publishedDate": "2015-03-25T16:22:45Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 24,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.23",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.6.23",
+    "publishedDate": "2015-01-19T13:26:20Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 23,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.22",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.6.22",
+    "publishedDate": "2014-11-21T05:20:02Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 22,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.21",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.6.21",
+    "publishedDate": "2014-09-11T13:27:20Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 21,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.20",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.6.20",
+    "publishedDate": "2014-07-18T15:33:31Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 20,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.19",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.6.19",
+    "publishedDate": "2014-05-06T10:13:29Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 19,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.17",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.6.17",
+    "publishedDate": "2014-03-14T18:45:58Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 17,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.16",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.6.16",
+    "publishedDate": "2014-01-09T14:43:58Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 16,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.15",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.6.15",
+    "publishedDate": "2013-11-17T17:51:36Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 15,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.14",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.6.14",
+    "publishedDate": "2013-09-10T07:25:10Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 14,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.13",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.6.13",
+    "publishedDate": "2013-07-10T16:02:48Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 13,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.12",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.6.12",
+    "publishedDate": "2013-05-21T15:07:01Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 12,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.11",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.6.11",
+    "publishedDate": "2013-04-05T06:04:03Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 11,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.10",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.6.10",
+    "publishedDate": "2013-02-01T13:32:16Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 10,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.9",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.6.9",
+    "publishedDate": "2012-11-22T14:12:33Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 9,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.8",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.6.8",
+    "publishedDate": "2012-10-15T12:08:01Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 8,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.7",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.6.7",
+    "publishedDate": "2012-09-18T22:54:27Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 7,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.6",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.6.6",
+    "publishedDate": "2012-07-17T15:43:47Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 6,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.5",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.6.5",
+    "publishedDate": "2012-03-29T08:11:03Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 5,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.4",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.6.4",
+    "publishedDate": "2011-12-13T18:18:20Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 4,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.3",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.6.3",
+    "publishedDate": "2011-09-26T14:07:09Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 3,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.2",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.6.2",
+    "publishedDate": "2011-03-14T13:31:03Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.63",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.63",
+    "publishedDate": "2018-12-21T07:21:06Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 63,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.62",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.62",
+    "publishedDate": "2018-08-20T11:32:37Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 62,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.61",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.61",
+    "publishedDate": "2018-06-15T16:31:38Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 61,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.60",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.60",
+    "publishedDate": "2018-02-26T09:07:39Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 60,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.59",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.59",
+    "publishedDate": "2017-11-27T09:21:04Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 59,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.58",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.58",
+    "publishedDate": "2017-09-13T15:15:34Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 58,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.57",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.57",
+    "publishedDate": "2017-06-05T06:33:48Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 57,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.56",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.56",
+    "publishedDate": "2017-04-27T06:54:30Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 56,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.55",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.55",
+    "publishedDate": "2017-03-18T04:42:04Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 55,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.54",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.54",
+    "publishedDate": "2016-11-28T11:56:28Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 54,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.53",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.53",
+    "publishedDate": "2016-09-28T14:36:46Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 53,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.52",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.52",
+    "publishedDate": "2016-08-26T11:14:32Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 52,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.51",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.51",
+    "publishedDate": "2016-07-07T05:23:11Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 51,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.50",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.50",
+    "publishedDate": "2016-05-16T09:34:20Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 50,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.49",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.49",
+    "publishedDate": "2016-02-26T06:23:56Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 49,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.48",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.48",
+    "publishedDate": "2016-01-15T02:26:08Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 48,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.47",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.47",
+    "publishedDate": "2015-11-07T16:33:47Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 47,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.46",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.46",
+    "publishedDate": "2015-09-18T14:13:38Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 46,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.45",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.45",
+    "publishedDate": "2015-06-25T13:04:44Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 45,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.44",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.44",
+    "publishedDate": "2015-04-29T08:21:29Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 44,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.43",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.43",
+    "publishedDate": "2015-02-27T08:14:35Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 43,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.42",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.42",
+    "publishedDate": "2015-01-06T20:23:21Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 42,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.41",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.41",
+    "publishedDate": "2014-11-28T09:22:07Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 41,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.40",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.40",
+    "publishedDate": "2014-09-08T09:33:55Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 40,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.39",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.39",
+    "publishedDate": "2014-07-19T05:54:21Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 39,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.38",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.38",
+    "publishedDate": "2014-05-11T16:24:12Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 38,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.37",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.37",
+    "publishedDate": "2014-03-14T18:46:27Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 37,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.36",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.36",
+    "publishedDate": "2014-01-08T10:09:04Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 36,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.35",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.35",
+    "publishedDate": "2013-11-05T07:03:43Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 35,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.34",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.34",
+    "publishedDate": "2013-09-09T17:49:44Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 34,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.33",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.33",
+    "publishedDate": "2013-07-15T11:41:27Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 33,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.32",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.32",
+    "publishedDate": "2013-05-16T15:33:32Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 32,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.31",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.31",
+    "publishedDate": "2013-04-12T10:11:38Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 31,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.30",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.30",
+    "publishedDate": "2013-01-16T07:09:26Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 30,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.29",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.29",
+    "publishedDate": "2012-12-10T06:06:37Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 29,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.28",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.28",
+    "publishedDate": "2012-08-28T14:13:03Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 28,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.27",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.27",
+    "publishedDate": "2012-07-11T13:34:38Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 27,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.25",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.25",
+    "publishedDate": "2012-05-10T05:03:16Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 25,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.24",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.24",
+    "publishedDate": "2012-04-12T13:04:22Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 24,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.23",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.23",
+    "publishedDate": "2012-03-29T13:07:54Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 23,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.22",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.22",
+    "publishedDate": "2012-03-02T12:23:52Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 22,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.21",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.21",
+    "publishedDate": "2012-01-30T15:23:21Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 21,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.20",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.20",
+    "publishedDate": "2011-12-16T08:17:13Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 20,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.19",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.19",
+    "publishedDate": "2011-11-22T15:06:19Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 19,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.18",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.18",
+    "publishedDate": "2011-11-02T15:28:18Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 18,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.17",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.17",
+    "publishedDate": "2011-10-04T10:28:30Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 17,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.16",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.16",
+    "publishedDate": "2011-09-09T14:39:44Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 16,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.15",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.15",
+    "publishedDate": "2011-07-12T11:13:02Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 15,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.14",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.14",
+    "publishedDate": "2011-06-21T15:24:44Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 14,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.13",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.13",
+    "publishedDate": "2011-05-10T13:24:34Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 13,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.12",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.12",
+    "publishedDate": "2011-04-08T14:07:59Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 12,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.11",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.11",
+    "publishedDate": "2011-03-31T13:08:31Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 11,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.10",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.10",
+    "publishedDate": "2011-02-17T18:36:19Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 10,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.9",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.9",
+    "publishedDate": "2011-01-19T22:27:25Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 9,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.8",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.8",
+    "publishedDate": "2010-12-03T17:49:08Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 8,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.7",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.7",
+    "publishedDate": "2010-10-14T18:29:14Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 7,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.6",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.6-rc",
+    "publishedDate": "2010-09-17T20:34:15Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 6,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.5",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.5-m3",
+    "publishedDate": "2010-07-06T10:28:11Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 5,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.3",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.3-m3",
+    "publishedDate": "2010-04-16T08:27:18Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 3,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.2",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.2-m2",
+    "publishedDate": "2010-02-12T16:41:00Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.1",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.1-m2",
+    "publishedDate": "2010-01-04T14:03:09Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.0",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.5.0",
+    "publishedDate": "2009-12-07T18:00:02Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "5.4.3",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.4.3",
+    "publishedDate": "2009-10-16T17:59:23Z",
+    "major": 5,
+    "minor": 4,
+    "patch": 3,
+    "prerelease": []
+  },
+  {
+    "version": "5.4.2",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.4.2",
+    "publishedDate": "2009-09-08T14:10:06Z",
+    "major": 5,
+    "minor": 4,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "5.4.1",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.4.1",
+    "publishedDate": "2009-06-23T23:24:20Z",
+    "major": 5,
+    "minor": 4,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.77",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.77",
+    "publishedDate": "2015-08-17T09:53:47Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 77,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.76",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.76",
+    "publishedDate": "2015-06-05T05:14:33Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 76,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.75",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.75",
+    "publishedDate": "2015-04-28T09:26:55Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 75,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.74",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.74",
+    "publishedDate": "2015-03-26T02:10:35Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 74,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.73",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.73",
+    "publishedDate": "2013-11-01T15:39:19Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 73,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.72",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.72",
+    "publishedDate": "2013-09-09T18:07:12Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 72,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.71",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.71",
+    "publishedDate": "2013-07-01T13:30:55Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 71,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.70",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.70",
+    "publishedDate": "2013-05-13T13:26:11Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 70,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.69",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.69",
+    "publishedDate": "2013-04-20T06:58:22Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 69,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.68",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.68",
+    "publishedDate": "2013-01-08T12:29:11Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 68,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.67",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.67",
+    "publishedDate": "2012-12-07T09:47:57Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 67,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.66",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.66",
+    "publishedDate": "2012-09-11T10:47:32Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 66,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.65",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.65",
+    "publishedDate": "2012-07-12T08:00:14Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 65,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.63",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.63",
+    "publishedDate": "2012-04-10T11:21:57Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 63,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.62",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.62",
+    "publishedDate": "2012-03-02T12:18:12Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 62,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.61",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.61",
+    "publishedDate": "2012-01-11T17:40:29Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 61,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.60",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.60",
+    "publishedDate": "2011-10-29T18:08:40Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 60,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.59",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.59",
+    "publishedDate": "2011-08-10T11:56:14Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 59,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.58",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.58",
+    "publishedDate": "2011-07-01T15:18:27Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 58,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.57",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.57",
+    "publishedDate": "2011-04-11T23:36:38Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 57,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.56",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.56",
+    "publishedDate": "2011-02-10T10:10:28Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 56,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.55",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.55",
+    "publishedDate": "2011-01-25T14:42:40Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 55,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.54",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.54",
+    "publishedDate": "2010-11-25T16:38:01Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 54,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.53",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.53",
+    "publishedDate": "2010-11-03T10:24:47Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 53,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.52",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.52",
+    "publishedDate": "2010-10-11T20:13:47Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 52,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.51",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.51",
+    "publishedDate": "2010-09-10T10:49:57Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 51,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.50",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.50",
+    "publishedDate": "2010-08-03T11:52:02Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 50,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.49",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.49",
+    "publishedDate": "2010-07-09T12:23:48Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 49,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.48",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.48",
+    "publishedDate": "2010-06-02T08:44:11Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 48,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.47",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.47",
+    "publishedDate": "2010-05-06T15:14:10Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 47,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.46",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.46",
+    "publishedDate": "2010-04-06T07:56:11Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 46,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.45",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.45",
+    "publishedDate": "2010-03-01T19:18:09Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 45,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.44",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.44",
+    "publishedDate": "2010-02-17T17:39:28Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 44,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.43",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.43",
+    "publishedDate": "2010-01-15T08:51:39Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 43,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.42",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.42",
+    "publishedDate": "2009-12-16T13:21:02Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 42,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.41",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.41",
+    "publishedDate": "2009-11-05T20:22:17Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 41,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.40",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.40",
+    "publishedDate": "2009-10-06T12:37:37Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 40,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.39",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.39",
+    "publishedDate": "2009-09-04T15:45:07Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 39,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.38",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.38",
+    "publishedDate": "2009-09-01T06:40:13Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 38,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.37",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.37",
+    "publishedDate": "2009-07-13T17:45:43Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 37,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.36",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.36",
+    "publishedDate": "2009-06-16T10:21:55Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 36,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.35",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.35",
+    "publishedDate": "2009-05-13T07:51:39Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 35,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.34",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.34",
+    "publishedDate": "2009-04-02T11:17:38Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 34,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.33",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.33",
+    "publishedDate": "2009-03-13T11:13:55Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 33,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.32",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.32",
+    "publishedDate": "2009-02-14T00:43:21Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 32,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.31",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.31",
+    "publishedDate": "2009-01-19T16:48:05Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 31,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.30",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.30",
+    "publishedDate": "2008-11-14T16:29:38Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 30,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.29",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.29",
+    "publishedDate": "2008-10-11T21:51:58Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 29,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.28",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.28",
+    "publishedDate": "2008-08-28T14:16:43Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 28,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.27",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.27-ndb-6.3.17",
+    "publishedDate": "2008-08-28T08:11:47Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 27,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.26",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.26",
+    "publishedDate": "2008-06-30T20:52:26Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 26,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.25",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.25",
+    "publishedDate": "2008-06-18T01:05:56Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 25,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.24",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.24",
+    "publishedDate": "2008-04-08T09:52:11Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 24,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.23",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.23",
+    "publishedDate": "2008-01-29T20:44:25Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 23,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.22",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.22",
+    "publishedDate": "2007-09-28T15:33:14Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 22,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.21",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.21",
+    "publishedDate": "2007-08-20T14:35:16Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 21,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.20",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.20",
+    "publishedDate": "2007-06-26T11:15:43Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 20,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.19",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.19",
+    "publishedDate": "2007-05-25T21:08:31Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 19,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.18",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.18",
+    "publishedDate": "2007-05-07T19:32:09Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 18,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.17",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.17",
+    "publishedDate": "2007-04-05T08:00:04Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 17,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.16",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.16",
+    "publishedDate": "2007-02-25T23:44:12Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 16,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.15",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.15",
+    "publishedDate": "2007-01-29T13:47:38Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 15,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.14",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.14",
+    "publishedDate": "2006-12-06T15:15:20Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 14,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.13",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.13",
+    "publishedDate": "2006-11-13T19:44:22Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 13,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.12",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.12",
+    "publishedDate": "2006-10-24T17:05:11Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 12,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.11",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.11",
+    "publishedDate": "2006-06-02T11:23:49Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 11,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.9",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.9",
+    "publishedDate": "2006-04-13T03:16:15Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 9,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.7",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.7",
+    "publishedDate": "2006-02-27T21:14:46Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 7,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.6",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.6",
+    "publishedDate": "2006-02-08T18:01:54Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 6,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.5",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.5",
+    "publishedDate": "2006-01-10T09:35:43Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 5,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.4",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.4",
+    "publishedDate": "2005-12-21T05:02:04Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 4,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.3",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.1.3",
+    "publishedDate": "2005-11-29T14:18:31Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 3,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.96",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.96",
+    "publishedDate": "2012-03-02T12:12:07Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 96,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.95",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.95",
+    "publishedDate": "2011-12-14T13:05:22Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 95,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.94",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.94",
+    "publishedDate": "2011-05-10T13:49:13Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 94,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.93",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.93",
+    "publishedDate": "2011-04-07T09:17:36Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 93,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.92",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.92",
+    "publishedDate": "2011-01-07T13:28:36Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 92,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.91",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.91",
+    "publishedDate": "2010-05-05T13:33:46Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 91,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.90",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.90",
+    "publishedDate": "2010-01-14T08:24:02Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 90,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.88",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.88",
+    "publishedDate": "2009-11-04T09:13:55Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 88,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.87",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.87",
+    "publishedDate": "2009-10-14T22:40:40Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 87,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.86",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.86",
+    "publishedDate": "2009-09-09T18:52:17Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 86,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.85",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.85",
+    "publishedDate": "2009-08-10T22:47:28Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 85,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.84",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.84",
+    "publishedDate": "2009-07-07T07:49:38Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 84,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.83",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.83",
+    "publishedDate": "2009-05-28T07:35:29Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 83,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.82",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.82",
+    "publishedDate": "2009-05-20T21:04:34Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 82,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.81",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.81",
+    "publishedDate": "2009-05-01T17:37:23Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 81,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.80",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.80",
+    "publishedDate": "2009-05-01T17:35:04Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 80,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.79",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.79",
+    "publishedDate": "2009-03-09T21:16:24Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 79,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.78",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.78",
+    "publishedDate": "2009-02-06T18:38:39Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 78,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.77",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.77",
+    "publishedDate": "2009-01-28T14:01:04Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 77,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.76",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.76",
+    "publishedDate": "2009-01-05T16:04:14Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 76,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.75",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.75",
+    "publishedDate": "2008-12-17T20:01:34Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 75,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.74",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.74",
+    "publishedDate": "2008-12-03T04:11:48Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 74,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.72",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.72",
+    "publishedDate": "2008-10-24T15:34:17Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 72,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.70",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.70",
+    "publishedDate": "2008-09-27T00:23:39Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 70,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.68",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.68",
+    "publishedDate": "2008-08-13T06:11:11Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 68,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.67",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.67",
+    "publishedDate": "2008-08-04T11:45:50Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 67,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.66",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.66",
+    "publishedDate": "2008-07-09T10:03:48Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 66,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.64",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.64",
+    "publishedDate": "2008-06-10T19:10:56Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 64,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.62",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.62",
+    "publishedDate": "2008-05-14T10:32:09Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 62,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.60",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.60",
+    "publishedDate": "2008-04-28T19:53:52Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 60,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.58",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.58",
+    "publishedDate": "2008-03-05T13:03:05Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 58,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.56",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.56",
+    "publishedDate": "2008-02-06T13:13:05Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 56,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.54",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.54",
+    "publishedDate": "2007-12-14T20:38:58Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 54,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.52",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.52",
+    "publishedDate": "2007-11-30T05:14:43Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 52,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.51",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.51",
+    "publishedDate": "2007-11-15T13:59:40Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 51,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.50",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.50",
+    "publishedDate": "2007-10-19T15:07:08Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 50,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.48",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.48",
+    "publishedDate": "2007-08-28T14:06:08Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 48,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.46",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.46",
+    "publishedDate": "2007-07-19T21:30:26Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 46,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.45",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.45",
+    "publishedDate": "2007-07-03T16:20:19Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 45,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.44",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.44",
+    "publishedDate": "2007-06-21T06:58:39Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 44,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.42",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.42",
+    "publishedDate": "2007-05-14T13:11:29Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 42,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.41",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.41",
+    "publishedDate": "2007-05-07T06:25:47Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 41,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.40",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.40",
+    "publishedDate": "2007-04-20T13:52:49Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 40,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.38",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.38",
+    "publishedDate": "2007-03-20T18:57:22Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 38,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.37",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.37",
+    "publishedDate": "2007-03-05T15:10:42Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 37,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.36",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.36",
+    "publishedDate": "2007-02-14T15:47:39Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 36,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.34",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.34",
+    "publishedDate": "2007-01-17T09:41:52Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 34,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.33",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.33",
+    "publishedDate": "2007-01-09T12:02:15Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 33,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.32",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.32",
+    "publishedDate": "2006-12-20T12:23:33Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 32,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.30",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.30",
+    "publishedDate": "2006-11-23T19:04:18Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 30,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.28",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.28",
+    "publishedDate": "2006-10-24T10:31:18Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 28,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.27",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.27",
+    "publishedDate": "2006-10-20T22:57:08Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 27,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.26",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.26",
+    "publishedDate": "2006-10-03T13:42:00Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 26,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.25",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.25",
+    "publishedDate": "2006-09-14T22:18:30Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 25,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.24",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.24",
+    "publishedDate": "2006-07-27T09:59:15Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 24,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.23",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.23",
+    "publishedDate": "2006-07-04T10:30:08Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 23,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.22",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.22",
+    "publishedDate": "2006-05-24T12:22:36Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 22,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.21",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.21",
+    "publishedDate": "2006-04-26T16:26:26Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 21,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.20",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.20",
+    "publishedDate": "2006-03-31T09:48:08Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 20,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.19",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.19",
+    "publishedDate": "2006-03-04T20:04:48Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 19,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.18",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.18",
+    "publishedDate": "2005-12-28T17:35:22Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 18,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.17",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.17",
+    "publishedDate": "2005-12-14T17:42:08Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 17,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.16",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.16",
+    "publishedDate": "2005-11-14T15:10:16Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 16,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.15",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.15",
+    "publishedDate": "2005-10-19T20:00:12Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 15,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.14",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.14",
+    "publishedDate": "2005-10-04T19:37:50Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 14,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.13",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.13",
+    "publishedDate": "2005-09-22T16:57:07Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 13,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.12",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.12",
+    "publishedDate": "2005-08-26T23:50:38Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 12,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.11",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.11",
+    "publishedDate": "2005-08-06T01:31:01Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 11,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.10",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.10",
+    "publishedDate": "2005-07-22T19:01:42Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 10,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.9",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.9",
+    "publishedDate": "2005-07-08T13:52:15Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 9,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.8",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.8",
+    "publishedDate": "2005-06-24T16:23:59Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 8,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.7",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.7",
+    "publishedDate": "2005-06-10T19:31:39Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 7,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.6",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.6",
+    "publishedDate": "2005-05-26T13:21:01Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 6,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.5",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.5",
+    "publishedDate": "2005-04-27T17:01:41Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 5,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.4",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.4",
+    "publishedDate": "2005-04-16T19:57:15Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 4,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.3",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.3",
+    "publishedDate": "2005-03-22T20:57:03Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 3,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.2",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.2",
+    "publishedDate": "2004-11-30T23:30:42Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.1",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.1",
+    "publishedDate": "2004-07-26T22:00:01Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.0",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-5.0.0",
+    "publishedDate": "2003-12-22T13:42:20Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "4.1.24",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.1.24",
+    "publishedDate": "2008-03-17T08:18:44Z",
+    "major": 4,
+    "minor": 1,
+    "patch": 24,
+    "prerelease": []
+  },
+  {
+    "version": "4.1.23",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.1.23",
+    "publishedDate": "2007-06-12T08:25:24Z",
+    "major": 4,
+    "minor": 1,
+    "patch": 23,
+    "prerelease": []
+  },
+  {
+    "version": "4.1.22",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.1.22",
+    "publishedDate": "2006-11-03T02:03:41Z",
+    "major": 4,
+    "minor": 1,
+    "patch": 22,
+    "prerelease": []
+  },
+  {
+    "version": "4.1.21",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.1.21",
+    "publishedDate": "2006-07-19T13:55:04Z",
+    "major": 4,
+    "minor": 1,
+    "patch": 21,
+    "prerelease": []
+  },
+  {
+    "version": "4.1.20",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.1.20",
+    "publishedDate": "2006-05-24T12:12:19Z",
+    "major": 4,
+    "minor": 1,
+    "patch": 20,
+    "prerelease": []
+  },
+  {
+    "version": "4.1.19",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.1.19",
+    "publishedDate": "2006-04-28T23:28:04Z",
+    "major": 4,
+    "minor": 1,
+    "patch": 19,
+    "prerelease": []
+  },
+  {
+    "version": "4.1.18",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.1.18",
+    "publishedDate": "2006-01-27T12:38:15Z",
+    "major": 4,
+    "minor": 1,
+    "patch": 18,
+    "prerelease": []
+  },
+  {
+    "version": "4.1.16",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.1.16",
+    "publishedDate": "2005-11-29T19:52:58Z",
+    "major": 4,
+    "minor": 1,
+    "patch": 16,
+    "prerelease": []
+  },
+  {
+    "version": "4.1.15",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.1.15",
+    "publishedDate": "2005-10-11T20:34:40Z",
+    "major": 4,
+    "minor": 1,
+    "patch": 15,
+    "prerelease": []
+  },
+  {
+    "version": "4.1.14",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.1.14",
+    "publishedDate": "2005-08-17T13:11:29Z",
+    "major": 4,
+    "minor": 1,
+    "patch": 14,
+    "prerelease": []
+  },
+  {
+    "version": "4.1.13",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.1.13",
+    "publishedDate": "2005-07-15T11:30:01Z",
+    "major": 4,
+    "minor": 1,
+    "patch": 13,
+    "prerelease": []
+  },
+  {
+    "version": "4.1.12",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.1.12",
+    "publishedDate": "2005-05-13T08:04:35Z",
+    "major": 4,
+    "minor": 1,
+    "patch": 12,
+    "prerelease": []
+  },
+  {
+    "version": "4.1.11",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.1.11",
+    "publishedDate": "2005-04-01T10:35:49Z",
+    "major": 4,
+    "minor": 1,
+    "patch": 11,
+    "prerelease": []
+  },
+  {
+    "version": "4.1.10",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.1.10",
+    "publishedDate": "2005-02-12T18:17:33Z",
+    "major": 4,
+    "minor": 1,
+    "patch": 10,
+    "prerelease": []
+  },
+  {
+    "version": "4.1.9",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.1.9",
+    "publishedDate": "2005-01-11T22:09:10Z",
+    "major": 4,
+    "minor": 1,
+    "patch": 9,
+    "prerelease": []
+  },
+  {
+    "version": "4.1.8",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.1.8",
+    "publishedDate": "2004-12-14T11:58:30Z",
+    "major": 4,
+    "minor": 1,
+    "patch": 8,
+    "prerelease": []
+  },
+  {
+    "version": "4.1.7",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.1.7",
+    "publishedDate": "2004-10-23T05:24:59Z",
+    "major": 4,
+    "minor": 1,
+    "patch": 7,
+    "prerelease": []
+  },
+  {
+    "version": "4.1.6",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.1.6",
+    "publishedDate": "2004-10-13T00:38:43Z",
+    "major": 4,
+    "minor": 1,
+    "patch": 6,
+    "prerelease": []
+  },
+  {
+    "version": "4.1.5",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.1.5",
+    "publishedDate": "2004-09-16T18:13:24Z",
+    "major": 4,
+    "minor": 1,
+    "patch": 5,
+    "prerelease": []
+  },
+  {
+    "version": "4.1.4",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.1.4",
+    "publishedDate": "2004-08-26T21:44:01Z",
+    "major": 4,
+    "minor": 1,
+    "patch": 4,
+    "prerelease": []
+  },
+  {
+    "version": "4.1.3",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.1.3",
+    "publishedDate": "2004-06-28T09:06:22Z",
+    "major": 4,
+    "minor": 1,
+    "patch": 3,
+    "prerelease": []
+  },
+  {
+    "version": "4.1.2",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.1.2",
+    "publishedDate": "2004-05-28T19:33:49Z",
+    "major": 4,
+    "minor": 1,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "4.1.1",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.1.1",
+    "publishedDate": "2003-12-01T11:13:16Z",
+    "major": 4,
+    "minor": 1,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "4.1.0",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.1.0",
+    "publishedDate": "2003-04-03T18:19:14Z",
+    "major": 4,
+    "minor": 1,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "4.0.30",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.0.30",
+    "publishedDate": "2007-02-16T15:31:31Z",
+    "major": 4,
+    "minor": 0,
+    "patch": 30,
+    "prerelease": []
+  },
+  {
+    "version": "4.0.28",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.0.28",
+    "publishedDate": "2007-01-09T16:21:54Z",
+    "major": 4,
+    "minor": 0,
+    "patch": 28,
+    "prerelease": []
+  },
+  {
+    "version": "4.0.27",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.0.27",
+    "publishedDate": "2006-05-06T14:42:59Z",
+    "major": 4,
+    "minor": 0,
+    "patch": 27,
+    "prerelease": []
+  },
+  {
+    "version": "4.0.26",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.0.26",
+    "publishedDate": "2005-09-02T09:11:29Z",
+    "major": 4,
+    "minor": 0,
+    "patch": 26,
+    "prerelease": []
+  },
+  {
+    "version": "4.0.25",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.0.25",
+    "publishedDate": "2005-06-30T15:33:23Z",
+    "major": 4,
+    "minor": 0,
+    "patch": 25,
+    "prerelease": []
+  },
+  {
+    "version": "4.0.24",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.0.24",
+    "publishedDate": "2005-03-04T11:31:30Z",
+    "major": 4,
+    "minor": 0,
+    "patch": 24,
+    "prerelease": []
+  },
+  {
+    "version": "4.0.23",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.0.23",
+    "publishedDate": "2004-12-18T11:57:17Z",
+    "major": 4,
+    "minor": 0,
+    "patch": 23,
+    "prerelease": []
+  },
+  {
+    "version": "4.0.22",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.0.22",
+    "publishedDate": "2004-10-27T19:51:27Z",
+    "major": 4,
+    "minor": 0,
+    "patch": 22,
+    "prerelease": []
+  },
+  {
+    "version": "4.0.21",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.0.21",
+    "publishedDate": "2004-09-06T21:20:33Z",
+    "major": 4,
+    "minor": 0,
+    "patch": 21,
+    "prerelease": []
+  },
+  {
+    "version": "4.0.20",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.0.20",
+    "publishedDate": "2004-05-14T13:48:56Z",
+    "major": 4,
+    "minor": 0,
+    "patch": 20,
+    "prerelease": []
+  },
+  {
+    "version": "4.0.19",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.0.19",
+    "publishedDate": "2004-05-03T16:26:50Z",
+    "major": 4,
+    "minor": 0,
+    "patch": 19,
+    "prerelease": []
+  },
+  {
+    "version": "4.0.18",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.0.18",
+    "publishedDate": "2004-02-12T16:12:08Z",
+    "major": 4,
+    "minor": 0,
+    "patch": 18,
+    "prerelease": []
+  },
+  {
+    "version": "4.0.17",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.0.17",
+    "publishedDate": "2003-12-14T20:31:02Z",
+    "major": 4,
+    "minor": 0,
+    "patch": 17,
+    "prerelease": []
+  },
+  {
+    "version": "4.0.16",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.0.16",
+    "publishedDate": "2003-10-17T00:32:09Z",
+    "major": 4,
+    "minor": 0,
+    "patch": 16,
+    "prerelease": []
+  },
+  {
+    "version": "4.0.15",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.0.15",
+    "publishedDate": "2003-09-05T12:44:21Z",
+    "major": 4,
+    "minor": 0,
+    "patch": 15,
+    "prerelease": []
+  },
+  {
+    "version": "4.0.14",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.0.14",
+    "publishedDate": "2003-07-18T09:35:29Z",
+    "major": 4,
+    "minor": 0,
+    "patch": 14,
+    "prerelease": []
+  },
+  {
+    "version": "4.0.13",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.0.13",
+    "publishedDate": "2003-05-16T11:36:13Z",
+    "major": 4,
+    "minor": 0,
+    "patch": 13,
+    "prerelease": []
+  },
+  {
+    "version": "4.0.12",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.0.12",
+    "publishedDate": "2003-03-15T17:42:55Z",
+    "major": 4,
+    "minor": 0,
+    "patch": 12,
+    "prerelease": []
+  },
+  {
+    "version": "4.0.11",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.0.11",
+    "publishedDate": "2003-02-20T14:13:47Z",
+    "major": 4,
+    "minor": 0,
+    "patch": 11,
+    "prerelease": []
+  },
+  {
+    "version": "4.0.10",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.0.10",
+    "publishedDate": "2003-01-29T09:00:08Z",
+    "major": 4,
+    "minor": 0,
+    "patch": 10,
+    "prerelease": []
+  },
+  {
+    "version": "4.0.9",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.0.9",
+    "publishedDate": "2003-01-09T09:11:06Z",
+    "major": 4,
+    "minor": 0,
+    "patch": 9,
+    "prerelease": []
+  },
+  {
+    "version": "4.0.8",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.0.8",
+    "publishedDate": "2003-01-05T18:18:49Z",
+    "major": 4,
+    "minor": 0,
+    "patch": 8,
+    "prerelease": []
+  },
+  {
+    "version": "4.0.7",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.0.7",
+    "publishedDate": "2002-12-20T12:59:35Z",
+    "major": 4,
+    "minor": 0,
+    "patch": 7,
+    "prerelease": []
+  },
+  {
+    "version": "4.0.6",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.0.6",
+    "publishedDate": "2002-12-14T20:38:33Z",
+    "major": 4,
+    "minor": 0,
+    "patch": 6,
+    "prerelease": []
+  },
+  {
+    "version": "4.0.5",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.0.5",
+    "publishedDate": "2002-11-13T04:11:56Z",
+    "major": 4,
+    "minor": 0,
+    "patch": 5,
+    "prerelease": []
+  },
+  {
+    "version": "4.0.4",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.0.4",
+    "publishedDate": "2002-09-26T13:36:31Z",
+    "major": 4,
+    "minor": 0,
+    "patch": 4,
+    "prerelease": []
+  },
+  {
+    "version": "4.0.3",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.0.3",
+    "publishedDate": "2002-08-26T09:28:49Z",
+    "major": 4,
+    "minor": 0,
+    "patch": 3,
+    "prerelease": []
+  },
+  {
+    "version": "4.0.2",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.0.2",
+    "publishedDate": "2002-07-01T10:58:30Z",
+    "major": 4,
+    "minor": 0,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "4.0.1",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-4.0.1",
+    "publishedDate": "2001-12-23T01:03:09Z",
+    "major": 4,
+    "minor": 0,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "3.23.58",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-3.23.58",
+    "publishedDate": "2003-09-11T11:36:08Z",
+    "major": 3,
+    "minor": 23,
+    "patch": 58,
+    "prerelease": []
+  },
+  {
+    "version": "3.23.57",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-3.23.57",
+    "publishedDate": "2003-06-06T12:13:26Z",
+    "major": 3,
+    "minor": 23,
+    "patch": 57,
+    "prerelease": []
+  },
+  {
+    "version": "3.23.56",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-3.23.56",
+    "publishedDate": "2003-03-13T17:46:40Z",
+    "major": 3,
+    "minor": 23,
+    "patch": 56,
+    "prerelease": []
+  },
+  {
+    "version": "3.23.55",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-3.23.55",
+    "publishedDate": "2003-01-23T15:41:26Z",
+    "major": 3,
+    "minor": 23,
+    "patch": 55,
+    "prerelease": []
+  },
+  {
+    "version": "3.23.54",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-3.23.54",
+    "publishedDate": "2002-12-05T00:01:38Z",
+    "major": 3,
+    "minor": 23,
+    "patch": 54,
+    "prerelease": []
+  },
+  {
+    "version": "3.23.53",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-3.23.53",
+    "publishedDate": "2002-10-09T20:16:40Z",
+    "major": 3,
+    "minor": 23,
+    "patch": 53,
+    "prerelease": []
+  },
+  {
+    "version": "3.23.52",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-3.23.52",
+    "publishedDate": "2002-08-13T21:41:33Z",
+    "major": 3,
+    "minor": 23,
+    "patch": 52,
+    "prerelease": []
+  },
+  {
+    "version": "3.23.51",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-3.23.51",
+    "publishedDate": "2002-05-31T23:56:02Z",
+    "major": 3,
+    "minor": 23,
+    "patch": 51,
+    "prerelease": []
+  },
+  {
+    "version": "3.23.50",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-3.23.50",
+    "publishedDate": "2002-04-21T10:06:34Z",
+    "major": 3,
+    "minor": 23,
+    "patch": 50,
+    "prerelease": []
+  },
+  {
+    "version": "3.23.48",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-3.23.48",
+    "publishedDate": "2002-02-07T21:46:29Z",
+    "major": 3,
+    "minor": 23,
+    "patch": 48,
+    "prerelease": []
+  },
+  {
+    "version": "3.23.47",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-3.23.47",
+    "publishedDate": "2001-12-27T13:16:08Z",
+    "major": 3,
+    "minor": 23,
+    "patch": 47,
+    "prerelease": []
+  },
+  {
+    "version": "3.23.46",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-3.23.46",
+    "publishedDate": "2001-11-29T13:34:37Z",
+    "major": 3,
+    "minor": 23,
+    "patch": 46,
+    "prerelease": []
+  },
+  {
+    "version": "3.23.45",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-3.23.45",
+    "publishedDate": "2001-11-22T11:15:17Z",
+    "major": 3,
+    "minor": 23,
+    "patch": 45,
+    "prerelease": []
+  },
+  {
+    "version": "3.23.44",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-3.23.44",
+    "publishedDate": "2001-10-31T20:24:33Z",
+    "major": 3,
+    "minor": 23,
+    "patch": 44,
+    "prerelease": []
+  },
+  {
+    "version": "3.23.42",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-3.23.42",
+    "publishedDate": "2001-09-08T19:04:17Z",
+    "major": 3,
+    "minor": 23,
+    "patch": 42,
+    "prerelease": []
+  },
+  {
+    "version": "3.23.41",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-3.23.41",
+    "publishedDate": "2001-08-11T11:10:27Z",
+    "major": 3,
+    "minor": 23,
+    "patch": 41,
+    "prerelease": []
+  },
+  {
+    "version": "3.23.39",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-3.23.39",
+    "publishedDate": "2001-06-12T10:10:23Z",
+    "major": 3,
+    "minor": 23,
+    "patch": 39,
+    "prerelease": []
+  },
+  {
+    "version": "3.23.38",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-3.23.38",
+    "publishedDate": "2001-05-09T20:09:17Z",
+    "major": 3,
+    "minor": 23,
+    "patch": 38,
+    "prerelease": []
+  },
+  {
+    "version": "3.23.37",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-3.23.37",
+    "publishedDate": "2001-04-18T05:42:24Z",
+    "major": 3,
+    "minor": 23,
+    "patch": 37,
+    "prerelease": []
+  },
+  {
+    "version": "3.23.36",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-3.23.36",
+    "publishedDate": "2001-03-27T10:05:48Z",
+    "major": 3,
+    "minor": 23,
+    "patch": 36,
+    "prerelease": []
+  },
+  {
+    "version": "3.23.35",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-3.23.35",
+    "publishedDate": "2001-03-15T13:00:39Z",
+    "major": 3,
+    "minor": 23,
+    "patch": 35,
+    "prerelease": []
+  },
+  {
+    "version": "3.23.34",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-3.23.34",
+    "publishedDate": "2001-03-10T15:05:10Z",
+    "major": 3,
+    "minor": 23,
+    "patch": 34,
+    "prerelease": []
+  },
+  {
+    "version": "3.23.33",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-3.23.33",
+    "publishedDate": "2001-02-09T02:09:03Z",
+    "major": 3,
+    "minor": 23,
+    "patch": 33,
+    "prerelease": []
+  },
+  {
+    "version": "3.23.32",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-3.23.32",
+    "publishedDate": "2001-01-22T13:33:34Z",
+    "major": 3,
+    "minor": 23,
+    "patch": 32,
+    "prerelease": []
+  },
+  {
+    "version": "3.23.31",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-3.23.31",
+    "publishedDate": "2001-01-17T09:36:16Z",
+    "major": 3,
+    "minor": 23,
+    "patch": 31,
+    "prerelease": []
+  },
+  {
+    "version": "3.23.30",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-3.23.30-gamma",
+    "publishedDate": "2001-01-04T00:56:38Z",
+    "major": 3,
+    "minor": 23,
+    "patch": 30,
+    "prerelease": []
+  },
+  {
+    "version": "3.23.29",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-3.23.29a-gamma",
+    "publishedDate": "2000-12-16T21:41:45Z",
+    "major": 3,
+    "minor": 23,
+    "patch": 29,
+    "prerelease": []
+  },
+  {
+    "version": "3.23.28",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-3.23.28-gamma",
+    "publishedDate": "2000-11-22T17:17:52Z",
+    "major": 3,
+    "minor": 23,
+    "patch": 28,
+    "prerelease": []
+  },
+  {
+    "version": "3.23.27",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-3.23.27-beta",
+    "publishedDate": "2000-10-24T00:55:04Z",
+    "major": 3,
+    "minor": 23,
+    "patch": 27,
+    "prerelease": []
+  },
+  {
+    "version": "3.23.24",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-3.23.24-beta",
+    "publishedDate": "2000-09-08T07:49:25Z",
+    "major": 3,
+    "minor": 23,
+    "patch": 24,
+    "prerelease": []
+  },
+  {
+    "version": "3.23.22",
+    "url": "https://github.com/mysql/mysql-server/releases/tag/mysql-3.23.22-beta",
+    "publishedDate": "2000-08-01T03:51:36Z",
+    "major": 3,
+    "minor": 23,
+    "patch": 22,
+    "prerelease": []
+  }
+]

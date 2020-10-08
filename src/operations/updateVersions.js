@@ -1,37 +1,24 @@
 const fs = require('fs');
+const Promise = require('bluebird');
 
 async function update(productDescriptor, productVersions) {
     if (!productVersions) {
-        productVersions = {};
-    }
-
-    if (!productVersions.version_chains) {
-        productVersions.version_chains = [];
+        productVersions = [];
     }
 
     for (const versionDescriptor of productDescriptor.polling) {
-        if (!productVersions) {
-            return null;
+        let pollingMethod = versionDescriptor.method.toLowerCase();
+        let pollingEnginePath = __dirname + "/../utils/pollers/" + pollingMethod + ".js";
+        let pollingEngineExists = fs.existsSync(pollingEnginePath);
+        if (pollingEngineExists) {
+            const pollingEngine = require(pollingEnginePath);
+            productVersions = await pollingEngine.updateProductVersions(productDescriptor.name, versionDescriptor, productVersions);
+        } else {
+            throw new Error("Unknown Product Polling Method: " + pollingMethod)
         }
-        productVersions = await pollForVersion(productDescriptor.name, versionDescriptor, productVersions);
+        await Promise.delay(500);
     };
 
     return productVersions;
 }
-
-
-async function pollForVersion(name, versionDescriptor, productVersions) {
-    console.log("Polling for versions " + versionDescriptor.version + " of " + name);
-    let pollingMethod = versionDescriptor.method.toLowerCase();
-    let pollingEnginePath = __dirname + "/../utils/pollers/" + pollingMethod + ".js";
-    let pollingEngineExists = fs.existsSync(pollingEnginePath);
-    if (pollingEngineExists) {
-        const pollingEngine = require(pollingEnginePath);
-        productVersions = await pollingEngine.updateProductVersionChain(name, versionDescriptor, productVersions);
-    } else {
-        throw new Error("Unknown Product Polling Method: " + pollingMethod)
-    }
-    return productVersions;
-}
-
 module.exports = update;

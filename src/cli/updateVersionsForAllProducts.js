@@ -14,7 +14,7 @@ Promise.each(productFiles, async function(productFile) {
 
     console.log("Reading known versions for " + product.id + "...");
     let versionFilePath = __dirname + '/../../versions/' + product.id + ".json";
-    let versions = {};
+    let versions = [];
     if (fs.existsSync(versionFilePath)) {
         try {
             let rawVersions = await fs.readFileAsync(versionFilePath, 'utf-8');

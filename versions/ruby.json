@@ -1,0 +1,38 @@
+[
+  {
+    "version": "3.0.0",
+    "url": "https://github.com/ruby/ruby/releases/tag/v3_0_0_preview1",
+    "publishedDate": "2020-09-25T13:16:55Z",
+    "major": 3,
+    "minor": 0,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "2.0.0",
+    "url": "https://github.com/ruby/ruby/releases/tag/v2_7_2",
+    "publishedDate": "2020-10-01T12:15:38Z",
+    "major": 2,
+    "minor": 0,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "1.0.0",
+    "url": "https://github.com/ruby/ruby/releases/tag/v1_9_3_551",
+    "publishedDate": "2014-11-13T13:39:53Z",
+    "major": 1,
+    "minor": 0,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "0.0.0",
+    "url": "https://github.com/ruby/ruby/releases/tag/v0_99_4_961224",
+    "publishedDate": "2019-08-17T13:09:32Z",
+    "major": 0,
+    "minor": 0,
+    "patch": 0,
+    "prerelease": []
+  }
+]

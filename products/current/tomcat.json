@@ -1,0 +1,17 @@
+{
+  "name": "Tomcat",
+  "id": "tomcat",
+  "links": [
+    {
+      "title": "Homepage",
+      "url": "https://tomcat.apache.org"
+    }
+  ],
+  "polling": [
+    {
+      "method": "rss",
+      "feedURL": "http://tomcat.markmail.org/atom/+list:org%2Eapache%2Etomcat%2Eannounce",
+      "regex": "(\\[ANN\\] Apache Tomcat )(\\d+).(\\d+).(\\d+)( )(.+)"
+    }
+  ]
+}

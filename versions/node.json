@@ -1,0 +1,5348 @@
+[
+  {
+    "version": "14.13.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v14.13.1",
+    "publishedDate": "2020-10-06T19:17:50Z",
+    "major": 14,
+    "minor": 13,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "14.13.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v14.13.0",
+    "publishedDate": "2020-09-29T16:21:40Z",
+    "major": 14,
+    "minor": 13,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "14.12.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v14.12.0",
+    "publishedDate": "2020-09-22T01:26:15Z",
+    "major": 14,
+    "minor": 12,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "14.11.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v14.11.0",
+    "publishedDate": "2020-09-15T19:17:31Z",
+    "major": 14,
+    "minor": 11,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "14.10.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v14.10.1",
+    "publishedDate": "2020-09-10T10:12:43Z",
+    "major": 14,
+    "minor": 10,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "14.10.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v14.10.0",
+    "publishedDate": "2020-09-07T16:37:51Z",
+    "major": 14,
+    "minor": 10,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "14.9.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v14.9.0",
+    "publishedDate": "2020-08-27T11:40:07Z",
+    "major": 14,
+    "minor": 9,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "14.8.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v14.8.0",
+    "publishedDate": "2020-08-11T04:25:27Z",
+    "major": 14,
+    "minor": 8,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "14.7.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v14.7.0",
+    "publishedDate": "2020-07-29T15:33:10Z",
+    "major": 14,
+    "minor": 7,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "14.6.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v14.6.0",
+    "publishedDate": "2020-07-20T20:51:34Z",
+    "major": 14,
+    "minor": 6,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "14.5.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v14.5.0",
+    "publishedDate": "2020-06-30T16:35:56Z",
+    "major": 14,
+    "minor": 5,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "14.4.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v14.4.0",
+    "publishedDate": "2020-06-02T13:58:27Z",
+    "major": 14,
+    "minor": 4,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "14.3.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v14.3.0",
+    "publishedDate": "2020-05-19T18:30:54Z",
+    "major": 14,
+    "minor": 3,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "14.2.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v14.2.0",
+    "publishedDate": "2020-05-05T17:17:26Z",
+    "major": 14,
+    "minor": 2,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "14.1.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v14.1.0",
+    "publishedDate": "2020-04-29T15:41:52Z",
+    "major": 14,
+    "minor": 1,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "14.0.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v14.0.0",
+    "publishedDate": "2020-04-21T10:58:34Z",
+    "major": 14,
+    "minor": 0,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "13.14.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v13.14.0",
+    "publishedDate": "2020-04-28T21:00:30Z",
+    "major": 13,
+    "minor": 14,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "13.13.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v13.13.0",
+    "publishedDate": "2020-04-14T16:11:12Z",
+    "major": 13,
+    "minor": 13,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "13.12.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v13.12.0",
+    "publishedDate": "2020-03-26T18:49:44Z",
+    "major": 13,
+    "minor": 12,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "13.11.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v13.11.0",
+    "publishedDate": "2020-03-12T01:31:27Z",
+    "major": 13,
+    "minor": 11,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "13.10.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v13.10.1",
+    "publishedDate": "2020-03-04T23:48:21Z",
+    "major": 13,
+    "minor": 10,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "13.10.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v13.10.0",
+    "publishedDate": "2020-03-03T23:32:19Z",
+    "major": 13,
+    "minor": 10,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "13.9.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v13.9.0",
+    "publishedDate": "2020-02-18T16:31:53Z",
+    "major": 13,
+    "minor": 9,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "13.8.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v13.8.0",
+    "publishedDate": "2020-02-05T23:10:23Z",
+    "major": 13,
+    "minor": 8,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "13.7.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v13.7.0",
+    "publishedDate": "2020-01-21T06:10:41Z",
+    "major": 13,
+    "minor": 7,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "13.6.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v13.6.0",
+    "publishedDate": "2020-01-07T15:43:45Z",
+    "major": 13,
+    "minor": 6,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "13.5.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v13.5.0",
+    "publishedDate": "2019-12-18T16:58:32Z",
+    "major": 13,
+    "minor": 5,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "13.4.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v13.4.0",
+    "publishedDate": "2019-12-16T19:57:05Z",
+    "major": 13,
+    "minor": 4,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "13.3.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v13.3.0",
+    "publishedDate": "2019-12-03T14:26:47Z",
+    "major": 13,
+    "minor": 3,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "13.2.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v13.2.0",
+    "publishedDate": "2019-11-21T20:44:14Z",
+    "major": 13,
+    "minor": 2,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "13.1.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v13.1.0",
+    "publishedDate": "2019-11-05T09:57:38Z",
+    "major": 13,
+    "minor": 1,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "13.0.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v13.0.1",
+    "publishedDate": "2019-10-23T09:22:35Z",
+    "major": 13,
+    "minor": 0,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "13.0.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v13.0.0",
+    "publishedDate": "2019-10-22T13:31:46Z",
+    "major": 13,
+    "minor": 0,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "12.19.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v12.19.0",
+    "publishedDate": "2020-10-06T17:37:45Z",
+    "major": 12,
+    "minor": 19,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "12.18.4",
+    "url": "https://github.com/nodejs/node/releases/tag/v12.18.4",
+    "publishedDate": "2020-09-14T06:50:51Z",
+    "major": 12,
+    "minor": 18,
+    "patch": 4,
+    "prerelease": []
+  },
+  {
+    "version": "12.18.3",
+    "url": "https://github.com/nodejs/node/releases/tag/v12.18.3",
+    "publishedDate": "2020-07-22T14:57:01Z",
+    "major": 12,
+    "minor": 18,
+    "patch": 3,
+    "prerelease": []
+  },
+  {
+    "version": "12.18.2",
+    "url": "https://github.com/nodejs/node/releases/tag/v12.18.2",
+    "publishedDate": "2020-06-26T23:41:32Z",
+    "major": 12,
+    "minor": 18,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "12.18.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v12.18.1",
+    "publishedDate": "2020-06-16T19:50:11Z",
+    "major": 12,
+    "minor": 18,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "12.18.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v12.18.0",
+    "publishedDate": "2020-06-02T14:05:31Z",
+    "major": 12,
+    "minor": 18,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "12.17.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v12.17.0",
+    "publishedDate": "2020-05-25T11:32:25Z",
+    "major": 12,
+    "minor": 17,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "12.16.3",
+    "url": "https://github.com/nodejs/node/releases/tag/v12.16.3",
+    "publishedDate": "2020-04-27T21:58:31Z",
+    "major": 12,
+    "minor": 16,
+    "patch": 3,
+    "prerelease": []
+  },
+  {
+    "version": "12.16.2",
+    "url": "https://github.com/nodejs/node/releases/tag/v12.16.2",
+    "publishedDate": "2020-04-08T03:35:33Z",
+    "major": 12,
+    "minor": 16,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "12.16.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v12.16.1",
+    "publishedDate": "2020-02-18T02:12:58Z",
+    "major": 12,
+    "minor": 16,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "12.16.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v12.16.0",
+    "publishedDate": "2020-02-11T14:37:05Z",
+    "major": 12,
+    "minor": 16,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "12.15.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v12.15.0",
+    "publishedDate": "2020-02-05T23:20:35Z",
+    "major": 12,
+    "minor": 15,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "12.14.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v12.14.1",
+    "publishedDate": "2019-12-31T11:16:11Z",
+    "major": 12,
+    "minor": 14,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "12.14.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v12.14.0",
+    "publishedDate": "2019-12-16T19:58:44Z",
+    "major": 12,
+    "minor": 14,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "12.13.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v12.13.1",
+    "publishedDate": "2019-11-14T12:18:48Z",
+    "major": 12,
+    "minor": 13,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "12.13.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v12.13.0",
+    "publishedDate": "2019-10-18T07:14:31Z",
+    "major": 12,
+    "minor": 13,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "12.12.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v12.12.0",
+    "publishedDate": "2019-10-11T19:15:24Z",
+    "major": 12,
+    "minor": 12,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "12.11.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v12.11.1",
+    "publishedDate": "2019-10-01T13:01:26Z",
+    "major": 12,
+    "minor": 11,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "12.11.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v12.11.0",
+    "publishedDate": "2019-09-25T18:31:42Z",
+    "major": 12,
+    "minor": 11,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "12.10.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v12.10.0",
+    "publishedDate": "2019-09-04T15:04:16Z",
+    "major": 12,
+    "minor": 10,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "12.9.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v12.9.1",
+    "publishedDate": "2019-08-26T14:34:10Z",
+    "major": 12,
+    "minor": 9,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "12.9.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v12.9.0",
+    "publishedDate": "2019-08-20T16:51:14Z",
+    "major": 12,
+    "minor": 9,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "12.8.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v12.8.1",
+    "publishedDate": "2019-08-15T08:46:16Z",
+    "major": 12,
+    "minor": 8,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "12.8.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v12.8.0",
+    "publishedDate": "2019-08-06T14:59:46Z",
+    "major": 12,
+    "minor": 8,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "12.7.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v12.7.0",
+    "publishedDate": "2019-07-23T14:11:06Z",
+    "major": 12,
+    "minor": 7,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "12.6.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v12.6.0",
+    "publishedDate": "2019-07-02T20:01:39Z",
+    "major": 12,
+    "minor": 6,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "12.5.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v12.5.0",
+    "publishedDate": "2019-06-27T09:47:50Z",
+    "major": 12,
+    "minor": 5,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "12.4.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v12.4.0",
+    "publishedDate": "2019-06-03T12:16:07Z",
+    "major": 12,
+    "minor": 4,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "12.3.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v12.3.1",
+    "publishedDate": "2019-05-22T12:57:43Z",
+    "major": 12,
+    "minor": 3,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "12.3.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v12.3.0",
+    "publishedDate": "2019-05-21T13:28:56Z",
+    "major": 12,
+    "minor": 3,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "12.2.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v12.2.0",
+    "publishedDate": "2019-05-07T14:23:28Z",
+    "major": 12,
+    "minor": 2,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "12.1.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v12.1.0",
+    "publishedDate": "2019-04-29T12:36:39Z",
+    "major": 12,
+    "minor": 1,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "12.0.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v12.0.0",
+    "publishedDate": "2019-04-23T10:56:52Z",
+    "major": 12,
+    "minor": 0,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "11.15.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v11.15.0",
+    "publishedDate": "2019-04-30T03:23:51Z",
+    "major": 11,
+    "minor": 15,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "11.14.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v11.14.0",
+    "publishedDate": "2019-04-11T10:39:56Z",
+    "major": 11,
+    "minor": 14,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "11.13.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v11.13.0",
+    "publishedDate": "2019-03-28T07:03:41Z",
+    "major": 11,
+    "minor": 13,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "11.12.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v11.12.0",
+    "publishedDate": "2019-03-15T16:27:13Z",
+    "major": 11,
+    "minor": 12,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "11.11.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v11.11.0",
+    "publishedDate": "2019-03-05T22:38:46Z",
+    "major": 11,
+    "minor": 11,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "11.10.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v11.10.1",
+    "publishedDate": "2019-02-28T05:09:58Z",
+    "major": 11,
+    "minor": 10,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "11.10.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v11.10.0",
+    "publishedDate": "2019-02-14T20:51:04Z",
+    "major": 11,
+    "minor": 10,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "11.9.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v11.9.0",
+    "publishedDate": "2019-01-30T20:12:21Z",
+    "major": 11,
+    "minor": 9,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "11.8.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v11.8.0",
+    "publishedDate": "2019-01-24T21:55:59Z",
+    "major": 11,
+    "minor": 8,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "11.7.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v11.7.0",
+    "publishedDate": "2019-01-17T19:48:06Z",
+    "major": 11,
+    "minor": 7,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "11.6.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v11.6.0",
+    "publishedDate": "2018-12-26T05:28:30Z",
+    "major": 11,
+    "minor": 6,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "11.5.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v11.5.0",
+    "publishedDate": "2018-12-18T16:14:52Z",
+    "major": 11,
+    "minor": 5,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "11.4.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v11.4.0",
+    "publishedDate": "2018-12-07T14:35:35Z",
+    "major": 11,
+    "minor": 4,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "11.3.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v11.3.0",
+    "publishedDate": "2018-11-27T04:36:42Z",
+    "major": 11,
+    "minor": 3,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "11.2.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v11.2.0",
+    "publishedDate": "2018-11-15T19:20:37Z",
+    "major": 11,
+    "minor": 2,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "11.1.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v11.1.0",
+    "publishedDate": "2018-11-01T20:58:43Z",
+    "major": 11,
+    "minor": 1,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "11.0.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v11.0.0",
+    "publishedDate": "2018-10-22T20:14:46Z",
+    "major": 11,
+    "minor": 0,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "10.22.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v10.22.1",
+    "publishedDate": "2020-09-09T00:13:33Z",
+    "major": 10,
+    "minor": 22,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "10.22.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v10.22.0",
+    "publishedDate": "2020-07-15T15:27:18Z",
+    "major": 10,
+    "minor": 22,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "10.21.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v10.21.0",
+    "publishedDate": "2020-06-02T14:21:44Z",
+    "major": 10,
+    "minor": 21,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "10.20.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v10.20.1",
+    "publishedDate": "2020-04-12T11:48:28Z",
+    "major": 10,
+    "minor": 20,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "10.20.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v10.20.0",
+    "publishedDate": "2020-04-08T10:08:07Z",
+    "major": 10,
+    "minor": 20,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "10.19.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v10.19.0",
+    "publishedDate": "2020-02-05T23:22:07Z",
+    "major": 10,
+    "minor": 19,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "10.18.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v10.18.1",
+    "publishedDate": "2020-01-09T11:05:21Z",
+    "major": 10,
+    "minor": 18,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "10.18.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v10.18.0",
+    "publishedDate": "2019-12-16T19:58:22Z",
+    "major": 10,
+    "minor": 18,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "10.17.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v10.17.0",
+    "publishedDate": "2019-10-22T13:50:49Z",
+    "major": 10,
+    "minor": 17,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "10.16.3",
+    "url": "https://github.com/nodejs/node/releases/tag/v10.16.3",
+    "publishedDate": "2019-08-15T18:11:58Z",
+    "major": 10,
+    "minor": 16,
+    "patch": 3,
+    "prerelease": []
+  },
+  {
+    "version": "10.16.2",
+    "url": "https://github.com/nodejs/node/releases/tag/v10.16.2",
+    "publishedDate": "2019-08-06T15:31:10Z",
+    "major": 10,
+    "minor": 16,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "10.16.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v10.16.1",
+    "publishedDate": "2019-07-31T15:41:22Z",
+    "major": 10,
+    "minor": 16,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "10.16.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v10.16.0",
+    "publishedDate": "2019-05-28T21:12:02Z",
+    "major": 10,
+    "minor": 16,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "10.15.3",
+    "url": "https://github.com/nodejs/node/releases/tag/v10.15.3",
+    "publishedDate": "2019-03-04T13:08:21Z",
+    "major": 10,
+    "minor": 15,
+    "patch": 3,
+    "prerelease": []
+  },
+  {
+    "version": "10.15.2",
+    "url": "https://github.com/nodejs/node/releases/tag/v10.15.2",
+    "publishedDate": "2019-02-28T11:14:11Z",
+    "major": 10,
+    "minor": 15,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "10.15.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v10.15.1",
+    "publishedDate": "2019-01-29T17:46:10Z",
+    "major": 10,
+    "minor": 15,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "10.15.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v10.15.0",
+    "publishedDate": "2018-12-25T15:09:17Z",
+    "major": 10,
+    "minor": 15,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "10.14.2",
+    "url": "https://github.com/nodejs/node/releases/tag/v10.14.2",
+    "publishedDate": "2018-12-06T16:37:18Z",
+    "major": 10,
+    "minor": 14,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "10.14.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v10.14.1",
+    "publishedDate": "2018-11-29T04:47:06Z",
+    "major": 10,
+    "minor": 14,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "10.14.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v10.14.0",
+    "publishedDate": "2018-11-27T22:17:04Z",
+    "major": 10,
+    "minor": 14,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "10.13.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v10.13.0",
+    "publishedDate": "2018-10-30T06:20:26Z",
+    "major": 10,
+    "minor": 13,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "10.12.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v10.12.0",
+    "publishedDate": "2018-10-10T16:10:08Z",
+    "major": 10,
+    "minor": 12,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "10.11.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v10.11.0",
+    "publishedDate": "2018-09-20T06:18:03Z",
+    "major": 10,
+    "minor": 11,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "10.10.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v10.10.0",
+    "publishedDate": "2018-09-06T20:10:39Z",
+    "major": 10,
+    "minor": 10,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "10.9.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v10.9.0",
+    "publishedDate": "2018-08-15T10:48:13Z",
+    "major": 10,
+    "minor": 9,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "10.8.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v10.8.0",
+    "publishedDate": "2018-08-01T15:27:31Z",
+    "major": 10,
+    "minor": 8,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "10.7.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v10.7.0",
+    "publishedDate": "2018-07-18T11:19:10Z",
+    "major": 10,
+    "minor": 7,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "10.6.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v10.6.0",
+    "publishedDate": "2018-07-04T06:22:14Z",
+    "major": 10,
+    "minor": 6,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "10.5.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v10.5.0",
+    "publishedDate": "2018-06-20T17:02:45Z",
+    "major": 10,
+    "minor": 5,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "10.4.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v10.4.1",
+    "publishedDate": "2018-06-12T18:47:23Z",
+    "major": 10,
+    "minor": 4,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "10.4.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v10.4.0",
+    "publishedDate": "2018-06-06T12:34:30Z",
+    "major": 10,
+    "minor": 4,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "10.3.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v10.3.0",
+    "publishedDate": "2018-05-29T16:05:15Z",
+    "major": 10,
+    "minor": 3,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "10.2.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v10.2.1",
+    "publishedDate": "2018-05-24T17:38:46Z",
+    "major": 10,
+    "minor": 2,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "10.2.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v10.2.0",
+    "publishedDate": "2018-05-23T21:06:43Z",
+    "major": 10,
+    "minor": 2,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "10.1.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v10.1.0",
+    "publishedDate": "2018-05-09T01:28:04Z",
+    "major": 10,
+    "minor": 1,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "10.0.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v10.0.0",
+    "publishedDate": "2018-04-23T19:19:02Z",
+    "major": 10,
+    "minor": 0,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "9.11.2",
+    "url": "https://github.com/nodejs/node/releases/tag/v9.11.2",
+    "publishedDate": "2018-06-12T18:51:33Z",
+    "major": 9,
+    "minor": 11,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "9.11.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v9.11.1",
+    "publishedDate": "2018-04-05T03:15:33Z",
+    "major": 9,
+    "minor": 11,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "9.11.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v9.11.0",
+    "publishedDate": "2018-04-04T15:12:45Z",
+    "major": 9,
+    "minor": 11,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "9.10.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v9.10.1",
+    "publishedDate": "2018-03-29T22:08:11Z",
+    "major": 9,
+    "minor": 10,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "9.10.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v9.10.0",
+    "publishedDate": "2018-03-28T06:31:41Z",
+    "major": 9,
+    "minor": 10,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "9.9.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v9.9.0",
+    "publishedDate": "2018-03-21T11:23:47Z",
+    "major": 9,
+    "minor": 9,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "9.8.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v9.8.0",
+    "publishedDate": "2018-03-07T21:13:51Z",
+    "major": 9,
+    "minor": 8,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "9.7.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v9.7.1",
+    "publishedDate": "2018-03-02T01:34:31Z",
+    "major": 9,
+    "minor": 7,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "9.7.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v9.7.0",
+    "publishedDate": "2018-03-01T07:59:30Z",
+    "major": 9,
+    "minor": 7,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "9.6.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v9.6.1",
+    "publishedDate": "2018-02-23T02:27:30Z",
+    "major": 9,
+    "minor": 6,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "9.6.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v9.6.0",
+    "publishedDate": "2018-02-21T23:14:41Z",
+    "major": 9,
+    "minor": 6,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "9.5.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v9.5.0",
+    "publishedDate": "2018-01-31T19:53:58Z",
+    "major": 9,
+    "minor": 5,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "9.4.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v9.4.0",
+    "publishedDate": "2018-01-10T08:11:46Z",
+    "major": 9,
+    "minor": 4,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "9.3.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v9.3.0",
+    "publishedDate": "2017-12-12T09:26:14Z",
+    "major": 9,
+    "minor": 3,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "9.2.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v9.2.1",
+    "publishedDate": "2017-12-08T14:02:10Z",
+    "major": 9,
+    "minor": 2,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "9.2.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v9.2.0",
+    "publishedDate": "2017-11-14T20:21:28Z",
+    "major": 9,
+    "minor": 2,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "9.1.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v9.1.0",
+    "publishedDate": "2017-11-07T14:24:41Z",
+    "major": 9,
+    "minor": 1,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "9.0.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v9.0.0",
+    "publishedDate": "2017-10-31T18:52:36Z",
+    "major": 9,
+    "minor": 0,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "8.17.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v8.17.0",
+    "publishedDate": "2019-12-16T19:59:10Z",
+    "major": 8,
+    "minor": 17,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "8.16.2",
+    "url": "https://github.com/nodejs/node/releases/tag/v8.16.2",
+    "publishedDate": "2019-10-09T10:25:26Z",
+    "major": 8,
+    "minor": 16,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "8.16.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v8.16.1",
+    "publishedDate": "2019-08-15T18:13:25Z",
+    "major": 8,
+    "minor": 16,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "8.16.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v8.16.0",
+    "publishedDate": "2019-04-16T16:39:43Z",
+    "major": 8,
+    "minor": 16,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "8.15.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v8.15.1",
+    "publishedDate": "2019-02-28T11:20:00Z",
+    "major": 8,
+    "minor": 15,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "8.15.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v8.15.0",
+    "publishedDate": "2018-12-25T16:57:06Z",
+    "major": 8,
+    "minor": 15,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "8.14.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v8.14.1",
+    "publishedDate": "2018-12-18T05:42:55Z",
+    "major": 8,
+    "minor": 14,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "8.14.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v8.14.0",
+    "publishedDate": "2018-11-27T04:26:29Z",
+    "major": 8,
+    "minor": 14,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "8.13.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v8.13.0",
+    "publishedDate": "2018-11-20T15:28:37Z",
+    "major": 8,
+    "minor": 13,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "8.12.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v8.12.0",
+    "publishedDate": "2018-09-10T17:58:10Z",
+    "major": 8,
+    "minor": 12,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "8.11.4",
+    "url": "https://github.com/nodejs/node/releases/tag/v8.11.4",
+    "publishedDate": "2018-08-15T09:27:43Z",
+    "major": 8,
+    "minor": 11,
+    "patch": 4,
+    "prerelease": []
+  },
+  {
+    "version": "8.11.3",
+    "url": "https://github.com/nodejs/node/releases/tag/v8.11.3",
+    "publishedDate": "2018-06-12T18:42:01Z",
+    "major": 8,
+    "minor": 11,
+    "patch": 3,
+    "prerelease": []
+  },
+  {
+    "version": "8.11.2",
+    "url": "https://github.com/nodejs/node/releases/tag/v8.11.2",
+    "publishedDate": "2018-05-15T18:47:56Z",
+    "major": 8,
+    "minor": 11,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "8.11.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v8.11.1",
+    "publishedDate": "2018-03-29T22:08:57Z",
+    "major": 8,
+    "minor": 11,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "8.11.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v8.11.0",
+    "publishedDate": "2018-03-28T06:46:34Z",
+    "major": 8,
+    "minor": 11,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "8.10.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v8.10.0",
+    "publishedDate": "2018-03-06T22:07:06Z",
+    "major": 8,
+    "minor": 10,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "8.9.4",
+    "url": "https://github.com/nodejs/node/releases/tag/v8.9.4",
+    "publishedDate": "2018-01-03T02:21:37Z",
+    "major": 8,
+    "minor": 9,
+    "patch": 4,
+    "prerelease": []
+  },
+  {
+    "version": "8.9.3",
+    "url": "https://github.com/nodejs/node/releases/tag/v8.9.3",
+    "publishedDate": "2017-12-08T13:55:41Z",
+    "major": 8,
+    "minor": 9,
+    "patch": 3,
+    "prerelease": []
+  },
+  {
+    "version": "8.9.2",
+    "url": "https://github.com/nodejs/node/releases/tag/v8.9.2",
+    "publishedDate": "2017-12-05T17:46:53Z",
+    "major": 8,
+    "minor": 9,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "8.9.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v8.9.1",
+    "publishedDate": "2017-11-07T20:49:46Z",
+    "major": 8,
+    "minor": 9,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "8.9.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v8.9.0",
+    "publishedDate": "2017-10-31T14:04:01Z",
+    "major": 8,
+    "minor": 9,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "8.8.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v8.8.1",
+    "publishedDate": "2017-10-25T19:34:42Z",
+    "major": 8,
+    "minor": 8,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "8.8.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v8.8.0",
+    "publishedDate": "2017-10-24T15:27:21Z",
+    "major": 8,
+    "minor": 8,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "8.7.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v8.7.0",
+    "publishedDate": "2017-10-11T09:28:23Z",
+    "major": 8,
+    "minor": 7,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "8.6.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v8.6.0",
+    "publishedDate": "2017-09-26T20:18:49Z",
+    "major": 8,
+    "minor": 6,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "8.5.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v8.5.0",
+    "publishedDate": "2017-09-12T13:19:21Z",
+    "major": 8,
+    "minor": 5,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "8.4.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v8.4.0",
+    "publishedDate": "2017-08-14T15:40:18Z",
+    "major": 8,
+    "minor": 4,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "8.3.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v8.3.0",
+    "publishedDate": "2017-08-09T18:12:40Z",
+    "major": 8,
+    "minor": 3,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "8.2.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v8.2.1",
+    "publishedDate": "2017-07-20T20:53:52Z",
+    "major": 8,
+    "minor": 2,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "8.2.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v8.2.0",
+    "publishedDate": "2017-07-19T20:46:11Z",
+    "major": 8,
+    "minor": 2,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "8.1.4",
+    "url": "https://github.com/nodejs/node/releases/tag/v8.1.4",
+    "publishedDate": "2017-07-10T23:01:48Z",
+    "major": 8,
+    "minor": 1,
+    "patch": 4,
+    "prerelease": []
+  },
+  {
+    "version": "8.1.3",
+    "url": "https://github.com/nodejs/node/releases/tag/v8.1.3",
+    "publishedDate": "2017-06-29T04:44:55Z",
+    "major": 8,
+    "minor": 1,
+    "patch": 3,
+    "prerelease": []
+  },
+  {
+    "version": "8.1.2",
+    "url": "https://github.com/nodejs/node/releases/tag/v8.1.2",
+    "publishedDate": "2017-06-15T11:40:22Z",
+    "major": 8,
+    "minor": 1,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "8.1.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v8.1.1",
+    "publishedDate": "2017-06-13T05:41:29Z",
+    "major": 8,
+    "minor": 1,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "8.1.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v8.1.0",
+    "publishedDate": "2017-06-08T09:32:08Z",
+    "major": 8,
+    "minor": 1,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "8.0.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v8.0.0",
+    "publishedDate": "2017-05-30T17:09:22Z",
+    "major": 8,
+    "minor": 0,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "7.10.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v7.10.1",
+    "publishedDate": "2017-07-10T23:01:22Z",
+    "major": 7,
+    "minor": 10,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "7.10.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v7.10.0",
+    "publishedDate": "2017-05-03T01:42:02Z",
+    "major": 7,
+    "minor": 10,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "7.9.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v7.9.0",
+    "publishedDate": "2017-04-11T15:25:03Z",
+    "major": 7,
+    "minor": 9,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "7.8.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v7.8.0",
+    "publishedDate": "2017-03-28T23:54:33Z",
+    "major": 7,
+    "minor": 8,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "7.7.4",
+    "url": "https://github.com/nodejs/node/releases/tag/v7.7.4",
+    "publishedDate": "2017-03-21T18:10:35Z",
+    "major": 7,
+    "minor": 7,
+    "patch": 4,
+    "prerelease": []
+  },
+  {
+    "version": "7.7.3",
+    "url": "https://github.com/nodejs/node/releases/tag/v7.7.3",
+    "publishedDate": "2017-03-14T20:52:06Z",
+    "major": 7,
+    "minor": 7,
+    "patch": 3,
+    "prerelease": []
+  },
+  {
+    "version": "7.7.2",
+    "url": "https://github.com/nodejs/node/releases/tag/v7.7.2",
+    "publishedDate": "2017-03-08T11:52:14Z",
+    "major": 7,
+    "minor": 7,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "7.7.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v7.7.1",
+    "publishedDate": "2017-03-01T22:57:15Z",
+    "major": 7,
+    "minor": 7,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "7.7.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v7.7.0",
+    "publishedDate": "2017-03-01T00:38:30Z",
+    "major": 7,
+    "minor": 7,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "7.6.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v7.6.0",
+    "publishedDate": "2017-02-21T20:01:18Z",
+    "major": 7,
+    "minor": 6,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "7.5.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v7.5.0",
+    "publishedDate": "2017-01-31T21:07:11Z",
+    "major": 7,
+    "minor": 5,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "7.4.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v7.4.0",
+    "publishedDate": "2017-01-04T17:15:09Z",
+    "major": 7,
+    "minor": 4,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "7.3.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v7.3.0",
+    "publishedDate": "2016-12-20T17:55:58Z",
+    "major": 7,
+    "minor": 3,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "7.2.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v7.2.1",
+    "publishedDate": "2016-12-06T20:08:11Z",
+    "major": 7,
+    "minor": 2,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "7.2.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v7.2.0",
+    "publishedDate": "2016-11-22T22:13:11Z",
+    "major": 7,
+    "minor": 2,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "7.1.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v7.1.0",
+    "publishedDate": "2016-11-07T23:57:10Z",
+    "major": 7,
+    "minor": 1,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "7.0.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v7.0.0",
+    "publishedDate": "2016-10-25T12:47:32Z",
+    "major": 7,
+    "minor": 0,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "6.17.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v6.17.1",
+    "publishedDate": "2019-04-03T14:44:32Z",
+    "major": 6,
+    "minor": 17,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "6.17.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v6.17.0",
+    "publishedDate": "2019-02-28T05:58:49Z",
+    "major": 6,
+    "minor": 17,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "6.16.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v6.16.0",
+    "publishedDate": "2018-12-25T16:55:38Z",
+    "major": 6,
+    "minor": 16,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "6.15.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v6.15.1",
+    "publishedDate": "2018-12-03T12:33:57Z",
+    "major": 6,
+    "minor": 15,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "6.15.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v6.15.0",
+    "publishedDate": "2018-11-27T04:04:23Z",
+    "major": 6,
+    "minor": 15,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "6.14.4",
+    "url": "https://github.com/nodejs/node/releases/tag/v6.14.4",
+    "publishedDate": "2018-08-15T09:41:27Z",
+    "major": 6,
+    "minor": 14,
+    "patch": 4,
+    "prerelease": []
+  },
+  {
+    "version": "6.14.3",
+    "url": "https://github.com/nodejs/node/releases/tag/v6.14.3",
+    "publishedDate": "2018-06-11T23:37:55Z",
+    "major": 6,
+    "minor": 14,
+    "patch": 3,
+    "prerelease": []
+  },
+  {
+    "version": "6.14.2",
+    "url": "https://github.com/nodejs/node/releases/tag/v6.14.2",
+    "publishedDate": "2018-04-30T15:09:18Z",
+    "major": 6,
+    "minor": 14,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "6.14.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v6.14.1",
+    "publishedDate": "2018-03-29T22:13:21Z",
+    "major": 6,
+    "minor": 14,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "6.14.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v6.14.0",
+    "publishedDate": "2018-03-28T06:52:57Z",
+    "major": 6,
+    "minor": 14,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "6.13.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v6.13.1",
+    "publishedDate": "2018-03-06T18:33:11Z",
+    "major": 6,
+    "minor": 13,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "6.13.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v6.13.0",
+    "publishedDate": "2018-02-13T07:02:18Z",
+    "major": 6,
+    "minor": 13,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "6.12.3",
+    "url": "https://github.com/nodejs/node/releases/tag/v6.12.3",
+    "publishedDate": "2018-01-02T17:48:26Z",
+    "major": 6,
+    "minor": 12,
+    "patch": 3,
+    "prerelease": []
+  },
+  {
+    "version": "6.12.2",
+    "url": "https://github.com/nodejs/node/releases/tag/v6.12.2",
+    "publishedDate": "2017-12-07T23:53:50Z",
+    "major": 6,
+    "minor": 12,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "6.12.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v6.12.1",
+    "publishedDate": "2017-11-28T05:15:40Z",
+    "major": 6,
+    "minor": 12,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "6.12.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v6.12.0",
+    "publishedDate": "2017-11-06T20:17:29Z",
+    "major": 6,
+    "minor": 12,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "6.11.5",
+    "url": "https://github.com/nodejs/node/releases/tag/v6.11.5",
+    "publishedDate": "2017-10-24T15:25:08Z",
+    "major": 6,
+    "minor": 11,
+    "patch": 5,
+    "prerelease": []
+  },
+  {
+    "version": "6.11.4",
+    "url": "https://github.com/nodejs/node/releases/tag/v6.11.4",
+    "publishedDate": "2017-10-03T03:12:28Z",
+    "major": 6,
+    "minor": 11,
+    "patch": 4,
+    "prerelease": []
+  },
+  {
+    "version": "6.11.3",
+    "url": "https://github.com/nodejs/node/releases/tag/v6.11.3",
+    "publishedDate": "2017-09-05T17:09:11Z",
+    "major": 6,
+    "minor": 11,
+    "patch": 3,
+    "prerelease": []
+  },
+  {
+    "version": "6.11.2",
+    "url": "https://github.com/nodejs/node/releases/tag/v6.11.2",
+    "publishedDate": "2017-08-01T04:22:34Z",
+    "major": 6,
+    "minor": 11,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "6.11.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v6.11.1",
+    "publishedDate": "2017-07-10T23:20:03Z",
+    "major": 6,
+    "minor": 11,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "6.11.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v6.11.0",
+    "publishedDate": "2017-06-06T18:14:38Z",
+    "major": 6,
+    "minor": 11,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "6.10.3",
+    "url": "https://github.com/nodejs/node/releases/tag/v6.10.3",
+    "publishedDate": "2017-05-02T15:52:48Z",
+    "major": 6,
+    "minor": 10,
+    "patch": 3,
+    "prerelease": []
+  },
+  {
+    "version": "6.10.2",
+    "url": "https://github.com/nodejs/node/releases/tag/v6.10.2",
+    "publishedDate": "2017-04-04T08:48:58Z",
+    "major": 6,
+    "minor": 10,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "6.10.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v6.10.1",
+    "publishedDate": "2017-03-21T18:58:32Z",
+    "major": 6,
+    "minor": 10,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "6.10.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v6.10.0",
+    "publishedDate": "2017-02-21T23:39:36Z",
+    "major": 6,
+    "minor": 10,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "6.9.5",
+    "url": "https://github.com/nodejs/node/releases/tag/v6.9.5",
+    "publishedDate": "2017-01-31T18:28:45Z",
+    "major": 6,
+    "minor": 9,
+    "patch": 5,
+    "prerelease": []
+  },
+  {
+    "version": "6.9.4",
+    "url": "https://github.com/nodejs/node/releases/tag/v6.9.4",
+    "publishedDate": "2017-01-05T20:28:48Z",
+    "major": 6,
+    "minor": 9,
+    "patch": 4,
+    "prerelease": []
+  },
+  {
+    "version": "6.9.3",
+    "url": "https://github.com/nodejs/node/releases/tag/v6.9.3",
+    "publishedDate": "2017-01-03T22:36:50Z",
+    "major": 6,
+    "minor": 9,
+    "patch": 3,
+    "prerelease": []
+  },
+  {
+    "version": "6.9.2",
+    "url": "https://github.com/nodejs/node/releases/tag/v6.9.2",
+    "publishedDate": "2016-12-06T18:52:53Z",
+    "major": 6,
+    "minor": 9,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "6.9.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v6.9.1",
+    "publishedDate": "2016-10-19T21:37:40Z",
+    "major": 6,
+    "minor": 9,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "6.9.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v6.9.0",
+    "publishedDate": "2016-10-18T14:42:15Z",
+    "major": 6,
+    "minor": 9,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "6.8.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v6.8.1",
+    "publishedDate": "2016-10-14T22:03:12Z",
+    "major": 6,
+    "minor": 8,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "6.8.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v6.8.0",
+    "publishedDate": "2016-10-12T18:44:05Z",
+    "major": 6,
+    "minor": 8,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "6.7.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v6.7.0",
+    "publishedDate": "2016-09-27T18:26:59Z",
+    "major": 6,
+    "minor": 7,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "6.6.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v6.6.0",
+    "publishedDate": "2016-09-14T17:13:08Z",
+    "major": 6,
+    "minor": 6,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "6.5.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v6.5.0",
+    "publishedDate": "2016-08-26T10:58:36Z",
+    "major": 6,
+    "minor": 5,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "6.4.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v6.4.0",
+    "publishedDate": "2016-08-15T13:58:30Z",
+    "major": 6,
+    "minor": 4,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "6.3.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v6.3.1",
+    "publishedDate": "2016-07-21T20:10:37Z",
+    "major": 6,
+    "minor": 3,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "6.3.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v6.3.0",
+    "publishedDate": "2016-07-06T16:52:33Z",
+    "major": 6,
+    "minor": 3,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "6.2.2",
+    "url": "https://github.com/nodejs/node/releases/tag/v6.2.2",
+    "publishedDate": "2016-06-17T14:27:54Z",
+    "major": 6,
+    "minor": 2,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "6.2.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v6.2.1",
+    "publishedDate": "2016-06-02T21:37:10Z",
+    "major": 6,
+    "minor": 2,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "6.2.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v6.2.0",
+    "publishedDate": "2016-05-17T18:21:56Z",
+    "major": 6,
+    "minor": 2,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "6.1.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v6.1.0",
+    "publishedDate": "2016-05-05T21:33:50Z",
+    "major": 6,
+    "minor": 1,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "6.0.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v6.0.0",
+    "publishedDate": "2016-04-26T19:35:07Z",
+    "major": 6,
+    "minor": 0,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "5.12.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v5.12.0",
+    "publishedDate": "2016-06-23T13:15:39Z",
+    "major": 5,
+    "minor": 12,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "5.11.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v5.11.1",
+    "publishedDate": "2016-05-05T19:27:05Z",
+    "major": 5,
+    "minor": 11,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "5.11.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v5.11.0",
+    "publishedDate": "2016-04-21T00:48:56Z",
+    "major": 5,
+    "minor": 11,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "5.10.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v5.10.1",
+    "publishedDate": "2016-04-05T20:02:46Z",
+    "major": 5,
+    "minor": 10,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "5.10.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v5.10.0",
+    "publishedDate": "2016-04-01T03:21:50Z",
+    "major": 5,
+    "minor": 10,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "5.9.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v5.9.1",
+    "publishedDate": "2016-03-23T15:50:08Z",
+    "major": 5,
+    "minor": 9,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "5.9.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v5.9.0",
+    "publishedDate": "2016-03-16T19:56:49Z",
+    "major": 5,
+    "minor": 9,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "5.8.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v5.8.1-rc.1",
+    "publishedDate": "2016-03-14T19:17:39Z",
+    "major": 5,
+    "minor": 8,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "5.8.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v5.8.0",
+    "publishedDate": "2016-03-08T23:00:00Z",
+    "major": 5,
+    "minor": 8,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "5.7.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v5.7.1",
+    "publishedDate": "2016-03-02T21:54:35Z",
+    "major": 5,
+    "minor": 7,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "5.7.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v5.7.0",
+    "publishedDate": "2016-02-23T04:15:40Z",
+    "major": 5,
+    "minor": 7,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "5.6.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v5.6.0",
+    "publishedDate": "2016-02-09T16:43:02Z",
+    "major": 5,
+    "minor": 6,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "5.5.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v5.5.0",
+    "publishedDate": "2016-01-20T22:06:10Z",
+    "major": 5,
+    "minor": 5,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "5.4.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v5.4.1",
+    "publishedDate": "2016-01-12T20:48:21Z",
+    "major": 5,
+    "minor": 4,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "5.4.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v5.4.0",
+    "publishedDate": "2016-01-06T20:45:52Z",
+    "major": 5,
+    "minor": 4,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "5.3.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v5.3.0",
+    "publishedDate": "2015-12-16T18:16:37Z",
+    "major": 5,
+    "minor": 3,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "5.2.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v5.2.0",
+    "publishedDate": "2015-12-09T04:01:28Z",
+    "major": 5,
+    "minor": 2,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v5.1.1",
+    "publishedDate": "2015-12-03T21:47:40Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "5.1.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v5.1.0",
+    "publishedDate": "2015-11-17T19:39:55Z",
+    "major": 5,
+    "minor": 1,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "5.0.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v5.0.0",
+    "publishedDate": "2015-10-29T11:54:20Z",
+    "major": 5,
+    "minor": 0,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "4.9.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v4.9.1",
+    "publishedDate": "2018-03-29T22:09:49Z",
+    "major": 4,
+    "minor": 9,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "4.9.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v4.9.0",
+    "publishedDate": "2018-03-28T06:27:42Z",
+    "major": 4,
+    "minor": 9,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "4.8.7",
+    "url": "https://github.com/nodejs/node/releases/tag/v4.8.7",
+    "publishedDate": "2017-12-07T20:57:49Z",
+    "major": 4,
+    "minor": 8,
+    "patch": 7,
+    "prerelease": []
+  },
+  {
+    "version": "4.8.6",
+    "url": "https://github.com/nodejs/node/releases/tag/v4.8.6",
+    "publishedDate": "2017-11-06T20:30:50Z",
+    "major": 4,
+    "minor": 8,
+    "patch": 6,
+    "prerelease": []
+  },
+  {
+    "version": "4.8.5",
+    "url": "https://github.com/nodejs/node/releases/tag/v4.8.5",
+    "publishedDate": "2017-10-24T15:25:25Z",
+    "major": 4,
+    "minor": 8,
+    "patch": 5,
+    "prerelease": []
+  },
+  {
+    "version": "4.8.4",
+    "url": "https://github.com/nodejs/node/releases/tag/v4.8.4",
+    "publishedDate": "2017-07-10T23:20:25Z",
+    "major": 4,
+    "minor": 8,
+    "patch": 4,
+    "prerelease": []
+  },
+  {
+    "version": "4.8.3",
+    "url": "https://github.com/nodejs/node/releases/tag/v4.8.3",
+    "publishedDate": "2017-05-02T15:50:20Z",
+    "major": 4,
+    "minor": 8,
+    "patch": 3,
+    "prerelease": []
+  },
+  {
+    "version": "4.8.2",
+    "url": "https://github.com/nodejs/node/releases/tag/v4.8.2",
+    "publishedDate": "2017-04-04T08:48:03Z",
+    "major": 4,
+    "minor": 8,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "4.8.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v4.8.1",
+    "publishedDate": "2017-03-21T19:11:10Z",
+    "major": 4,
+    "minor": 8,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "4.8.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v4.8.0",
+    "publishedDate": "2017-02-21T21:58:16Z",
+    "major": 4,
+    "minor": 8,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "4.7.3",
+    "url": "https://github.com/nodejs/node/releases/tag/v4.7.3",
+    "publishedDate": "2017-01-31T18:28:11Z",
+    "major": 4,
+    "minor": 7,
+    "patch": 3,
+    "prerelease": []
+  },
+  {
+    "version": "4.7.2",
+    "url": "https://github.com/nodejs/node/releases/tag/v4.7.2",
+    "publishedDate": "2017-01-05T20:28:27Z",
+    "major": 4,
+    "minor": 7,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "4.7.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v4.7.1",
+    "publishedDate": "2017-01-03T22:37:06Z",
+    "major": 4,
+    "minor": 7,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "4.7.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v4.7.0",
+    "publishedDate": "2016-12-06T18:54:43Z",
+    "major": 4,
+    "minor": 7,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "4.6.2",
+    "url": "https://github.com/nodejs/node/releases/tag/v4.6.2",
+    "publishedDate": "2016-11-07T15:40:57Z",
+    "major": 4,
+    "minor": 6,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "4.6.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v4.6.1",
+    "publishedDate": "2016-10-18T16:50:07Z",
+    "major": 4,
+    "minor": 6,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "4.6.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v4.6.0",
+    "publishedDate": "2016-09-27T17:29:42Z",
+    "major": 4,
+    "minor": 6,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "4.5.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v4.5.0",
+    "publishedDate": "2016-08-16T14:48:12Z",
+    "major": 4,
+    "minor": 5,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "4.4.7",
+    "url": "https://github.com/nodejs/node/releases/tag/v4.4.7",
+    "publishedDate": "2016-06-28T20:51:33Z",
+    "major": 4,
+    "minor": 4,
+    "patch": 7,
+    "prerelease": []
+  },
+  {
+    "version": "4.4.6",
+    "url": "https://github.com/nodejs/node/releases/tag/v4.4.6",
+    "publishedDate": "2016-06-23T03:27:49Z",
+    "major": 4,
+    "minor": 4,
+    "patch": 6,
+    "prerelease": []
+  },
+  {
+    "version": "4.4.5",
+    "url": "https://github.com/nodejs/node/releases/tag/v4.4.5",
+    "publishedDate": "2016-05-24T17:25:06Z",
+    "major": 4,
+    "minor": 4,
+    "patch": 5,
+    "prerelease": []
+  },
+  {
+    "version": "4.4.4",
+    "url": "https://github.com/nodejs/node/releases/tag/v4.4.4",
+    "publishedDate": "2016-05-05T23:22:56Z",
+    "major": 4,
+    "minor": 4,
+    "patch": 4,
+    "prerelease": []
+  },
+  {
+    "version": "4.4.3",
+    "url": "https://github.com/nodejs/node/releases/tag/v4.4.3",
+    "publishedDate": "2016-04-12T18:44:24Z",
+    "major": 4,
+    "minor": 4,
+    "patch": 3,
+    "prerelease": []
+  },
+  {
+    "version": "4.4.2",
+    "url": "https://github.com/nodejs/node/releases/tag/v4.4.2",
+    "publishedDate": "2016-03-31T23:20:56Z",
+    "major": 4,
+    "minor": 4,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "4.4.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v4.4.1",
+    "publishedDate": "2016-03-22T17:33:37Z",
+    "major": 4,
+    "minor": 4,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "4.4.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v4.4.0",
+    "publishedDate": "2016-03-08T22:47:11Z",
+    "major": 4,
+    "minor": 4,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "4.3.2",
+    "url": "https://github.com/nodejs/node/releases/tag/v4.3.2",
+    "publishedDate": "2016-03-02T19:53:00Z",
+    "major": 4,
+    "minor": 3,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "4.3.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v4.3.1",
+    "publishedDate": "2016-02-16T21:50:51Z",
+    "major": 4,
+    "minor": 3,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "4.3.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v4.3.0",
+    "publishedDate": "2016-02-09T16:42:15Z",
+    "major": 4,
+    "minor": 3,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "4.2.6",
+    "url": "https://github.com/nodejs/node/releases/tag/v4.2.6",
+    "publishedDate": "2016-01-21T18:23:43Z",
+    "major": 4,
+    "minor": 2,
+    "patch": 6,
+    "prerelease": []
+  },
+  {
+    "version": "4.2.5",
+    "url": "https://github.com/nodejs/node/releases/tag/v4.2.5",
+    "publishedDate": "2016-01-20T18:56:58Z",
+    "major": 4,
+    "minor": 2,
+    "patch": 5,
+    "prerelease": []
+  },
+  {
+    "version": "4.2.4",
+    "url": "https://github.com/nodejs/node/releases/tag/v4.2.4",
+    "publishedDate": "2015-12-23T16:40:03Z",
+    "major": 4,
+    "minor": 2,
+    "patch": 4,
+    "prerelease": []
+  },
+  {
+    "version": "4.2.3",
+    "url": "https://github.com/nodejs/node/releases/tag/v4.2.3",
+    "publishedDate": "2015-12-03T21:45:31Z",
+    "major": 4,
+    "minor": 2,
+    "patch": 3,
+    "prerelease": []
+  },
+  {
+    "version": "4.2.2",
+    "url": "https://github.com/nodejs/node/releases/tag/v4.2.2",
+    "publishedDate": "2015-11-03T19:49:06Z",
+    "major": 4,
+    "minor": 2,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "4.2.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v4.2.1",
+    "publishedDate": "2015-10-13T17:01:46Z",
+    "major": 4,
+    "minor": 2,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "4.2.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v4.2.0",
+    "publishedDate": "2015-10-12T17:35:10Z",
+    "major": 4,
+    "minor": 2,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "4.1.2",
+    "url": "https://github.com/nodejs/node/releases/tag/v4.1.2",
+    "publishedDate": "2015-10-05T11:44:04Z",
+    "major": 4,
+    "minor": 1,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "4.1.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v4.1.1",
+    "publishedDate": "2015-09-22T23:25:25Z",
+    "major": 4,
+    "minor": 1,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "4.1.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v4.1.0",
+    "publishedDate": "2015-09-17T01:45:11Z",
+    "major": 4,
+    "minor": 1,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "4.0.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v4.0.0",
+    "publishedDate": "2015-09-08T13:29:00Z",
+    "major": 4,
+    "minor": 0,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "3.3.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v3.3.1",
+    "publishedDate": "2015-09-15T07:55:40Z",
+    "major": 3,
+    "minor": 3,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "3.3.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v3.3.0",
+    "publishedDate": "2015-09-02T10:12:36Z",
+    "major": 3,
+    "minor": 3,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "3.2.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v3.2.0",
+    "publishedDate": "2015-08-25T05:19:51Z",
+    "major": 3,
+    "minor": 2,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "3.1.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v3.1.0",
+    "publishedDate": "2015-08-19T15:54:16Z",
+    "major": 3,
+    "minor": 1,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "3.0.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v3.0.0",
+    "publishedDate": "2015-08-04T21:07:41Z",
+    "major": 3,
+    "minor": 0,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "2.5.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v2.5.0",
+    "publishedDate": "2015-07-28T15:08:18Z",
+    "major": 2,
+    "minor": 5,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "2.4.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v2.4.0",
+    "publishedDate": "2015-07-17T23:23:26Z",
+    "major": 2,
+    "minor": 4,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "2.3.4",
+    "url": "https://github.com/nodejs/node/releases/tag/v2.3.4",
+    "publishedDate": "2015-07-09T19:23:41Z",
+    "major": 2,
+    "minor": 3,
+    "patch": 4,
+    "prerelease": []
+  },
+  {
+    "version": "2.3.3",
+    "url": "https://github.com/nodejs/node/releases/tag/v2.3.3",
+    "publishedDate": "2015-07-04T00:10:40Z",
+    "major": 2,
+    "minor": 3,
+    "patch": 3,
+    "prerelease": []
+  },
+  {
+    "version": "2.3.2",
+    "url": "https://github.com/nodejs/node/releases/tag/v2.3.2",
+    "publishedDate": "2015-07-02T08:58:40Z",
+    "major": 2,
+    "minor": 3,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "2.3.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v2.3.1",
+    "publishedDate": "2015-06-23T05:32:41Z",
+    "major": 2,
+    "minor": 3,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "2.3.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v2.3.0",
+    "publishedDate": "2015-06-13T04:09:33Z",
+    "major": 2,
+    "minor": 3,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "2.2.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v2.2.1",
+    "publishedDate": "2015-06-01T03:21:15Z",
+    "major": 2,
+    "minor": 2,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "2.2.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v2.2.0",
+    "publishedDate": "2015-05-31T06:00:27Z",
+    "major": 2,
+    "minor": 2,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "2.1.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v2.1.0",
+    "publishedDate": "2015-05-24T02:08:57Z",
+    "major": 2,
+    "minor": 1,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "2.0.2",
+    "url": "https://github.com/nodejs/node/releases/tag/v2.0.2",
+    "publishedDate": "2015-05-15T22:38:20Z",
+    "major": 2,
+    "minor": 0,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "2.0.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v2.0.1",
+    "publishedDate": "2015-05-07T21:12:47Z",
+    "major": 2,
+    "minor": 0,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "2.0.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v2.0.0",
+    "publishedDate": "2015-05-04T21:34:44Z",
+    "major": 2,
+    "minor": 0,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "1.8.4",
+    "url": "https://github.com/nodejs/node/releases/tag/v1.8.4",
+    "publishedDate": "2015-07-09T21:11:10Z",
+    "major": 1,
+    "minor": 8,
+    "patch": 4,
+    "prerelease": []
+  },
+  {
+    "version": "1.8.3",
+    "url": "https://github.com/nodejs/node/releases/tag/v1.8.3",
+    "publishedDate": "2015-07-04T02:38:44Z",
+    "major": 1,
+    "minor": 8,
+    "patch": 3,
+    "prerelease": []
+  },
+  {
+    "version": "1.8.2",
+    "url": "https://github.com/nodejs/node/releases/tag/v1.8.2",
+    "publishedDate": "2015-05-18T02:28:13Z",
+    "major": 1,
+    "minor": 8,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "1.8.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v1.8.1",
+    "publishedDate": "2015-04-20T23:00:30Z",
+    "major": 1,
+    "minor": 8,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "1.7.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v1.7.1",
+    "publishedDate": "2015-04-14T12:58:04Z",
+    "major": 1,
+    "minor": 7,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "1.7.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v1.7.0",
+    "publishedDate": "2015-04-14T12:11:29Z",
+    "major": 1,
+    "minor": 7,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "1.6.4",
+    "url": "https://github.com/nodejs/node/releases/tag/v1.6.4",
+    "publishedDate": "2015-04-06T14:09:20Z",
+    "major": 1,
+    "minor": 6,
+    "patch": 4,
+    "prerelease": []
+  },
+  {
+    "version": "1.6.3",
+    "url": "https://github.com/nodejs/node/releases/tag/v1.6.3",
+    "publishedDate": "2015-03-31T11:45:08Z",
+    "major": 1,
+    "minor": 6,
+    "patch": 3,
+    "prerelease": []
+  },
+  {
+    "version": "1.6.2",
+    "url": "https://github.com/nodejs/node/releases/tag/v1.6.2",
+    "publishedDate": "2015-03-23T05:26:28Z",
+    "major": 1,
+    "minor": 6,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "1.6.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v1.6.1",
+    "publishedDate": "2015-03-20T02:19:18Z",
+    "major": 1,
+    "minor": 6,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "1.6.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v1.6.0",
+    "publishedDate": "2015-03-19T18:12:05Z",
+    "major": 1,
+    "minor": 6,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "1.5.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v1.5.1",
+    "publishedDate": "2015-03-09T18:01:40Z",
+    "major": 1,
+    "minor": 5,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "1.5.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v1.5.0",
+    "publishedDate": "2015-03-06T21:59:02Z",
+    "major": 1,
+    "minor": 5,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "1.4.3",
+    "url": "https://github.com/nodejs/node/releases/tag/v1.4.3",
+    "publishedDate": "2015-03-03T00:45:43Z",
+    "major": 1,
+    "minor": 4,
+    "patch": 3,
+    "prerelease": []
+  },
+  {
+    "version": "1.4.2",
+    "url": "https://github.com/nodejs/node/releases/tag/v1.4.2",
+    "publishedDate": "2015-02-28T21:12:58Z",
+    "major": 1,
+    "minor": 4,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "1.4.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v1.4.1",
+    "publishedDate": "2015-02-26T19:37:12Z",
+    "major": 1,
+    "minor": 4,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "1.3.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v1.3.0",
+    "publishedDate": "2015-02-20T09:27:42Z",
+    "major": 1,
+    "minor": 3,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "1.2.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v1.2.0",
+    "publishedDate": "2015-02-11T02:48:17Z",
+    "major": 1,
+    "minor": 2,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "1.1.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v1.1.0",
+    "publishedDate": "2015-02-03T22:13:21Z",
+    "major": 1,
+    "minor": 1,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "1.0.4",
+    "url": "https://github.com/nodejs/node/releases/tag/v1.0.4",
+    "publishedDate": "2015-01-24T11:35:32Z",
+    "major": 1,
+    "minor": 0,
+    "patch": 4,
+    "prerelease": []
+  },
+  {
+    "version": "1.0.3",
+    "url": "https://github.com/nodejs/node/releases/tag/v1.0.3",
+    "publishedDate": "2015-01-20T01:35:53Z",
+    "major": 1,
+    "minor": 0,
+    "patch": 3,
+    "prerelease": []
+  },
+  {
+    "version": "1.0.2",
+    "url": "https://github.com/nodejs/node/releases/tag/v1.0.2",
+    "publishedDate": "2015-01-16T04:00:22Z",
+    "major": 1,
+    "minor": 0,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "1.0.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v1.0.1",
+    "publishedDate": "2015-01-14T04:31:29Z",
+    "major": 1,
+    "minor": 0,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "1.0.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v1.0.0",
+    "publishedDate": "2015-01-14T03:07:28Z",
+    "major": 1,
+    "minor": 0,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "0.12.18",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.12.18",
+    "publishedDate": "2016-12-21T12:14:28Z",
+    "major": 0,
+    "minor": 12,
+    "patch": 18,
+    "prerelease": []
+  },
+  {
+    "version": "0.12.17",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.12.17",
+    "publishedDate": "2016-10-18T13:41:01Z",
+    "major": 0,
+    "minor": 12,
+    "patch": 17,
+    "prerelease": []
+  },
+  {
+    "version": "0.12.16",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.12.16",
+    "publishedDate": "2016-09-27T17:30:02Z",
+    "major": 0,
+    "minor": 12,
+    "patch": 16,
+    "prerelease": []
+  },
+  {
+    "version": "0.12.15",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.12.15",
+    "publishedDate": "2016-06-23T16:46:33Z",
+    "major": 0,
+    "minor": 12,
+    "patch": 15,
+    "prerelease": []
+  },
+  {
+    "version": "0.12.14",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.12.14",
+    "publishedDate": "2016-05-06T12:59:34Z",
+    "major": 0,
+    "minor": 12,
+    "patch": 14,
+    "prerelease": []
+  },
+  {
+    "version": "0.12.13",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.12.13",
+    "publishedDate": "2016-03-31T23:26:45Z",
+    "major": 0,
+    "minor": 12,
+    "patch": 13,
+    "prerelease": []
+  },
+  {
+    "version": "0.12.12",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.12.12",
+    "publishedDate": "2016-03-08T12:29:45Z",
+    "major": 0,
+    "minor": 12,
+    "patch": 12,
+    "prerelease": []
+  },
+  {
+    "version": "0.12.11",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.12.11",
+    "publishedDate": "2016-03-03T15:55:11Z",
+    "major": 0,
+    "minor": 12,
+    "patch": 11,
+    "prerelease": []
+  },
+  {
+    "version": "0.12.10",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.12.10",
+    "publishedDate": "2016-02-09T16:41:18Z",
+    "major": 0,
+    "minor": 12,
+    "patch": 10,
+    "prerelease": []
+  },
+  {
+    "version": "0.12.9",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.12.9",
+    "publishedDate": "2015-12-03T21:44:40Z",
+    "major": 0,
+    "minor": 12,
+    "patch": 9,
+    "prerelease": []
+  },
+  {
+    "version": "0.12.8",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.12.8",
+    "publishedDate": "2015-11-24T23:21:52Z",
+    "major": 0,
+    "minor": 12,
+    "patch": 8,
+    "prerelease": []
+  },
+  {
+    "version": "0.12.7",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.12.7",
+    "publishedDate": "2015-07-09T22:41:19Z",
+    "major": 0,
+    "minor": 12,
+    "patch": 7,
+    "prerelease": []
+  },
+  {
+    "version": "0.12.6",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.12.6",
+    "publishedDate": "2015-07-04T00:33:28Z",
+    "major": 0,
+    "minor": 12,
+    "patch": 6,
+    "prerelease": []
+  },
+  {
+    "version": "0.12.5",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.12.5",
+    "publishedDate": "2015-06-22T18:22:53Z",
+    "major": 0,
+    "minor": 12,
+    "patch": 5,
+    "prerelease": []
+  },
+  {
+    "version": "0.12.4",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.12.4",
+    "publishedDate": "2015-05-23T03:06:54Z",
+    "major": 0,
+    "minor": 12,
+    "patch": 4,
+    "prerelease": []
+  },
+  {
+    "version": "0.12.3",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.12.3",
+    "publishedDate": "2015-05-14T00:30:45Z",
+    "major": 0,
+    "minor": 12,
+    "patch": 3,
+    "prerelease": []
+  },
+  {
+    "version": "0.12.2",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.12.2",
+    "publishedDate": "2015-03-31T22:13:01Z",
+    "major": 0,
+    "minor": 12,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "0.12.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.12.1",
+    "publishedDate": "2015-03-24T01:12:47Z",
+    "major": 0,
+    "minor": 12,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "0.12.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.12.0",
+    "publishedDate": "2015-02-06T20:04:23Z",
+    "major": 0,
+    "minor": 12,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "0.11.16",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.11.16",
+    "publishedDate": "2015-01-30T06:13:10Z",
+    "major": 0,
+    "minor": 11,
+    "patch": 16,
+    "prerelease": []
+  },
+  {
+    "version": "0.11.15",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.11.15",
+    "publishedDate": "2015-01-20T21:22:17Z",
+    "major": 0,
+    "minor": 11,
+    "patch": 15,
+    "prerelease": []
+  },
+  {
+    "version": "0.11.14",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.11.14",
+    "publishedDate": "2014-09-24T21:46:41Z",
+    "major": 0,
+    "minor": 11,
+    "patch": 14,
+    "prerelease": []
+  },
+  {
+    "version": "0.11.13",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.11.13",
+    "publishedDate": "2014-05-02T00:49:51Z",
+    "major": 0,
+    "minor": 11,
+    "patch": 13,
+    "prerelease": []
+  },
+  {
+    "version": "0.11.12",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.11.12",
+    "publishedDate": "2014-03-11T21:49:48Z",
+    "major": 0,
+    "minor": 11,
+    "patch": 12,
+    "prerelease": []
+  },
+  {
+    "version": "0.11.11",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.11.11",
+    "publishedDate": "2014-01-29T01:29:56Z",
+    "major": 0,
+    "minor": 11,
+    "patch": 11,
+    "prerelease": []
+  },
+  {
+    "version": "0.11.10",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.11.10",
+    "publishedDate": "2013-12-31T23:37:12Z",
+    "major": 0,
+    "minor": 11,
+    "patch": 10,
+    "prerelease": []
+  },
+  {
+    "version": "0.11.9",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.11.9",
+    "publishedDate": "2013-11-21T00:03:31Z",
+    "major": 0,
+    "minor": 11,
+    "patch": 9,
+    "prerelease": []
+  },
+  {
+    "version": "0.11.8",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.11.8",
+    "publishedDate": "2013-10-30T00:08:07Z",
+    "major": 0,
+    "minor": 11,
+    "patch": 8,
+    "prerelease": []
+  },
+  {
+    "version": "0.11.7",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.11.7",
+    "publishedDate": "2013-09-04T21:01:26Z",
+    "major": 0,
+    "minor": 11,
+    "patch": 7,
+    "prerelease": []
+  },
+  {
+    "version": "0.11.6",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.11.6",
+    "publishedDate": "2013-08-21T20:20:50Z",
+    "major": 0,
+    "minor": 11,
+    "patch": 6,
+    "prerelease": []
+  },
+  {
+    "version": "0.11.5",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.11.5",
+    "publishedDate": "2013-08-06T21:41:21Z",
+    "major": 0,
+    "minor": 11,
+    "patch": 5,
+    "prerelease": []
+  },
+  {
+    "version": "0.11.4",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.11.4",
+    "publishedDate": "2013-07-12T20:51:04Z",
+    "major": 0,
+    "minor": 11,
+    "patch": 4,
+    "prerelease": []
+  },
+  {
+    "version": "0.11.3",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.11.3",
+    "publishedDate": "2013-06-26T18:15:10Z",
+    "major": 0,
+    "minor": 11,
+    "patch": 3,
+    "prerelease": []
+  },
+  {
+    "version": "0.11.2",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.11.2",
+    "publishedDate": "2013-05-13T21:54:38Z",
+    "major": 0,
+    "minor": 11,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "0.11.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.11.1",
+    "publishedDate": "2013-04-19T15:32:32Z",
+    "major": 0,
+    "minor": 11,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "0.11.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.11.0",
+    "publishedDate": "2013-03-28T20:53:13Z",
+    "major": 0,
+    "minor": 11,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.48",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.48",
+    "publishedDate": "2016-10-18T13:32:51Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 48,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.47",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.47",
+    "publishedDate": "2016-09-27T16:20:44Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 47,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.46",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.46",
+    "publishedDate": "2016-06-23T15:21:29Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 46,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.45",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.45",
+    "publishedDate": "2016-05-06T12:53:59Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 45,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.44",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.44",
+    "publishedDate": "2016-03-31T23:50:40Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 44,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.43",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.43",
+    "publishedDate": "2016-03-04T01:42:46Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 43,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.42",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.42",
+    "publishedDate": "2016-02-09T16:40:30Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 42,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.41",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.41",
+    "publishedDate": "2015-12-03T21:37:29Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 41,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.40",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.40",
+    "publishedDate": "2015-07-09T21:19:36Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 40,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.39",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.39",
+    "publishedDate": "2015-06-19T05:57:52Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 39,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.38",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.38",
+    "publishedDate": "2015-03-23T19:23:33Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 38,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.37",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.37",
+    "publishedDate": "2015-03-11T23:30:44Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 37,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.36",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.36",
+    "publishedDate": "2015-01-26T18:28:23Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 36,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.35",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.35",
+    "publishedDate": "2014-12-22T21:22:32Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 35,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.34",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.34",
+    "publishedDate": "2014-12-17T21:21:23Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 34,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.33",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.33",
+    "publishedDate": "2014-10-23T17:45:12Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 33,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.32",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.32",
+    "publishedDate": "2014-09-16T22:47:52Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 32,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.31",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.31",
+    "publishedDate": "2014-08-19T15:19:52Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 31,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.30",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.30",
+    "publishedDate": "2014-07-31T17:24:06Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 30,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.29",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.29",
+    "publishedDate": "2014-06-09T17:04:36Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 29,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.28",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.28",
+    "publishedDate": "2014-05-02T00:47:47Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 28,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.27",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.27",
+    "publishedDate": "2014-05-01T21:04:20Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 27,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.26",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.26",
+    "publishedDate": "2014-02-18T23:34:29Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 26,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.25",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.25",
+    "publishedDate": "2014-01-23T05:05:51Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 25,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.24",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.24",
+    "publishedDate": "2013-12-18T23:49:45Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 24,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.23",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.23",
+    "publishedDate": "2013-12-12T05:20:06Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 23,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.22",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.22",
+    "publishedDate": "2013-11-12T20:22:12Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 22,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.21",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.21",
+    "publishedDate": "2013-10-18T21:26:27Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 21,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.20",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.20",
+    "publishedDate": "2013-09-30T20:52:48Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 20,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.19",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.19",
+    "publishedDate": "2013-09-24T21:10:33Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 19,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.18",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.18",
+    "publishedDate": "2013-09-04T17:51:53Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 18,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.17",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.17",
+    "publishedDate": "2013-08-21T22:00:56Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 17,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.16",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.16",
+    "publishedDate": "2013-08-16T15:32:38Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 16,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.15",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.15",
+    "publishedDate": "2013-07-25T23:26:15Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 15,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.14",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.14",
+    "publishedDate": "2013-07-25T18:49:01Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 14,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.13",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.13",
+    "publishedDate": "2013-07-09T20:51:24Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 13,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.12",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.12",
+    "publishedDate": "2013-06-18T16:50:53Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 12,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.11",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.11",
+    "publishedDate": "2013-06-13T17:35:30Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 11,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.10",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.10",
+    "publishedDate": "2013-06-04T19:13:46Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 10,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.9",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.9",
+    "publishedDate": "2013-05-30T17:31:07Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 9,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.8",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.8",
+    "publishedDate": "2013-05-24T22:06:33Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 8,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.7",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.7",
+    "publishedDate": "2013-05-17T20:59:10Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 7,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.6",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.6",
+    "publishedDate": "2013-05-14T20:51:43Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 6,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.5",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.5",
+    "publishedDate": "2013-04-23T20:27:37Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 5,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.4",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.4",
+    "publishedDate": "2013-04-11T16:39:16Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 4,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.3",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.3",
+    "publishedDate": "2013-04-03T17:30:57Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 3,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.2",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.2",
+    "publishedDate": "2013-03-28T19:07:52Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.1",
+    "publishedDate": "2013-03-21T01:15:04Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "0.10.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.10.0",
+    "publishedDate": "2013-03-11T00:36:28Z",
+    "major": 0,
+    "minor": 10,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "0.9.12",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.9.12",
+    "publishedDate": "2013-03-06T21:06:10Z",
+    "major": 0,
+    "minor": 9,
+    "patch": 12,
+    "prerelease": []
+  },
+  {
+    "version": "0.9.11",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.9.11",
+    "publishedDate": "2013-03-01T18:59:24Z",
+    "major": 0,
+    "minor": 9,
+    "patch": 11,
+    "prerelease": []
+  },
+  {
+    "version": "0.9.10",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.9.10",
+    "publishedDate": "2013-02-19T21:23:47Z",
+    "major": 0,
+    "minor": 9,
+    "patch": 10,
+    "prerelease": []
+  },
+  {
+    "version": "0.9.9",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.9.9",
+    "publishedDate": "2013-02-07T17:11:11Z",
+    "major": 0,
+    "minor": 9,
+    "patch": 9,
+    "prerelease": []
+  },
+  {
+    "version": "0.9.8",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.9.8",
+    "publishedDate": "2013-01-24T17:15:25Z",
+    "major": 0,
+    "minor": 9,
+    "patch": 8,
+    "prerelease": []
+  },
+  {
+    "version": "0.9.7",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.9.7",
+    "publishedDate": "2013-01-18T19:04:11Z",
+    "major": 0,
+    "minor": 9,
+    "patch": 7,
+    "prerelease": []
+  },
+  {
+    "version": "0.9.6",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.9.6",
+    "publishedDate": "2013-01-11T18:49:21Z",
+    "major": 0,
+    "minor": 9,
+    "patch": 6,
+    "prerelease": []
+  },
+  {
+    "version": "0.9.5",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.9.5",
+    "publishedDate": "2012-12-30T00:54:24Z",
+    "major": 0,
+    "minor": 9,
+    "patch": 5,
+    "prerelease": []
+  },
+  {
+    "version": "0.9.4",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.9.4",
+    "publishedDate": "2012-12-21T20:15:05Z",
+    "major": 0,
+    "minor": 9,
+    "patch": 4,
+    "prerelease": []
+  },
+  {
+    "version": "0.9.3",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.9.3",
+    "publishedDate": "2012-10-24T16:21:44Z",
+    "major": 0,
+    "minor": 9,
+    "patch": 3,
+    "prerelease": []
+  },
+  {
+    "version": "0.9.2",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.9.2",
+    "publishedDate": "2012-09-18T00:54:59Z",
+    "major": 0,
+    "minor": 9,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "0.9.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.9.1",
+    "publishedDate": "2012-08-28T22:27:49Z",
+    "major": 0,
+    "minor": 9,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "0.9.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.9.0",
+    "publishedDate": "2012-07-20T18:08:53Z",
+    "major": 0,
+    "minor": 9,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "0.8.28",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.8.28",
+    "publishedDate": "2014-07-31T18:17:31Z",
+    "major": 0,
+    "minor": 8,
+    "patch": 28,
+    "prerelease": []
+  },
+  {
+    "version": "0.8.27",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.8.27",
+    "publishedDate": "2014-06-09T19:44:26Z",
+    "major": 0,
+    "minor": 8,
+    "patch": 27,
+    "prerelease": []
+  },
+  {
+    "version": "0.8.26",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.8.26",
+    "publishedDate": "2013-10-18T17:44:03Z",
+    "major": 0,
+    "minor": 8,
+    "patch": 26,
+    "prerelease": []
+  },
+  {
+    "version": "0.8.25",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.8.25",
+    "publishedDate": "2013-06-13T18:49:15Z",
+    "major": 0,
+    "minor": 8,
+    "patch": 25,
+    "prerelease": []
+  },
+  {
+    "version": "0.8.24",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.8.24",
+    "publishedDate": "2013-06-03T23:53:09Z",
+    "major": 0,
+    "minor": 8,
+    "patch": 24,
+    "prerelease": []
+  },
+  {
+    "version": "0.8.23",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.8.23",
+    "publishedDate": "2013-04-08T23:51:44Z",
+    "major": 0,
+    "minor": 8,
+    "patch": 23,
+    "prerelease": []
+  },
+  {
+    "version": "0.8.22",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.8.22",
+    "publishedDate": "2013-03-06T23:47:29Z",
+    "major": 0,
+    "minor": 8,
+    "patch": 22,
+    "prerelease": []
+  },
+  {
+    "version": "0.8.21",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.8.21",
+    "publishedDate": "2013-02-25T21:07:25Z",
+    "major": 0,
+    "minor": 8,
+    "patch": 21,
+    "prerelease": []
+  },
+  {
+    "version": "0.8.20",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.8.20",
+    "publishedDate": "2013-02-15T18:50:11Z",
+    "major": 0,
+    "minor": 8,
+    "patch": 20,
+    "prerelease": []
+  },
+  {
+    "version": "0.8.19",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.8.19",
+    "publishedDate": "2013-02-06T16:46:14Z",
+    "major": 0,
+    "minor": 8,
+    "patch": 19,
+    "prerelease": []
+  },
+  {
+    "version": "0.8.18",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.8.18",
+    "publishedDate": "2013-01-18T20:15:41Z",
+    "major": 0,
+    "minor": 8,
+    "patch": 18,
+    "prerelease": []
+  },
+  {
+    "version": "0.8.17",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.8.17",
+    "publishedDate": "2013-01-10T00:55:12Z",
+    "major": 0,
+    "minor": 8,
+    "patch": 17,
+    "prerelease": []
+  },
+  {
+    "version": "0.8.16",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.8.16",
+    "publishedDate": "2012-12-13T19:49:39Z",
+    "major": 0,
+    "minor": 8,
+    "patch": 16,
+    "prerelease": []
+  },
+  {
+    "version": "0.8.15",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.8.15",
+    "publishedDate": "2012-11-26T16:39:49Z",
+    "major": 0,
+    "minor": 8,
+    "patch": 15,
+    "prerelease": []
+  },
+  {
+    "version": "0.8.14",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.8.14",
+    "publishedDate": "2012-10-25T20:49:32Z",
+    "major": 0,
+    "minor": 8,
+    "patch": 14,
+    "prerelease": []
+  },
+  {
+    "version": "0.8.13",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.8.13",
+    "publishedDate": "2012-10-25T18:46:13Z",
+    "major": 0,
+    "minor": 8,
+    "patch": 13,
+    "prerelease": []
+  },
+  {
+    "version": "0.8.12",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.8.12",
+    "publishedDate": "2012-10-11T21:34:11Z",
+    "major": 0,
+    "minor": 8,
+    "patch": 12,
+    "prerelease": []
+  },
+  {
+    "version": "0.8.11",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.8.11",
+    "publishedDate": "2012-09-27T16:39:23Z",
+    "major": 0,
+    "minor": 8,
+    "patch": 11,
+    "prerelease": []
+  },
+  {
+    "version": "0.8.10",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.8.10",
+    "publishedDate": "2012-09-25T20:48:15Z",
+    "major": 0,
+    "minor": 8,
+    "patch": 10,
+    "prerelease": []
+  },
+  {
+    "version": "0.8.9",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.8.9",
+    "publishedDate": "2012-09-11T18:08:07Z",
+    "major": 0,
+    "minor": 8,
+    "patch": 9,
+    "prerelease": []
+  },
+  {
+    "version": "0.8.8",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.8.8",
+    "publishedDate": "2012-08-22T18:03:20Z",
+    "major": 0,
+    "minor": 8,
+    "patch": 8,
+    "prerelease": []
+  },
+  {
+    "version": "0.8.7",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.8.7",
+    "publishedDate": "2012-08-15T22:52:57Z",
+    "major": 0,
+    "minor": 8,
+    "patch": 7,
+    "prerelease": []
+  },
+  {
+    "version": "0.8.6",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.8.6",
+    "publishedDate": "2012-08-07T18:56:58Z",
+    "major": 0,
+    "minor": 8,
+    "patch": 6,
+    "prerelease": []
+  },
+  {
+    "version": "0.8.5",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.8.5",
+    "publishedDate": "2012-08-02T20:56:50Z",
+    "major": 0,
+    "minor": 8,
+    "patch": 5,
+    "prerelease": []
+  },
+  {
+    "version": "0.8.4",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.8.4",
+    "publishedDate": "2012-07-25T00:06:58Z",
+    "major": 0,
+    "minor": 8,
+    "patch": 4,
+    "prerelease": []
+  },
+  {
+    "version": "0.8.3",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.8.3",
+    "publishedDate": "2012-07-19T17:01:56Z",
+    "major": 0,
+    "minor": 8,
+    "patch": 3,
+    "prerelease": []
+  },
+  {
+    "version": "0.8.2",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.8.2",
+    "publishedDate": "2012-07-07T22:15:17Z",
+    "major": 0,
+    "minor": 8,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "0.8.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.8.1",
+    "publishedDate": "2012-06-29T09:11:19Z",
+    "major": 0,
+    "minor": 8,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "0.8.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.8.0",
+    "publishedDate": "2012-06-25T14:37:20Z",
+    "major": 0,
+    "minor": 8,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "0.7.12",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.7.12",
+    "publishedDate": "2012-06-19T21:07:49Z",
+    "major": 0,
+    "minor": 7,
+    "patch": 12,
+    "prerelease": []
+  },
+  {
+    "version": "0.7.11",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.7.11",
+    "publishedDate": "2012-06-15T19:10:43Z",
+    "major": 0,
+    "minor": 7,
+    "patch": 11,
+    "prerelease": []
+  },
+  {
+    "version": "0.7.10",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.7.10",
+    "publishedDate": "2012-06-11T15:19:55Z",
+    "major": 0,
+    "minor": 7,
+    "patch": 10,
+    "prerelease": []
+  },
+  {
+    "version": "0.7.9",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.7.9",
+    "publishedDate": "2012-05-29T03:03:03Z",
+    "major": 0,
+    "minor": 7,
+    "patch": 9,
+    "prerelease": []
+  },
+  {
+    "version": "0.7.8",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.7.8",
+    "publishedDate": "2012-04-18T16:37:18Z",
+    "major": 0,
+    "minor": 7,
+    "patch": 8,
+    "prerelease": []
+  },
+  {
+    "version": "0.7.7",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.7.7",
+    "publishedDate": "2012-03-30T03:20:23Z",
+    "major": 0,
+    "minor": 7,
+    "patch": 7,
+    "prerelease": []
+  },
+  {
+    "version": "0.7.6",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.7.6",
+    "publishedDate": "2012-03-13T20:02:38Z",
+    "major": 0,
+    "minor": 7,
+    "patch": 6,
+    "prerelease": []
+  },
+  {
+    "version": "0.7.5",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.7.5",
+    "publishedDate": "2012-02-23T22:12:39Z",
+    "major": 0,
+    "minor": 7,
+    "patch": 5,
+    "prerelease": []
+  },
+  {
+    "version": "0.7.4",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.7.4",
+    "publishedDate": "2012-02-14T22:34:43Z",
+    "major": 0,
+    "minor": 7,
+    "patch": 4,
+    "prerelease": []
+  },
+  {
+    "version": "0.7.3",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.7.3",
+    "publishedDate": "2012-02-07T23:42:33Z",
+    "major": 0,
+    "minor": 7,
+    "patch": 3,
+    "prerelease": []
+  },
+  {
+    "version": "0.7.2",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.7.2",
+    "publishedDate": "2012-02-01T19:37:12Z",
+    "major": 0,
+    "minor": 7,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "0.7.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.7.1",
+    "publishedDate": "2012-01-24T01:26:20Z",
+    "major": 0,
+    "minor": 7,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "0.7.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.7.0",
+    "publishedDate": "2012-01-17T03:00:41Z",
+    "major": 0,
+    "minor": 7,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "0.6.21",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.6.21",
+    "publishedDate": "2012-08-03T21:39:24Z",
+    "major": 0,
+    "minor": 6,
+    "patch": 21,
+    "prerelease": []
+  },
+  {
+    "version": "0.6.20",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.6.20",
+    "publishedDate": "2012-07-10T23:25:12Z",
+    "major": 0,
+    "minor": 6,
+    "patch": 20,
+    "prerelease": []
+  },
+  {
+    "version": "0.6.19",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.6.19",
+    "publishedDate": "2012-06-06T00:46:27Z",
+    "major": 0,
+    "minor": 6,
+    "patch": 19,
+    "prerelease": []
+  },
+  {
+    "version": "0.6.18",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.6.18",
+    "publishedDate": "2012-05-15T00:30:00Z",
+    "major": 0,
+    "minor": 6,
+    "patch": 18,
+    "prerelease": []
+  },
+  {
+    "version": "0.6.17",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.6.17",
+    "publishedDate": "2012-05-04T20:12:52Z",
+    "major": 0,
+    "minor": 6,
+    "patch": 17,
+    "prerelease": []
+  },
+  {
+    "version": "0.6.16",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.6.16",
+    "publishedDate": "2012-04-30T20:09:50Z",
+    "major": 0,
+    "minor": 6,
+    "patch": 16,
+    "prerelease": []
+  },
+  {
+    "version": "0.6.15",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.6.15",
+    "publishedDate": "2012-04-09T16:03:00Z",
+    "major": 0,
+    "minor": 6,
+    "patch": 15,
+    "prerelease": []
+  },
+  {
+    "version": "0.6.14",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.6.14",
+    "publishedDate": "2012-03-23T15:01:22Z",
+    "major": 0,
+    "minor": 6,
+    "patch": 14,
+    "prerelease": []
+  },
+  {
+    "version": "0.6.13",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.6.13",
+    "publishedDate": "2012-03-15T15:45:35Z",
+    "major": 0,
+    "minor": 6,
+    "patch": 13,
+    "prerelease": []
+  },
+  {
+    "version": "0.6.12",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.6.12",
+    "publishedDate": "2012-03-02T20:36:45Z",
+    "major": 0,
+    "minor": 6,
+    "patch": 12,
+    "prerelease": []
+  },
+  {
+    "version": "0.6.11",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.6.11",
+    "publishedDate": "2012-02-17T20:39:45Z",
+    "major": 0,
+    "minor": 6,
+    "patch": 11,
+    "prerelease": []
+  },
+  {
+    "version": "0.6.10",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.6.10",
+    "publishedDate": "2012-02-03T00:56:42Z",
+    "major": 0,
+    "minor": 6,
+    "patch": 10,
+    "prerelease": []
+  },
+  {
+    "version": "0.6.9",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.6.9",
+    "publishedDate": "2012-01-28T00:32:19Z",
+    "major": 0,
+    "minor": 6,
+    "patch": 9,
+    "prerelease": []
+  },
+  {
+    "version": "0.6.8",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.6.8",
+    "publishedDate": "2012-01-20T02:29:43Z",
+    "major": 0,
+    "minor": 6,
+    "patch": 8,
+    "prerelease": []
+  },
+  {
+    "version": "0.6.7",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.6.7",
+    "publishedDate": "2012-01-07T00:31:03Z",
+    "major": 0,
+    "minor": 6,
+    "patch": 7,
+    "prerelease": []
+  },
+  {
+    "version": "0.6.6",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.6.6",
+    "publishedDate": "2011-12-15T18:55:52Z",
+    "major": 0,
+    "minor": 6,
+    "patch": 6,
+    "prerelease": []
+  },
+  {
+    "version": "0.6.5",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.6.5",
+    "publishedDate": "2011-12-04T08:10:23Z",
+    "major": 0,
+    "minor": 6,
+    "patch": 5,
+    "prerelease": []
+  },
+  {
+    "version": "0.6.4",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.6.4",
+    "publishedDate": "2011-12-02T01:31:41Z",
+    "major": 0,
+    "minor": 6,
+    "patch": 4,
+    "prerelease": []
+  },
+  {
+    "version": "0.6.3",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.6.3",
+    "publishedDate": "2011-11-25T10:23:28Z",
+    "major": 0,
+    "minor": 6,
+    "patch": 3,
+    "prerelease": []
+  },
+  {
+    "version": "0.6.2",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.6.2",
+    "publishedDate": "2011-11-18T22:43:03Z",
+    "major": 0,
+    "minor": 6,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "0.6.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.6.1",
+    "publishedDate": "2011-11-11T22:56:27Z",
+    "major": 0,
+    "minor": 6,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "0.6.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.6.0",
+    "publishedDate": "2011-11-05T06:48:57Z",
+    "major": 0,
+    "minor": 6,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "0.5.10",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.5.10",
+    "publishedDate": "2011-10-22T01:46:42Z",
+    "major": 0,
+    "minor": 5,
+    "patch": 10,
+    "prerelease": []
+  },
+  {
+    "version": "0.5.9",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.5.9",
+    "publishedDate": "2011-10-11T01:18:56Z",
+    "major": 0,
+    "minor": 5,
+    "patch": 9,
+    "prerelease": []
+  },
+  {
+    "version": "0.5.8",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.5.8",
+    "publishedDate": "2011-09-30T20:59:44Z",
+    "major": 0,
+    "minor": 5,
+    "patch": 8,
+    "prerelease": []
+  },
+  {
+    "version": "0.5.7",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.5.7",
+    "publishedDate": "2011-09-17T00:54:20Z",
+    "major": 0,
+    "minor": 5,
+    "patch": 7,
+    "prerelease": []
+  },
+  {
+    "version": "0.5.6",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.5.6",
+    "publishedDate": "2011-09-09T22:29:35Z",
+    "major": 0,
+    "minor": 5,
+    "patch": 6,
+    "prerelease": []
+  },
+  {
+    "version": "0.5.5",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.5.5",
+    "publishedDate": "2011-08-26T21:24:18Z",
+    "major": 0,
+    "minor": 5,
+    "patch": 5,
+    "prerelease": []
+  },
+  {
+    "version": "0.5.4",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.5.4",
+    "publishedDate": "2011-08-12T08:17:05Z",
+    "major": 0,
+    "minor": 5,
+    "patch": 4,
+    "prerelease": []
+  },
+  {
+    "version": "0.5.3",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.5.3",
+    "publishedDate": "2011-08-02T07:17:41Z",
+    "major": 0,
+    "minor": 5,
+    "patch": 3,
+    "prerelease": []
+  },
+  {
+    "version": "0.5.2",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.5.2",
+    "publishedDate": "2011-07-22T10:55:26Z",
+    "major": 0,
+    "minor": 5,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "0.5.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.5.1",
+    "publishedDate": "2011-07-14T23:10:36Z",
+    "major": 0,
+    "minor": 5,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "0.5.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.5.0",
+    "publishedDate": "2011-07-06T01:45:03Z",
+    "major": 0,
+    "minor": 5,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "0.4.12",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.4.12",
+    "publishedDate": "2011-09-15T23:46:39Z",
+    "major": 0,
+    "minor": 4,
+    "patch": 12,
+    "prerelease": []
+  },
+  {
+    "version": "0.4.11",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.4.11",
+    "publishedDate": "2011-08-18T01:18:10Z",
+    "major": 0,
+    "minor": 4,
+    "patch": 11,
+    "prerelease": []
+  },
+  {
+    "version": "0.4.10",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.4.10",
+    "publishedDate": "2011-07-20T06:51:42Z",
+    "major": 0,
+    "minor": 4,
+    "patch": 10,
+    "prerelease": []
+  },
+  {
+    "version": "0.4.9",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.4.9",
+    "publishedDate": "2011-06-29T11:24:02Z",
+    "major": 0,
+    "minor": 4,
+    "patch": 9,
+    "prerelease": []
+  },
+  {
+    "version": "0.4.8",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.4.8",
+    "publishedDate": "2011-05-21T02:40:06Z",
+    "major": 0,
+    "minor": 4,
+    "patch": 8,
+    "prerelease": []
+  },
+  {
+    "version": "0.4.7",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.4.7",
+    "publishedDate": "2011-04-23T00:06:25Z",
+    "major": 0,
+    "minor": 4,
+    "patch": 7,
+    "prerelease": []
+  },
+  {
+    "version": "0.4.6",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.4.6",
+    "publishedDate": "2011-04-14T04:20:05Z",
+    "major": 0,
+    "minor": 4,
+    "patch": 6,
+    "prerelease": []
+  },
+  {
+    "version": "0.4.5",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.4.5",
+    "publishedDate": "2011-04-02T01:00:43Z",
+    "major": 0,
+    "minor": 4,
+    "patch": 5,
+    "prerelease": []
+  },
+  {
+    "version": "0.4.4",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.4.4",
+    "publishedDate": "2011-03-26T08:48:02Z",
+    "major": 0,
+    "minor": 4,
+    "patch": 4,
+    "prerelease": []
+  },
+  {
+    "version": "0.4.3",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.4.3",
+    "publishedDate": "2011-03-18T21:25:20Z",
+    "major": 0,
+    "minor": 4,
+    "patch": 3,
+    "prerelease": []
+  },
+  {
+    "version": "0.4.2",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.4.2",
+    "publishedDate": "2011-03-03T06:10:26Z",
+    "major": 0,
+    "minor": 4,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "0.4.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.4.1",
+    "publishedDate": "2011-02-20T02:45:34Z",
+    "major": 0,
+    "minor": 4,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "0.4.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.4.0",
+    "publishedDate": "2011-02-10T10:40:11Z",
+    "major": 0,
+    "minor": 4,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "0.3.8",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.3.8",
+    "publishedDate": "2011-02-05T03:35:43Z",
+    "major": 0,
+    "minor": 3,
+    "patch": 8,
+    "prerelease": []
+  },
+  {
+    "version": "0.3.7",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.3.7",
+    "publishedDate": "2011-01-28T04:07:54Z",
+    "major": 0,
+    "minor": 3,
+    "patch": 7,
+    "prerelease": []
+  },
+  {
+    "version": "0.3.6",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.3.6",
+    "publishedDate": "2011-01-22T02:18:37Z",
+    "major": 0,
+    "minor": 3,
+    "patch": 6,
+    "prerelease": []
+  },
+  {
+    "version": "0.3.5",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.3.5",
+    "publishedDate": "2011-01-16T23:12:28Z",
+    "major": 0,
+    "minor": 3,
+    "patch": 5,
+    "prerelease": []
+  },
+  {
+    "version": "0.3.4",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.3.4",
+    "publishedDate": "2011-01-08T23:46:07Z",
+    "major": 0,
+    "minor": 3,
+    "patch": 4,
+    "prerelease": []
+  },
+  {
+    "version": "0.3.3",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.3.3",
+    "publishedDate": "2011-01-03T02:33:49Z",
+    "major": 0,
+    "minor": 3,
+    "patch": 3,
+    "prerelease": []
+  },
+  {
+    "version": "0.3.2",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.3.2",
+    "publishedDate": "2010-12-17T17:51:48Z",
+    "major": 0,
+    "minor": 3,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "0.3.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.3.1",
+    "publishedDate": "2010-11-17T03:17:44Z",
+    "major": 0,
+    "minor": 3,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "0.3.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.3.0",
+    "publishedDate": "2010-10-23T23:00:15Z",
+    "major": 0,
+    "minor": 3,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "0.2.6",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.2.6",
+    "publishedDate": "2010-12-31T05:00:01Z",
+    "major": 0,
+    "minor": 2,
+    "patch": 6,
+    "prerelease": []
+  },
+  {
+    "version": "0.2.5",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.2.5",
+    "publishedDate": "2010-11-17T05:46:59Z",
+    "major": 0,
+    "minor": 2,
+    "patch": 5,
+    "prerelease": []
+  },
+  {
+    "version": "0.2.4",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.2.4",
+    "publishedDate": "2010-10-24T21:45:39Z",
+    "major": 0,
+    "minor": 2,
+    "patch": 4,
+    "prerelease": []
+  },
+  {
+    "version": "0.2.3",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.2.3",
+    "publishedDate": "2010-10-02T13:05:56Z",
+    "major": 0,
+    "minor": 2,
+    "patch": 3,
+    "prerelease": []
+  },
+  {
+    "version": "0.2.2",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.2.2",
+    "publishedDate": "2010-09-17T18:34:16Z",
+    "major": 0,
+    "minor": 2,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "0.2.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.2.1",
+    "publishedDate": "2010-09-10T20:52:33Z",
+    "major": 0,
+    "minor": 2,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "0.2.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.2.0",
+    "publishedDate": "2010-08-20T08:53:08Z",
+    "major": 0,
+    "minor": 2,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.104",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.104",
+    "publishedDate": "2010-08-13T16:02:10Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 104,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.103",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.103",
+    "publishedDate": "2010-08-04T19:04:12Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 103,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.102",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.102",
+    "publishedDate": "2010-07-26T06:39:58Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 102,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.101",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.101",
+    "publishedDate": "2010-07-17T04:50:26Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 101,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.100",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.100",
+    "publishedDate": "2010-07-03T06:37:46Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 100,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.99",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.99",
+    "publishedDate": "2010-06-21T20:34:10Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 99,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.98",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.98",
+    "publishedDate": "2010-06-11T19:58:14Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 98,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.97",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.97",
+    "publishedDate": "2010-05-30T02:37:57Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 97,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.96",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.96",
+    "publishedDate": "2010-05-21T09:55:38Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 96,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.95",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.95",
+    "publishedDate": "2010-05-13T23:24:28Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 95,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.94",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.94",
+    "publishedDate": "2010-05-06T17:39:27Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 94,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.93",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.93",
+    "publishedDate": "2010-04-30T00:44:51Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 93,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.92",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.92",
+    "publishedDate": "2010-04-23T23:37:14Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 92,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.91",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.91",
+    "publishedDate": "2010-04-15T09:09:51Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 91,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.90",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.90",
+    "publishedDate": "2010-04-10T00:05:03Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 90,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.33",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.33",
+    "publishedDate": "2010-03-20T04:07:03Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 33,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.32",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.32",
+    "publishedDate": "2010-03-13T02:50:46Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 32,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.31",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.31",
+    "publishedDate": "2010-03-06T01:55:13Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 31,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.30",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.30",
+    "publishedDate": "2010-02-22T09:31:14Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 30,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.29",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.29",
+    "publishedDate": "2010-02-17T23:12:42Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 29,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.28",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.28",
+    "publishedDate": "2010-02-09T21:20:20Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 28,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.27",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.27",
+    "publishedDate": "2010-02-03T20:20:27Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 27,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.26",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.26",
+    "publishedDate": "2010-01-20T19:28:32Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 26,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.25",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.25",
+    "publishedDate": "2010-01-09T10:11:54Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 25,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.24",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.24",
+    "publishedDate": "2009-12-31T08:30:53Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 24,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.23",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.23",
+    "publishedDate": "2009-12-22T19:31:45Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 23,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.22",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.22",
+    "publishedDate": "2009-12-19T00:24:59Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 22,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.21",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.21",
+    "publishedDate": "2009-12-06T16:59:37Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 21,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.20",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.20",
+    "publishedDate": "2009-11-28T16:04:42Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 20,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.19",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.19",
+    "publishedDate": "2009-11-28T00:49:11Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 19,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.18",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.18",
+    "publishedDate": "2009-11-17T14:05:10Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 18,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.17",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.17",
+    "publishedDate": "2009-11-07T19:20:30Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 17,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.16",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.16",
+    "publishedDate": "2009-11-03T12:48:02Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 16,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.15",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.15",
+    "publishedDate": "2009-10-28T15:36:44Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 15,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.14",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.14",
+    "publishedDate": "2009-10-09T16:15:16Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 14,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.13",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.13",
+    "publishedDate": "2009-09-30T21:21:25Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 13,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.12",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.12",
+    "publishedDate": "2009-09-24T11:51:10Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 12,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.11",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.11",
+    "publishedDate": "2009-09-18T16:32:25Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 11,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.10",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.10",
+    "publishedDate": "2009-09-11T19:06:50Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 10,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.9",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.9",
+    "publishedDate": "2009-09-05T12:47:56Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 9,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.8",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.8",
+    "publishedDate": "2009-09-04T10:35:30Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 8,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.7",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.7",
+    "publishedDate": "2009-08-27T10:31:52Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 7,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.6",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.6",
+    "publishedDate": "2009-08-22T11:07:31Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 6,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.5",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.5",
+    "publishedDate": "2009-08-21T16:03:15Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 5,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.4",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.4",
+    "publishedDate": "2009-08-13T13:52:55Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 4,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.3",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.3",
+    "publishedDate": "2009-08-06T12:01:26Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 3,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.2",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.2",
+    "publishedDate": "2009-08-01T12:56:45Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.1",
+    "publishedDate": "2009-07-27T13:48:16Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 1,
+    "prerelease": []
+  },
+  {
+    "version": "0.1.0",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.1.0",
+    "publishedDate": "2009-06-30T13:18:05Z",
+    "major": 0,
+    "minor": 1,
+    "patch": 0,
+    "prerelease": []
+  },
+  {
+    "version": "0.0.6",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.0.6",
+    "publishedDate": "2009-06-24T14:43:37Z",
+    "major": 0,
+    "minor": 0,
+    "patch": 6,
+    "prerelease": []
+  },
+  {
+    "version": "0.0.5",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.0.5",
+    "publishedDate": "2009-06-18T21:22:31Z",
+    "major": 0,
+    "minor": 0,
+    "patch": 5,
+    "prerelease": []
+  },
+  {
+    "version": "0.0.4",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.0.4",
+    "publishedDate": "2009-06-12T15:37:43Z",
+    "major": 0,
+    "minor": 0,
+    "patch": 4,
+    "prerelease": []
+  },
+  {
+    "version": "0.0.3",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.0.3",
+    "publishedDate": "2009-06-11T11:54:03Z",
+    "major": 0,
+    "minor": 0,
+    "patch": 3,
+    "prerelease": []
+  },
+  {
+    "version": "0.0.2",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.0.2",
+    "publishedDate": "2009-05-31T12:25:07Z",
+    "major": 0,
+    "minor": 0,
+    "patch": 2,
+    "prerelease": []
+  },
+  {
+    "version": "0.0.1",
+    "url": "https://github.com/nodejs/node/releases/tag/v0.0.1",
+    "publishedDate": "2009-05-27T14:29:55Z",
+    "major": 0,
+    "minor": 0,
+    "patch": 1,
+    "prerelease": []
+  }
+]

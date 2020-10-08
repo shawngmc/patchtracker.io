@@ -13,14 +13,10 @@
   ],
   "polling": [
     {
-      "version": "1.x.x",
       "method": "github",
       "owner": "nginx",
       "project": "nginx",
-      "regex": {
-        "test": "(release-)(1).(\\d+).(\\d+)",
-        "parse": "$2.$3.$4"
-      }
+      "regex":  "(release-)(\\d+).(\\d+).(\\d+)"
     }
   ]
 }

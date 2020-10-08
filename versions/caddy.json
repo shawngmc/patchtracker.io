@@ -1,0 +1,325 @@
+{
+  "version_chains": [
+    {
+      "title": "2.x.y",
+      "versions": [
+        {
+          "version": "2.2.0",
+          "url": "https://github.com/mholt/caddy/releases/tag/v2.2.0",
+          "publishedDate": "2020-09-23T02:10:34Z",
+          "major": 2
+        },
+        {
+          "version": "2.1.1",
+          "url": "https://github.com/mholt/caddy/releases/tag/v2.1.1",
+          "publishedDate": "2020-06-30T17:53:29Z",
+          "major": 2
+        },
+        {
+          "version": "2.1.0",
+          "url": "https://github.com/mholt/caddy/releases/tag/v2.1.0",
+          "publishedDate": "2020-06-26T18:19:51Z",
+          "major": 2
+        },
+        {
+          "version": "2.0.0",
+          "url": "https://github.com/mholt/caddy/releases/tag/v2.0.0",
+          "publishedDate": "2020-05-02T23:24:54Z",
+          "major": 2
+        }
+      ]
+    },
+    {
+      "title": "1.x.y",
+      "versions": [
+        {
+          "version": "1.0.5",
+          "url": "https://github.com/mholt/caddy/releases/tag/v1.0.5",
+          "publishedDate": "2020-01-15T16:57:41Z",
+          "major": 1
+        },
+        {
+          "version": "1.0.4",
+          "url": "https://github.com/mholt/caddy/releases/tag/v1.0.4",
+          "publishedDate": "2019-11-15T20:11:32Z",
+          "major": 1
+        },
+        {
+          "version": "1.0.3",
+          "url": "https://github.com/mholt/caddy/releases/tag/v1.0.3",
+          "publishedDate": "2019-08-14T19:45:42Z",
+          "major": 1
+        },
+        {
+          "version": "1.0.2",
+          "url": "https://github.com/mholt/caddy/releases/tag/v1.0.2",
+          "publishedDate": "2019-08-13T20:37:58Z",
+          "major": 1
+        },
+        {
+          "version": "1.0.1",
+          "url": "https://github.com/mholt/caddy/releases/tag/v1.0.1",
+          "publishedDate": "2019-07-02T19:08:31Z",
+          "major": 1
+        },
+        {
+          "version": "1.0.0",
+          "url": "https://github.com/mholt/caddy/releases/tag/v1.0.0",
+          "publishedDate": "2019-04-24T17:24:40Z",
+          "major": 1
+        }
+      ]
+    },
+    {
+      "title": "0.x.y",
+      "versions": [
+        {
+          "version": "0.11.5",
+          "url": "https://github.com/mholt/caddy/releases/tag/v0.11.5",
+          "publishedDate": "2019-03-04T19:14:25Z",
+          "major": 0
+        },
+        {
+          "version": "0.11.4",
+          "url": "https://github.com/mholt/caddy/releases/tag/v0.11.4",
+          "publishedDate": "2019-02-15T19:00:02Z",
+          "major": 0
+        },
+        {
+          "version": "0.11.3",
+          "url": "https://github.com/mholt/caddy/releases/tag/v0.11.3",
+          "publishedDate": "2019-02-05T20:14:50Z",
+          "major": 0
+        },
+        {
+          "version": "0.11.2",
+          "url": "https://github.com/mholt/caddy/releases/tag/v0.11.2",
+          "publishedDate": "2019-01-16T23:04:42Z",
+          "major": 0
+        },
+        {
+          "version": "0.11.1",
+          "url": "https://github.com/mholt/caddy/releases/tag/v0.11.1",
+          "publishedDate": "2018-11-12T21:46:14Z",
+          "major": 0
+        },
+        {
+          "version": "0.11.0",
+          "url": "https://github.com/mholt/caddy/releases/tag/v0.11.0",
+          "publishedDate": "2018-05-10T15:45:05Z",
+          "major": 0
+        },
+        {
+          "version": "0.10.14",
+          "url": "https://github.com/mholt/caddy/releases/tag/v0.10.14",
+          "publishedDate": "2018-04-20T00:11:50Z",
+          "major": 0
+        },
+        {
+          "version": "0.10.13",
+          "url": "https://github.com/mholt/caddy/releases/tag/v0.10.13",
+          "publishedDate": "2018-04-18T23:09:54Z",
+          "major": 0
+        },
+        {
+          "version": "0.10.12",
+          "url": "https://github.com/mholt/caddy/releases/tag/v0.10.12",
+          "publishedDate": "2018-03-27T04:09:10Z",
+          "major": 0
+        },
+        {
+          "version": "0.10.11",
+          "url": "https://github.com/mholt/caddy/releases/tag/v0.10.11",
+          "publishedDate": "2018-02-20T05:24:07Z",
+          "major": 0
+        },
+        {
+          "version": "0.10.10",
+          "url": "https://github.com/mholt/caddy/releases/tag/v0.10.10",
+          "publishedDate": "2017-10-09T04:20:05Z",
+          "major": 0
+        },
+        {
+          "version": "0.10.9",
+          "url": "https://github.com/mholt/caddy/releases/tag/v0.10.9",
+          "publishedDate": "2017-09-12T17:02:53Z",
+          "major": 0
+        },
+        {
+          "version": "0.10.8",
+          "url": "https://github.com/mholt/caddy/releases/tag/v0.10.8",
+          "publishedDate": "2017-09-08T17:06:39Z",
+          "major": 0
+        },
+        {
+          "version": "0.10.7",
+          "url": "https://github.com/mholt/caddy/releases/tag/v0.10.7",
+          "publishedDate": "2017-08-25T22:54:05Z",
+          "major": 0
+        },
+        {
+          "version": "0.10.6",
+          "url": "https://github.com/mholt/caddy/releases/tag/v0.10.6",
+          "publishedDate": "2017-07-28T18:21:09Z",
+          "major": 0
+        },
+        {
+          "version": "0.10.5",
+          "url": "https://github.com/mholt/caddy/releases/tag/v0.10.5",
+          "publishedDate": "2017-07-27T22:22:39Z",
+          "major": 0
+        },
+        {
+          "version": "0.10.4",
+          "url": "https://github.com/mholt/caddy/releases/tag/v0.10.4",
+          "publishedDate": "2017-06-28T22:10:30Z",
+          "major": 0
+        },
+        {
+          "version": "0.10.3",
+          "url": "https://github.com/mholt/caddy/releases/tag/v0.10.3",
+          "publishedDate": "2017-05-19T14:35:32Z",
+          "major": 0
+        },
+        {
+          "version": "0.10.2",
+          "url": "https://github.com/mholt/caddy/releases/tag/v0.10.2",
+          "publishedDate": "2017-05-02T18:02:28Z",
+          "major": 0
+        },
+        {
+          "version": "0.10.1",
+          "url": "https://github.com/mholt/caddy/releases/tag/v0.10.1",
+          "publishedDate": "2017-05-02T05:50:58Z",
+          "major": 0
+        },
+        {
+          "version": "0.10.0",
+          "url": "https://github.com/mholt/caddy/releases/tag/v0.10.0",
+          "publishedDate": "2017-04-20T17:36:40Z",
+          "major": 0
+        },
+        {
+          "version": "0.9.5",
+          "url": "https://github.com/mholt/caddy/releases/tag/v0.9.5",
+          "publishedDate": "2017-01-24T15:29:01Z",
+          "major": 0
+        },
+        {
+          "version": "0.9.4",
+          "url": "https://github.com/mholt/caddy/releases/tag/v0.9.4",
+          "publishedDate": "2016-12-21T20:47:30Z",
+          "major": 0
+        },
+        {
+          "version": "0.9.3",
+          "url": "https://github.com/mholt/caddy/releases/tag/v0.9.3",
+          "publishedDate": "2016-09-28T18:43:28Z",
+          "major": 0
+        },
+        {
+          "version": "0.9.2",
+          "url": "https://github.com/mholt/caddy/releases/tag/v0.9.2",
+          "publishedDate": "2016-09-20T22:33:50Z",
+          "major": 0
+        },
+        {
+          "version": "0.9.1",
+          "url": "https://github.com/mholt/caddy/releases/tag/v0.9.1",
+          "publishedDate": "2016-08-17T20:09:04Z",
+          "major": 0
+        },
+        {
+          "version": "0.9.0",
+          "url": "https://github.com/mholt/caddy/releases/tag/v0.9.0",
+          "publishedDate": "2016-07-19T03:50:45Z",
+          "major": 0
+        },
+        {
+          "version": "0.8.3",
+          "url": "https://github.com/mholt/caddy/releases/tag/v0.8.3",
+          "publishedDate": "2016-04-26T15:28:05Z",
+          "major": 0
+        },
+        {
+          "version": "0.8.2",
+          "url": "https://github.com/mholt/caddy/releases/tag/v0.8.2",
+          "publishedDate": "2016-02-25T17:26:42Z",
+          "major": 0
+        },
+        {
+          "version": "0.8.1",
+          "url": "https://github.com/mholt/caddy/releases/tag/v0.8.1",
+          "publishedDate": "2016-01-12T17:01:57Z",
+          "major": 0
+        },
+        {
+          "version": "0.8.0",
+          "url": "https://github.com/mholt/caddy/releases/tag/v0.8.0",
+          "publishedDate": "2015-12-04T02:52:15Z",
+          "major": 0
+        },
+        {
+          "version": "0.7.6",
+          "url": "https://github.com/mholt/caddy/releases/tag/v0.7.6",
+          "publishedDate": "2015-09-28T20:57:00Z",
+          "major": 0
+        },
+        {
+          "version": "0.7.5",
+          "url": "https://github.com/mholt/caddy/releases/tag/v0.7.5",
+          "publishedDate": "2015-08-05T19:26:12Z",
+          "major": 0
+        },
+        {
+          "version": "0.7.4",
+          "url": "https://github.com/mholt/caddy/releases/tag/v0.7.4",
+          "publishedDate": "2015-07-30T16:29:28Z",
+          "major": 0
+        },
+        {
+          "version": "0.7.3",
+          "url": "https://github.com/mholt/caddy/releases/tag/v0.7.3",
+          "publishedDate": "2015-07-15T15:52:47Z",
+          "major": 0
+        },
+        {
+          "version": "0.7.2",
+          "url": "https://github.com/mholt/caddy/releases/tag/v0.7.2",
+          "publishedDate": "2015-07-01T18:09:31Z",
+          "major": 0
+        },
+        {
+          "version": "0.7.1",
+          "url": "https://github.com/mholt/caddy/releases/tag/v0.7.1",
+          "publishedDate": "2015-06-02T18:19:08Z",
+          "major": 0
+        },
+        {
+          "version": "0.7.0",
+          "url": "https://github.com/mholt/caddy/releases/tag/v0.7.0",
+          "publishedDate": "2015-05-25T21:48:25Z",
+          "major": 0
+        },
+        {
+          "version": "0.6.0",
+          "url": "https://github.com/mholt/caddy/releases/tag/v0.6.0",
+          "publishedDate": "2015-05-06T22:39:58Z",
+          "major": 0
+        },
+        {
+          "version": "0.5.1",
+          "url": "https://github.com/mholt/caddy/releases/tag/v0.5.1",
+          "publishedDate": "2015-04-30T17:58:38Z",
+          "major": 0
+        },
+        {
+          "version": "0.5.0",
+          "url": "https://github.com/mholt/caddy/releases/tag/v0.5.0",
+          "publishedDate": "2015-04-28T05:20:58Z",
+          "major": 0
+        }
+      ]
+    }
+  ]
+}

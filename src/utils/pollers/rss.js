@@ -31,7 +31,10 @@ async function updateProductVersionChain(name, versionDescriptor, productVersion
                     let verObj = {
                         version: version,
                         url: item.url,
-                        publishedDate: item.pubDate
+                        publishedDate: item.pubDate,
+                        major: semver.major(version),
+                        minor: semver.minor(version),
+                        patch: semver.patch(version)
                     }
                     versionChain.versions.push(verObj);
                 }

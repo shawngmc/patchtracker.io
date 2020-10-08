@@ -4,6 +4,7 @@ const octokit = require('@octokit/rest')({
 })
 const Promise = require("bluebird");
 const _ = require('lodash');
+const semver = require('semver');
 
 async function listTags(owner, project) {
     return octokit.paginate('GET /repos/:owner/:repo/tags', { owner: owner, repo: project })
@@ -38,10 +39,14 @@ async function updateProductVersionChain(name, versionDescriptor, productVersion
             if (!_.find(versionChain.versions, { 'version': version })) {
                 console.log("Adding version " + version + "...");
                 let commit = await octokit.repos.getCommit({ owner: versionDescriptor.owner, repo: versionDescriptor.project, commit_sha: tag.commit.sha })
-                let verObj = {};
-                verObj.version = version;
-                verObj.url = "https://github.com/" + versionDescriptor.owner + "/" + versionDescriptor.project + "/releases/tag/" + tag.name;
-                verObj.publishedDate = commit.data.commit.committer.date;
+                let verObj = {
+                    version: version,
+                    url: "https://github.com/" + versionDescriptor.owner + "/" + versionDescriptor.project + "/releases/tag/" + tag.name;,
+                    publishedDate: commit.data.commit.committer.date,
+                    major: semver.major(version),
+                    minor: semver.minor(version),
+                    patch: semver.patch(version)
+                }
                 versionChain.versions.push(verObj);
                 // Add a small delay to prevent API lockout
                 await Promise.delay(200);

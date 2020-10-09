@@ -1,0 +1,215 @@
+{
+  "name": "PostgreSQL",
+  "id": "postgresql",
+  "links": [
+    {
+      "title": "GitHub",
+      "url": "https://github.com/postgres/postgres"
+    },
+    {
+      "title": "Homepage",
+      "url": "https://www.postgresql.org/"
+    }
+  ],
+  "series": [
+    {
+      "title": "13.x",
+      "comparator": ">=13.0.0 <14.0.0",
+      "tags": []
+    },
+    {
+      "title": "12.x",
+      "comparator": ">=12.0.0 <13.0.0",
+      "tags": []
+    },
+    {
+      "title": "11.x",
+      "comparator": ">=11.0.0 <12.0.0",
+      "tags": []
+    },
+    {
+      "title": "10.x",
+      "comparator": ">=10.0.0 <11.0.0",
+      "tags": []
+    },
+    {
+      "title": "9.6.x",
+      "comparator": ">=9.6.0 <9.7.0",
+      "tags": []
+    },
+    {
+      "title": "9.5.x",
+      "comparator": ">=9.5.0 <9.6.0",
+      "tags": []
+    },
+    {
+      "title": "9.4.x",
+      "comparator": ">=9.4.0 <9.5.0",
+      "tags": [
+        "eol"
+      ]
+    },
+    {
+      "title": "9.3.x",
+      "comparator": ">=9.3.0 <9.4.0",
+      "tags": [
+        "eol"
+      ]
+    },
+    {
+      "title": "9.2.x",
+      "comparator": ">=9.2.0 <9.3.0",
+      "tags": [
+        "eol"
+      ]
+    },
+    {
+      "title": "9.1.x",
+      "comparator": ">=9.1.0 <9.2.0",
+      "tags": [
+        "eol"
+      ]
+    },
+    {
+      "title": "9.0.x",
+      "comparator": ">=9.0.0 <9.1.0",
+      "tags": [
+        "eol"
+      ]
+    },
+    {
+      "title": "8.4.x",
+      "comparator": ">=8.4.0 <8.5.0",
+      "tags": [
+        "eol"
+      ]
+    },
+    {
+      "title": "8.3.x",
+      "comparator": ">=8.3.0 <8.4.0",
+      "tags": [
+        "eol"
+      ]
+    },
+    {
+      "title": "8.2.x",
+      "comparator": ">=8.2.0 <8.3.0",
+      "tags": [
+        "eol"
+      ]
+    },
+    {
+      "title": "8.1.x",
+      "comparator": ">=8.1.0 <8.2.0",
+      "tags": [
+        "eol"
+      ]
+    },
+    {
+      "title": "8.0.x",
+      "comparator": ">=8.0.0 <8.1.0",
+      "tags": [
+        "eol"
+      ]
+    },
+    {
+      "title": "7.4.x",
+      "comparator": ">=7.4.0 <8.0.0",
+      "tags": [
+        "eol"
+      ]
+    },
+    {
+      "title": "7.3.x",
+      "comparator": ">=7.3.0 <7.2.0",
+      "tags": [
+        "eol"
+      ]
+    },
+    {
+      "title": "7.2.x",
+      "comparator": ">=7.2.0 <7.3.0",
+      "tags": [
+        "eol"
+      ]
+    },
+    {
+      "title": "7.1.x",
+      "comparator": ">=7.1.0 <7.2.0",
+      "tags": [
+        "eol"
+      ]
+    },
+    {
+      "title": "7.0.x",
+      "comparator": ">=7.0.0 <7.1.0",
+      "tags": [
+        "eol"
+      ]
+    },
+    {
+      "title": "6.5.x",
+      "comparator": ">=6.5.0 <7.0.0",
+      "tags": [
+        "eol"
+      ]
+    },
+    {
+      "title": "6.4.x",
+      "comparator": ">=6.4.0 <6.5.0",
+      "tags": [
+        "eol"
+      ]
+    },
+    {
+      "title": "6.3.x",
+      "comparator": ">=6.3.0 <6.4.0",
+      "tags": [
+        "eol"
+      ]
+    },
+    {
+      "title": "6.2.x",
+      "comparator": ">=6.2.0 <6.3.0",
+      "tags": [
+        "eol"
+      ]
+    },
+    {
+      "title": "6.1.x",
+      "comparator": ">=6.1.0 <6.2.0",
+      "tags": [
+        "eol"
+      ]
+    }
+  ],
+  "polling": [
+    {
+      "method": "github",
+      "owner": "postgres",
+      "project": "postgres",
+      "parse": [
+        {
+          "method": "applyRegex",
+          "pattern": "REL_(\\d+)_(\\d+)$",
+          "replace": "REL$1_$2_0",
+          "passthrough": true
+        },
+        {
+          "method": "applyRegex",
+          "pattern": "REL(\\d+)_(\\d+)$",
+          "replace": "REL$1_$2_0",
+          "passthrough": true
+        },
+        {
+          "method": "applyRegex",
+          "pattern": "REL(\\d+)_(\\d+)_(\\d+)$",
+          "replace": "$1.$2.$3"
+        },
+        {
+          "method": "parseSemver"
+        }
+      ]
+    }
+  ]
+}

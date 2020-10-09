@@ -46,8 +46,12 @@ function parseSemver(val, opConfig) {
 
 function applyRegex(val, opConfig) {
     var regex = new RegExp(opConfig.pattern);
+    
+    let passthrough = opConfig.passthrough ? opConfig.passthrough : false;
     if (regex.test(val)) {
-        return opConfig.replace ? val.replace(regex, opConfig.replace) : parseString;
+        return opConfig.replace ? val.replace(regex, opConfig.replace) : val;
+    } else if (passthrough) {
+        return val;
     }
     return null;
 }

@@ -1,0 +1,45 @@
+{
+  "name": "Sails",
+  "id": "sails",
+  "links": [
+    {
+      "title": "GitHub",
+      "url": "https://github.com/balderdashy/sails"
+    },
+    {
+      "title": "Homepage",
+      "url": "https://sailsjs.com/"
+    }
+  ],
+  "series": [
+    {
+      "title": "1.x.x",
+      "comparator": ">=1.0.0 <2.0.0",
+      "tags": []
+    },
+    {
+      "title": "0.x.x",
+      "comparator": ">=0.0.0 <1.0.0",
+      "tags": [
+        "eol"
+      ]
+    }
+  ],
+  "polling": [
+    {
+      "method": "github",
+      "owner": "balderdashy",
+      "project": "sails",
+      "parse": [
+        {
+          "method": "applyRegex",
+          "pattern": "v(\\d+).(\\d+).(\\d+)$",
+          "replace": "$1.$2.$3"
+        },
+        {
+          "method": "parseSemver"
+        }
+      ]
+    }
+  ]
+}

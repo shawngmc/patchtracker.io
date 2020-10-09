@@ -1,5 +1,6 @@
 {
   "name": "OpenSSL",
+  "id": "openssl",
   "links": [
     {
       "title": "GitHub",
@@ -10,11 +11,17 @@
       "url": "https://www.openssl.org/"
     }
   ],
-  "polling": {
-    "method": "github",
-    "owner": "openssl",
-    "project": "openssl",
-    "regexMap": []
-  },
-  "version_chains": []
+  "series": [
+
+  ],
+  "polling": [
+    {
+      "method": "github",
+      "owner": "openssl",
+      "project": "openssl",
+      "parse": [
+
+      ]
+    }
+  ]
 }

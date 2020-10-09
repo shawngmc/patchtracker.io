@@ -1,0 +1,72 @@
+{
+  "name": "Tomcat",
+  "id": "tomcat",
+  "links": [
+    {
+      "title": "Homepage",
+      "url": "https://tomcat.apache.org"
+    },
+    {
+      "title": "Which Version Do I Want?",
+      "url": "http://tomcat.apache.org/whichversion.html"
+    }
+  ],
+  "series": [
+    {
+      "title": "10.0.x",
+      "comparator": ">=10.0.0 <11.0.0",
+      "tags" :[
+      ]
+    },
+    {
+      "title": "9.0.x",
+      "comparator": ">=9.0.0 <10.0.0",
+      "tags" :[
+      ]
+    },
+    {
+      "title": "8.5.x",
+      "comparator": ">=8.5.0 <8.6.0",
+      "tags" :[
+      ]
+    },
+    {
+      "title": "8.0.x",
+      "comparator": ">=8.0.0 <8.1.0",
+      "tags" :[
+        "eol"
+      ]
+    },
+    {
+      "title": "7.0.x",
+      "comparator": ">=7.0.0 <8.0.0",
+      "tags" :[
+        "eol"
+      ]
+    },
+    {
+      "title": "6.0.x",
+      "comparator": ">=6.0.0 <7.0.0",
+      "tags" :[
+        "eol"
+      ]
+    }
+  ],
+  "polling": [
+    {
+      "method": "rss",
+      "feedURL": "http://tomcat.markmail.org/atom/+list:org%2Eapache%2Etomcat%2Eannounce",
+      "parse":  [
+        {
+          "method": "applyRegex",
+          "pattern": ".+ (\\d+).(\\d+).(\\d+) .+",
+          "replace": "$1.$2.$3"
+
+        },
+        {
+          "method": "parseSemver"
+        }
+      ]
+    }
+  ]
+}

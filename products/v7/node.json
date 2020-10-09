@@ -1,0 +1,139 @@
+{
+  "name": "Node.js",
+  "id": "node",
+  "links": [
+    {
+      "title": "GitHub",
+      "url": "https://github.com/nodejs/node"
+    },
+    {
+      "title": "Homepage",
+      "url": "https://nodejs.org"
+    }
+  ],
+  "series": [      
+    {
+      "title": "14.x",
+      "comparator": ">=14.0.0 <15.0.0",
+      "tags" :[
+        "lts"
+      ]
+    },     
+    {
+      "title": "13.x",
+      "comparator": ">=13.0.0 <14.0.0",
+      "tags" :[
+        "eol"
+      ]
+    },     
+    {
+      "title": "12.x",
+      "comparator": ">=12.0.0 <13.0.0",
+      "tags" :[
+        "lts"
+      ]
+    },
+    {
+      "title": "11.x",
+      "comparator": ">=11.0.0 <12.0.0",
+      "tags" :[
+        "eol"
+      ]
+    },
+    {
+      "title": "10.x",
+      "comparator": ">=10.0.0 <11.0.0",
+      "tags" :[
+        "lts"
+      ]
+    },
+    {
+      "title": "9.x",
+      "comparator": ">=9.0.0 <10.0.0",
+      "tags" :[
+        "eol"
+      ]
+    },
+    {
+      "title": "8.x",
+      "comparator": ">=8.0.0 <9.0.0",
+      "tags" :[
+        "eol"
+      ]
+    },
+    {
+      "title": "7.x",
+      "comparator": ">=7.0.0 <8.0.0",
+      "tags" :[
+        "eol"
+      ]
+    },
+    {
+      "title": "6.x",
+      "comparator": ">=6.0.0 <7.0.0",
+      "tags" :[
+        "eol"
+      ]
+    },
+    {
+      "title": "5.x",
+      "comparator": ">=5.0.0 <6.0.0",
+      "tags" :[
+        "eol"
+      ]
+    },
+    {
+      "title": "4.x",
+      "comparator": ">=4.0.0 <5.0.0",
+      "tags" :[
+        "eol"
+      ]
+    },
+    {
+      "title": "3.x",
+      "comparator": ">=3.0.0 <4.0.0",
+      "tags" :[
+        "eol"
+      ]
+    },
+    {
+      "title": "v2",
+      "comparator": ">=2.0.0 <3.0.0",
+      "tags" :[
+        "eol"
+      ]
+    },
+    {
+      "title": "v1",
+      "comparator": ">=1.0.0 <2.0.0",
+      "tags" :[
+        "eol"
+      ]
+    },
+    {
+      "title": "v0",
+      "comparator": ">=0.0.0 <1.0.0",
+      "tags" :[
+        "eol"
+      ]
+    }
+  ],
+  "polling": [
+    {
+      "method": "github",
+      "owner": "nodejs",
+      "project": "node",
+      "parse":  [
+        {
+          "method": "applyRegex",
+          "pattern": "v(\\d+).(\\d+).(\\d+)$",
+          "replace": "$1.$2.$3"
+
+        },
+        {
+          "method": "parseSemver"
+        }
+      ]
+    }
+  ]
+}

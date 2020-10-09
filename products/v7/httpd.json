@@ -1,0 +1,41 @@
+{
+  "name": "Apache HTTPd",
+  "id": "httpd",
+  "links": [
+    {
+      "title": "Homepage",
+      "url": "https://httpd.apache.org"
+    }
+  ],"series": [
+    {
+      "title": "2.4.x",
+      "comparator": ">=2.4.0 <2.5.0",
+      "tags" :[
+      ]
+    },
+    {
+      "title": "2.2.x",
+      "comparator": ">=2.2.0 <2.3.0",
+      "tags" :[
+        "eol"
+      ]
+    }
+  ],
+  "polling": [
+    {
+      "method": "rss",
+      "feedURL": "https://lists.apache.org/api/atom.lua?list=announce@httpd.apache.org",
+      "parse":  [
+        {
+          "method": "applyRegex",
+          "pattern": "\\[ANNOUNCEMENT\\] Apache HTTP Server (\\d+).(\\d+).(\\d+) .+",
+          "replace": "$1.$2.$3"
+
+        },
+        {
+          "method": "parseSemver"
+        }
+      ]
+    }
+  ]
+}

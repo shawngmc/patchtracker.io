@@ -1,0 +1,53 @@
+{
+  "name": "Traefik",
+  "id": "traefik",
+  "links": [
+    {
+      "title": "GitHub",
+      "url": "https://github.com/containous/traefik"
+    },
+    {
+      "title": "Homepage",
+      "url": "https://traefik.io"
+    }
+  ],
+  "series": [
+    {
+      "title": "2.3.x",
+      "comparator": ">=2.3.0 <2.4.0",
+      "tags" :[
+      ]
+    },
+    {
+      "title": "2.2.x",
+      "comparator": ">=2.2.0 <2.3.0",
+      "tags" :[
+      ]
+    },
+    {
+      "title": "2.1.x",
+      "comparator": ">=2.1.0 <2.2.0",
+      "tags" :[
+      ]
+    },
+    {
+      "title": "1.x.x",
+      "comparator": ">=1.0.0 <2.0.0",
+      "tags" :[
+        "eol"
+      ]
+    }
+  ],
+  "polling": [
+    {
+      "method": "github",
+      "owner": "containous",
+      "project": "traefik",
+      "parse": [
+        {
+          "method": "parseSemver"
+        }
+      ]
+    }
+  ]
+}

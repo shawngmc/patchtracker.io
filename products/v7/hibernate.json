@@ -1,0 +1,59 @@
+{
+  "name": "Hibernate",
+  "id": "hibernate",
+  "links": [
+    {
+      "title": "GitHub",
+      "url": "https://github.com/hibernate/hibernate-orm"
+    },
+    {
+      "title": "Homepage",
+      "url": "https://hibernate.org/"
+    }
+  ],
+  "series": [
+    {
+      "title": "6.x.x",
+      "comparator": ">=6.0.0 <7.0.0",
+      "tags" :[
+      ]
+    },
+    {
+      "title": "5.x.x",
+      "comparator": ">=5.0.0 <6.0.0",
+      "tags" :[
+      ]
+    },
+    {
+      "title": "4.x.x",
+      "comparator": ">=4.0.0 <5.0.0",
+      "tags" :[
+        "eol"
+      ]
+    },
+    {
+      "title": "3.x.x",
+      "comparator": ">=3.0.0 <4.0.0",
+      "tags" :[
+        "eol"
+      ]
+    }
+  ],
+  "polling": [
+    {
+      "method": "github",
+      "owner": "hibernate",
+      "project": "hibernate-orm",
+      "parse": [
+        {
+          "method": "applyRegex",
+          "pattern": "(\\d+).(\\d+).(\\d+)(?:\\.Final)?$",
+          "replace": "$1.$2.$3"
+        },
+        {
+          "method": "parseSemver"
+        }
+      ]
+    }
+  ]
+}

@@ -1,10 +1,10 @@
 const config = require('../config.js');
+const versionParsers = require('../version/parsers.js');
 const octokit = require('@octokit/rest')({
     auth: config.github.api_key
 })
 const Promise = require("bluebird");
 const _ = require('lodash');
-const semver = require('semver');
 
 async function listTags(owner, project) {
     return octokit.paginate('GET /repos/:owner/:repo/tags', { owner: owner, repo: project })
@@ -15,36 +15,28 @@ async function listTags(owner, project) {
         })
 }
 
-async function updateProductVersions(name, versionDescriptor, productVersions) {
+async function updateProductVersions(pollConfig, productVersions) {
     console.log("Pulling GitHub project data...");
-    let tags = await octokit.paginate('GET /repos/:owner/:repo/tags', { owner: versionDescriptor.owner, repo: versionDescriptor.project });
+    let tags = await octokit.paginate('GET /repos/:owner/:repo/tags', { owner: pollConfig.owner, repo: pollConfig.project });
 
     for (const tag of tags) {
         console.log("Evaluating tag '" + tag.name + "'...");
         
-        var regex = RegExp(versionDescriptor.regex);
-        if (regex.test(tag.name)) {
-            let version = semver.coerce(tag.name); 
-            if (version != null) {
-                console.log("Found version " + version.version + "...");
+        let verObj = versionParsers.parse(tag.name, pollConfig);
+        if (verObj != null) {
+            console.log("Found version " + verObj.version + "...");
 
-                if (!_.find(productVersions, { 'version': version.version, 'prerelease': version.prerelease })) {
-                    console.log("Adding version " + version.version + "...");
-                    let commit = await octokit.repos.getCommit({ owner: versionDescriptor.owner, repo: versionDescriptor.project, commit_sha: tag.commit.sha })
-                    let verObj = {
-                        version: version.version,
-                        url: "https://github.com/" + versionDescriptor.owner + "/" + versionDescriptor.project + "/releases/tag/" + tag.name,
-                        publishedDate: commit.data.commit.committer.date,
-                        major: version.major,
-                        minor: version.minor,
-                        patch: version.patch,
-                        prerelease: version.prerelease
-                    }
-                    productVersions.push(verObj);
-                    // Add a small delay to prevent API lockout
-                    await Promise.delay(500);
-                }
+            if (!_.find(productVersions, { 'version': verObj.version })) {
+                console.log("Adding version " + verObj.version + "...");
+                let commit = await octokit.repos.getCommit({ owner: pollConfig.owner, repo: pollConfig.project, commit_sha: tag.commit.sha })
+                verObj.url = "https://github.com/" + pollConfig.owner + "/" + pollConfig.project + "/releases/tag/" + tag.name;
+                verObj.publishedDate = commit.data.commit.committer.date;
+                productVersions.push(verObj);
+                // Add a small delay to prevent API lockout
+                await Promise.delay(500);
             }
+        } else {
+            console.log("No valid version found!")
         }
     };
 

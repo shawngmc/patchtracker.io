@@ -1,0 +1,87 @@
+{
+  "name": "Spring Framework",
+  "id": "spring",
+  "links": [
+    {
+      "title": "GitHub",
+      "url": "https://github.com/spring-projects/spring-framework"
+    },
+    {
+      "title": "Homepage",
+      "url": "https://spring.io"
+    }
+  ],
+  "series": [
+    {
+      "title": "5.3.x",
+      "comparator": ">=5.3.0 <5.4.0",
+      "tags": []
+    },
+    {
+      "title": "5.2.x",
+      "comparator": ">=5.2.0 <5.3.0",
+      "tags": []
+    },
+    {
+      "title": "5.1.x",
+      "comparator": ">=5.1.0 <5.2.0",
+      "tags": []
+    },
+    {
+      "title": "5.0.x",
+      "comparator": ">=5.0.0 <5.1.0",
+      "tags": []
+    },
+    {
+      "title": "4.3.x",
+      "comparator": ">=4.3.0 <4.4.0",
+      "tags": []
+    },
+    {
+      "title": "4.2.x",
+      "comparator": ">=4.2.0 <4.3.0",
+      "tags": [
+        "eol"
+      ]
+    },
+    {
+      "title": "4.1.x",
+      "comparator": ">=4.1.0 <4.2.0",
+      "tags": [
+        "eol"
+      ]
+    },
+    {
+      "title": "4.0.x",
+      "comparator": ">=4.0.0 <4.1.0",
+      "tags": [
+        "eol"
+      ]
+    },
+    {
+      "title": "3.x.x",
+      "comparator": ">=3.0.0 <4.0.0",
+      "tags": [
+        "eol"
+      ]
+    }
+  ],
+  "polling": [
+    {
+      "method": "github",
+      "owner": "spring-projects",
+      "project": "spring-framework",
+      "parse":  [
+        {
+          "method": "applyRegex",
+          "pattern": "v(\\d+).(\\d+).(\\d+).RELEASE$",
+          "replace": "$1.$2.$3"
+
+        },
+        {
+          "method": "parseSemver"
+        }
+      ]
+    }
+  ]
+}

@@ -6,17 +6,17 @@ async function update(productDescriptor, productVersions) {
         productVersions = [];
     }
 
-    for (const versionDescriptor of productDescriptor.polling) {
-        let pollingMethod = versionDescriptor.method.toLowerCase();
+    for (const pollConfig of productDescriptor.polling) {
+        let pollingMethod = pollConfig.method.toLowerCase();
         let pollingEnginePath = __dirname + "/../utils/pollers/" + pollingMethod + ".js";
         let pollingEngineExists = fs.existsSync(pollingEnginePath);
         if (pollingEngineExists) {
             const pollingEngine = require(pollingEnginePath);
-            productVersions = await pollingEngine.updateProductVersions(productDescriptor.name, versionDescriptor, productVersions);
+            productVersions = await pollingEngine.updateProductVersions(pollConfig, productVersions);
         } else {
             throw new Error("Unknown Product Polling Method: " + pollingMethod)
         }
-        await Promise.delay(500);
+        await Promise.delay(1000);
     };
 
     return productVersions;

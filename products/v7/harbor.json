@@ -1,0 +1,40 @@
+{
+  "name": "Harbor",
+  "id": "harbor",
+  "links": [
+    {
+      "title": "GitHub",
+      "url": "https://github.com/goharbor/harbor"
+    },
+    {
+      "title": "Homepage",
+      "url": "https://harbor.io"
+    }
+  ],
+  "series": [      
+    {
+      "title": "2.x",
+      "comparator": ">=2.0.0 <3.0.0",
+      "tags" :[
+      ]
+    },     
+    {
+      "title": "1.x",
+      "comparator": ">=1.0.0 <2.0.0",
+      "tags" :[
+      ]
+    }
+  ],
+  "polling": [
+    {
+      "method": "github",
+      "owner": "goharbor",
+      "project": "harbor",
+      "parse": [
+        {
+          "method": "parseSemver"
+        }
+      ]
+    }
+  ]
+}

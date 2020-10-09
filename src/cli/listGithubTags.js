@@ -1,3 +1,3 @@
 
 const github = require('../utils/pollers/github.js');
-github.listTags("haproxy", "haproxy");
+github.listTags("hibernate", "hibernate-orm");

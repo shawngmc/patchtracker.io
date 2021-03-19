@@ -1,0 +1,92 @@
+{
+  "name": "Rails",
+  "id": "rails",
+  "links": [
+    {
+      "title": "GitHub",
+      "url": "https://github.com/rails/rails"
+    },
+    {
+      "title": "Homepage",
+      "url": "https://rubyonrails.org/"
+    }
+  ],
+  "series": [
+    {
+      "title": "6.0.x",
+      "comparator": ">=6.0.0 <6.1.0",
+      "tags" :[
+      ]
+    },
+    {
+      "title": "5.2.x",
+      "comparator": ">=5.2.0 <5.3.0",
+      "tags" :[
+      ]
+    },
+    {
+      "title": "5.1.x",
+      "comparator": ">=5.1.0 <5.2.0",
+      "tags" :[
+        "eol"
+      ]
+    },
+    {
+      "title": "5.0.x",
+      "comparator": ">=5.0.0 <5.1.0",
+      "tags" :[
+        "eol"
+      ]
+    },
+    {
+      "title": "4.x.x",
+      "comparator": ">=4.0.0 <5.0.0",
+      "tags" :[
+        "eol"
+      ]
+    },
+    {
+      "title": "3.x.x",
+      "comparator": ">=3.0.0 <4.0.0",
+      "tags" :[
+        "eol"
+      ]
+    },
+    {
+      "title": "2.x.x",
+      "comparator": ">=2.0.0 <3.0.0",
+      "tags" :[
+        "eol"
+      ]
+    },
+    {
+      "title": "1.x.x",
+      "comparator": ">=1.0.0 <2.0.0",
+      "tags" :[
+        "eol"
+      ]
+    },
+    {
+      "title": "0.x.x",
+      "comparator": ">=0.0.0 <1.0.0",
+      "tags" :[
+        "eol"
+      ]
+    }
+  ],
+  "polling": [{
+    "method": "github",
+    "owner": "rails",
+    "project": "rails",
+    "parse": [
+      {
+        "method": "applyRegex",
+        "pattern": "^v(.+)$",
+        "replace": "$1"
+      },
+      {
+        "method": "parseSemverBuild"
+      }
+    ]
+  }]
+}

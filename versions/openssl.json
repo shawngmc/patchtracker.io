@@ -1,0 +1,1852 @@
+[
+  {
+    "version": "1.1.1",
+    "major": 1,
+    "minor": 1,
+    "patch": 1,
+    "subpatch": null,
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_1_1",
+    "publishedDate": "2018-09-11T12:48:18Z"
+  },
+  {
+    "version": "1.1.1-h",
+    "major": 1,
+    "minor": 1,
+    "patch": 1,
+    "subpatch": [
+      "h"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_1_1h",
+    "publishedDate": "2020-09-22T12:55:07Z"
+  },
+  {
+    "version": "1.1.1-g",
+    "major": 1,
+    "minor": 1,
+    "patch": 1,
+    "subpatch": [
+      "g"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_1_1g",
+    "publishedDate": "2020-04-21T12:22:39Z"
+  },
+  {
+    "version": "1.1.1-f",
+    "major": 1,
+    "minor": 1,
+    "patch": 1,
+    "subpatch": [
+      "f"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_1_1f",
+    "publishedDate": "2020-03-31T12:17:45Z"
+  },
+  {
+    "version": "1.1.1-e",
+    "major": 1,
+    "minor": 1,
+    "patch": 1,
+    "subpatch": [
+      "e"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_1_1e",
+    "publishedDate": "2020-03-17T14:31:17Z"
+  },
+  {
+    "version": "1.1.1-d",
+    "major": 1,
+    "minor": 1,
+    "patch": 1,
+    "subpatch": [
+      "d"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_1_1d",
+    "publishedDate": "2019-09-10T13:13:07Z"
+  },
+  {
+    "version": "1.1.1-c",
+    "major": 1,
+    "minor": 1,
+    "patch": 1,
+    "subpatch": [
+      "c"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_1_1c",
+    "publishedDate": "2019-05-28T13:12:21Z"
+  },
+  {
+    "version": "1.1.1-b",
+    "major": 1,
+    "minor": 1,
+    "patch": 1,
+    "subpatch": [
+      "b"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_1_1b",
+    "publishedDate": "2019-02-26T14:15:30Z"
+  },
+  {
+    "version": "1.1.1-a",
+    "major": 1,
+    "minor": 1,
+    "patch": 1,
+    "subpatch": [
+      "a"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_1_1a",
+    "publishedDate": "2018-11-20T13:35:35Z"
+  },
+  {
+    "version": "1.1.0",
+    "major": 1,
+    "minor": 1,
+    "patch": 0,
+    "subpatch": null,
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_1_0",
+    "publishedDate": "2016-08-25T15:29:18Z"
+  },
+  {
+    "version": "1.1.0-l",
+    "major": 1,
+    "minor": 1,
+    "patch": 0,
+    "subpatch": [
+      "l"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_1_0l",
+    "publishedDate": "2019-09-10T13:16:54Z"
+  },
+  {
+    "version": "1.1.0-k",
+    "major": 1,
+    "minor": 1,
+    "patch": 0,
+    "subpatch": [
+      "k"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_1_0k",
+    "publishedDate": "2019-05-28T12:59:16Z"
+  },
+  {
+    "version": "1.1.0-j",
+    "major": 1,
+    "minor": 1,
+    "patch": 0,
+    "subpatch": [
+      "j"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_1_0j",
+    "publishedDate": "2018-11-20T13:41:22Z"
+  },
+  {
+    "version": "1.1.0-i",
+    "major": 1,
+    "minor": 1,
+    "patch": 0,
+    "subpatch": [
+      "i"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_1_0i",
+    "publishedDate": "2018-08-14T12:45:05Z"
+  },
+  {
+    "version": "1.1.0-h",
+    "major": 1,
+    "minor": 1,
+    "patch": 0,
+    "subpatch": [
+      "h"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_1_0h",
+    "publishedDate": "2018-03-27T13:50:36Z"
+  },
+  {
+    "version": "1.1.0-g",
+    "major": 1,
+    "minor": 1,
+    "patch": 0,
+    "subpatch": [
+      "g"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_1_0g",
+    "publishedDate": "2017-11-02T14:29:01Z"
+  },
+  {
+    "version": "1.1.0-f",
+    "major": 1,
+    "minor": 1,
+    "patch": 0,
+    "subpatch": [
+      "f"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_1_0f",
+    "publishedDate": "2017-05-25T12:46:16Z"
+  },
+  {
+    "version": "1.1.0-e",
+    "major": 1,
+    "minor": 1,
+    "patch": 0,
+    "subpatch": [
+      "e"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_1_0e",
+    "publishedDate": "2017-02-16T11:58:19Z"
+  },
+  {
+    "version": "1.1.0-d",
+    "major": 1,
+    "minor": 1,
+    "patch": 0,
+    "subpatch": [
+      "d"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_1_0d",
+    "publishedDate": "2017-01-26T13:10:20Z"
+  },
+  {
+    "version": "1.1.0-c",
+    "major": 1,
+    "minor": 1,
+    "patch": 0,
+    "subpatch": [
+      "c"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_1_0c",
+    "publishedDate": "2016-11-10T14:03:42Z"
+  },
+  {
+    "version": "1.1.0-b",
+    "major": 1,
+    "minor": 1,
+    "patch": 0,
+    "subpatch": [
+      "b"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_1_0b",
+    "publishedDate": "2016-09-26T09:46:03Z"
+  },
+  {
+    "version": "1.1.0-a",
+    "major": 1,
+    "minor": 1,
+    "patch": 0,
+    "subpatch": [
+      "a"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_1_0a",
+    "publishedDate": "2016-09-22T10:14:50Z"
+  },
+  {
+    "version": "1.0.2",
+    "major": 1,
+    "minor": 0,
+    "patch": 2,
+    "subpatch": null,
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_2",
+    "publishedDate": "2015-01-22T16:12:26Z"
+  },
+  {
+    "version": "1.0.2-u",
+    "major": 1,
+    "minor": 0,
+    "patch": 2,
+    "subpatch": [
+      "u"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_2u",
+    "publishedDate": "2019-12-20T13:09:21Z"
+  },
+  {
+    "version": "1.0.2-t",
+    "major": 1,
+    "minor": 0,
+    "patch": 2,
+    "subpatch": [
+      "t"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_2t",
+    "publishedDate": "2019-09-10T13:36:07Z"
+  },
+  {
+    "version": "1.0.2-s",
+    "major": 1,
+    "minor": 0,
+    "patch": 2,
+    "subpatch": [
+      "s"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_2s",
+    "publishedDate": "2019-05-28T12:56:29Z"
+  },
+  {
+    "version": "1.0.2-r",
+    "major": 1,
+    "minor": 0,
+    "patch": 2,
+    "subpatch": [
+      "r"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_2r",
+    "publishedDate": "2019-02-26T14:20:55Z"
+  },
+  {
+    "version": "1.0.2-q",
+    "major": 1,
+    "minor": 0,
+    "patch": 2,
+    "subpatch": [
+      "q"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_2q",
+    "publishedDate": "2018-11-20T13:45:20Z"
+  },
+  {
+    "version": "1.0.2-p",
+    "major": 1,
+    "minor": 0,
+    "patch": 2,
+    "subpatch": [
+      "p"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_2p",
+    "publishedDate": "2018-08-14T13:01:02Z"
+  },
+  {
+    "version": "1.0.2-o",
+    "major": 1,
+    "minor": 0,
+    "patch": 2,
+    "subpatch": [
+      "o"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_2o",
+    "publishedDate": "2018-03-27T13:55:22Z"
+  },
+  {
+    "version": "1.0.2-n",
+    "major": 1,
+    "minor": 0,
+    "patch": 2,
+    "subpatch": [
+      "n"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_2n",
+    "publishedDate": "2017-12-07T13:19:36Z"
+  },
+  {
+    "version": "1.0.2-m",
+    "major": 1,
+    "minor": 0,
+    "patch": 2,
+    "subpatch": [
+      "m"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_2m",
+    "publishedDate": "2017-11-02T14:33:44Z"
+  },
+  {
+    "version": "1.0.2-l",
+    "major": 1,
+    "minor": 0,
+    "patch": 2,
+    "subpatch": [
+      "l"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_2l",
+    "publishedDate": "2017-05-25T12:55:36Z"
+  },
+  {
+    "version": "1.0.2-k",
+    "major": 1,
+    "minor": 0,
+    "patch": 2,
+    "subpatch": [
+      "k"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_2k",
+    "publishedDate": "2017-01-26T13:22:36Z"
+  },
+  {
+    "version": "1.0.2-j",
+    "major": 1,
+    "minor": 0,
+    "patch": 2,
+    "subpatch": [
+      "j"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_2j",
+    "publishedDate": "2016-09-26T09:49:49Z"
+  },
+  {
+    "version": "1.0.2-i",
+    "major": 1,
+    "minor": 0,
+    "patch": 2,
+    "subpatch": [
+      "i"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_2i",
+    "publishedDate": "2016-09-22T10:24:53Z"
+  },
+  {
+    "version": "1.0.2-h",
+    "major": 1,
+    "minor": 0,
+    "patch": 2,
+    "subpatch": [
+      "h"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_2h",
+    "publishedDate": "2016-05-03T13:46:41Z"
+  },
+  {
+    "version": "1.0.2-g",
+    "major": 1,
+    "minor": 0,
+    "patch": 2,
+    "subpatch": [
+      "g"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_2g",
+    "publishedDate": "2016-03-01T13:36:54Z"
+  },
+  {
+    "version": "1.0.2-f",
+    "major": 1,
+    "minor": 0,
+    "patch": 2,
+    "subpatch": [
+      "f"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_2f",
+    "publishedDate": "2016-01-28T13:57:22Z"
+  },
+  {
+    "version": "1.0.2-e",
+    "major": 1,
+    "minor": 0,
+    "patch": 2,
+    "subpatch": [
+      "e"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_2e",
+    "publishedDate": "2015-12-03T14:44:31Z"
+  },
+  {
+    "version": "1.0.2-d",
+    "major": 1,
+    "minor": 0,
+    "patch": 2,
+    "subpatch": [
+      "d"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_2d",
+    "publishedDate": "2015-07-09T12:03:09Z"
+  },
+  {
+    "version": "1.0.2-c",
+    "major": 1,
+    "minor": 0,
+    "patch": 2,
+    "subpatch": [
+      "c"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_2c",
+    "publishedDate": "2015-06-12T15:10:40Z"
+  },
+  {
+    "version": "1.0.2-b",
+    "major": 1,
+    "minor": 0,
+    "patch": 2,
+    "subpatch": [
+      "b"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_2b",
+    "publishedDate": "2015-06-11T13:55:38Z"
+  },
+  {
+    "version": "1.0.2-a",
+    "major": 1,
+    "minor": 0,
+    "patch": 2,
+    "subpatch": [
+      "a"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_2a",
+    "publishedDate": "2015-03-19T13:31:16Z"
+  },
+  {
+    "version": "1.0.1",
+    "major": 1,
+    "minor": 0,
+    "patch": 1,
+    "subpatch": null,
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_1",
+    "publishedDate": "2012-03-14T12:39:00Z"
+  },
+  {
+    "version": "1.0.1-u",
+    "major": 1,
+    "minor": 0,
+    "patch": 1,
+    "subpatch": [
+      "u"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_1u",
+    "publishedDate": "2016-09-22T10:30:27Z"
+  },
+  {
+    "version": "1.0.1-t",
+    "major": 1,
+    "minor": 0,
+    "patch": 1,
+    "subpatch": [
+      "t"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_1t",
+    "publishedDate": "2016-05-03T13:49:52Z"
+  },
+  {
+    "version": "1.0.1-s",
+    "major": 1,
+    "minor": 0,
+    "patch": 1,
+    "subpatch": [
+      "s"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_1s",
+    "publishedDate": "2016-03-01T13:40:46Z"
+  },
+  {
+    "version": "1.0.1-r",
+    "major": 1,
+    "minor": 0,
+    "patch": 1,
+    "subpatch": [
+      "r"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_1r",
+    "publishedDate": "2016-01-28T17:06:38Z"
+  },
+  {
+    "version": "1.0.1-q",
+    "major": 1,
+    "minor": 0,
+    "patch": 1,
+    "subpatch": [
+      "q"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_1q",
+    "publishedDate": "2015-12-03T14:50:26Z"
+  },
+  {
+    "version": "1.0.1-p",
+    "major": 1,
+    "minor": 0,
+    "patch": 1,
+    "subpatch": [
+      "p"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_1p",
+    "publishedDate": "2015-07-09T12:22:23Z"
+  },
+  {
+    "version": "1.0.1-o",
+    "major": 1,
+    "minor": 0,
+    "patch": 1,
+    "subpatch": [
+      "o"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_1o",
+    "publishedDate": "2015-06-12T15:20:59Z"
+  },
+  {
+    "version": "1.0.1-n",
+    "major": 1,
+    "minor": 0,
+    "patch": 1,
+    "subpatch": [
+      "n"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_1n",
+    "publishedDate": "2015-06-11T14:05:11Z"
+  },
+  {
+    "version": "1.0.1-m",
+    "major": 1,
+    "minor": 0,
+    "patch": 1,
+    "subpatch": [
+      "m"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_1m",
+    "publishedDate": "2015-03-19T13:38:37Z"
+  },
+  {
+    "version": "1.0.1-l",
+    "major": 1,
+    "minor": 0,
+    "patch": 1,
+    "subpatch": [
+      "l"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_1l",
+    "publishedDate": "2015-01-15T14:45:15Z"
+  },
+  {
+    "version": "1.0.1-k",
+    "major": 1,
+    "minor": 0,
+    "patch": 1,
+    "subpatch": [
+      "k"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_1k",
+    "publishedDate": "2015-01-08T14:03:40Z"
+  },
+  {
+    "version": "1.0.1-j",
+    "major": 1,
+    "minor": 0,
+    "patch": 1,
+    "subpatch": [
+      "j"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_1j",
+    "publishedDate": "2014-10-15T12:54:46Z"
+  },
+  {
+    "version": "1.0.1-i",
+    "major": 1,
+    "minor": 0,
+    "patch": 1,
+    "subpatch": [
+      "i"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_1i",
+    "publishedDate": "2014-08-06T21:18:45Z"
+  },
+  {
+    "version": "1.0.1-h",
+    "major": 1,
+    "minor": 0,
+    "patch": 1,
+    "subpatch": [
+      "h"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_1h",
+    "publishedDate": "2014-06-05T09:45:00Z"
+  },
+  {
+    "version": "1.0.1-g",
+    "major": 1,
+    "minor": 0,
+    "patch": 1,
+    "subpatch": [
+      "g"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_1g",
+    "publishedDate": "2014-04-07T16:55:44Z"
+  },
+  {
+    "version": "1.0.1-f",
+    "major": 1,
+    "minor": 0,
+    "patch": 1,
+    "subpatch": [
+      "f"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_1f",
+    "publishedDate": "2014-01-06T14:36:07Z"
+  },
+  {
+    "version": "1.0.1-e",
+    "major": 1,
+    "minor": 0,
+    "patch": 1,
+    "subpatch": [
+      "e"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_1e",
+    "publishedDate": "2013-02-11T15:21:21Z"
+  },
+  {
+    "version": "1.0.1-d",
+    "major": 1,
+    "minor": 0,
+    "patch": 1,
+    "subpatch": [
+      "d"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_1d",
+    "publishedDate": "2013-02-04T23:12:58Z"
+  },
+  {
+    "version": "1.0.1-c",
+    "major": 1,
+    "minor": 0,
+    "patch": 1,
+    "subpatch": [
+      "c"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_1c",
+    "publishedDate": "2012-05-10T15:16:37Z"
+  },
+  {
+    "version": "1.0.1-b",
+    "major": 1,
+    "minor": 0,
+    "patch": 1,
+    "subpatch": [
+      "b"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_1b",
+    "publishedDate": "2012-04-26T10:42:20Z"
+  },
+  {
+    "version": "1.0.1-a",
+    "major": 1,
+    "minor": 0,
+    "patch": 1,
+    "subpatch": [
+      "a"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_1a",
+    "publishedDate": "2012-04-19T12:17:19Z"
+  },
+  {
+    "version": "1.0.0",
+    "major": 1,
+    "minor": 0,
+    "patch": 0,
+    "subpatch": null,
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_0",
+    "publishedDate": "2010-03-29T13:11:54Z"
+  },
+  {
+    "version": "1.0.0-t",
+    "major": 1,
+    "minor": 0,
+    "patch": 0,
+    "subpatch": [
+      "t"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_0t",
+    "publishedDate": "2015-12-03T14:56:22Z"
+  },
+  {
+    "version": "1.0.0-s",
+    "major": 1,
+    "minor": 0,
+    "patch": 0,
+    "subpatch": [
+      "s"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_0s",
+    "publishedDate": "2015-06-11T14:13:36Z"
+  },
+  {
+    "version": "1.0.0-r",
+    "major": 1,
+    "minor": 0,
+    "patch": 0,
+    "subpatch": [
+      "r"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_0r",
+    "publishedDate": "2015-03-19T13:43:00Z"
+  },
+  {
+    "version": "1.0.0-q",
+    "major": 1,
+    "minor": 0,
+    "patch": 0,
+    "subpatch": [
+      "q"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_0q",
+    "publishedDate": "2015-01-15T14:56:27Z"
+  },
+  {
+    "version": "1.0.0-p",
+    "major": 1,
+    "minor": 0,
+    "patch": 0,
+    "subpatch": [
+      "p"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_0p",
+    "publishedDate": "2015-01-08T14:21:42Z"
+  },
+  {
+    "version": "1.0.0-o",
+    "major": 1,
+    "minor": 0,
+    "patch": 0,
+    "subpatch": [
+      "o"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_0o",
+    "publishedDate": "2014-10-15T12:52:08Z"
+  },
+  {
+    "version": "1.0.0-n",
+    "major": 1,
+    "minor": 0,
+    "patch": 0,
+    "subpatch": [
+      "n"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_0n",
+    "publishedDate": "2014-08-06T21:24:50Z"
+  },
+  {
+    "version": "1.0.0-m",
+    "major": 1,
+    "minor": 0,
+    "patch": 0,
+    "subpatch": [
+      "m"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_0m",
+    "publishedDate": "2014-06-05T09:42:13Z"
+  },
+  {
+    "version": "1.0.0-l",
+    "major": 1,
+    "minor": 0,
+    "patch": 0,
+    "subpatch": [
+      "l"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_0l",
+    "publishedDate": "2014-01-06T15:02:02Z"
+  },
+  {
+    "version": "1.0.0-k",
+    "major": 1,
+    "minor": 0,
+    "patch": 0,
+    "subpatch": [
+      "k"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_0k",
+    "publishedDate": "2013-02-05T16:46:21Z"
+  },
+  {
+    "version": "1.0.0-j",
+    "major": 1,
+    "minor": 0,
+    "patch": 0,
+    "subpatch": [
+      "j"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_0j",
+    "publishedDate": "2012-05-10T14:48:54Z"
+  },
+  {
+    "version": "1.0.0-i",
+    "major": 1,
+    "minor": 0,
+    "patch": 0,
+    "subpatch": [
+      "i"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_0i",
+    "publishedDate": "2012-04-19T11:47:20Z"
+  },
+  {
+    "version": "1.0.0-h",
+    "major": 1,
+    "minor": 0,
+    "patch": 0,
+    "subpatch": [
+      "h"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_0h",
+    "publishedDate": "2012-03-12T15:26:48Z"
+  },
+  {
+    "version": "1.0.0-g",
+    "major": 1,
+    "minor": 0,
+    "patch": 0,
+    "subpatch": [
+      "g"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_0g",
+    "publishedDate": "2012-01-18T13:38:34Z"
+  },
+  {
+    "version": "1.0.0-f",
+    "major": 1,
+    "minor": 0,
+    "patch": 0,
+    "subpatch": [
+      "f"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_0f",
+    "publishedDate": "2012-01-04T17:01:33Z"
+  },
+  {
+    "version": "1.0.0-e",
+    "major": 1,
+    "minor": 0,
+    "patch": 0,
+    "subpatch": [
+      "e"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_0e",
+    "publishedDate": "2011-09-06T13:01:44Z"
+  },
+  {
+    "version": "1.0.0-d",
+    "major": 1,
+    "minor": 0,
+    "patch": 0,
+    "subpatch": [
+      "d"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_0d",
+    "publishedDate": "2011-02-08T17:10:53Z"
+  },
+  {
+    "version": "1.0.0-c",
+    "major": 1,
+    "minor": 0,
+    "patch": 0,
+    "subpatch": [
+      "c"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_0c",
+    "publishedDate": "2010-12-02T18:29:04Z"
+  },
+  {
+    "version": "1.0.0-b",
+    "major": 1,
+    "minor": 0,
+    "patch": 0,
+    "subpatch": [
+      "b"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_0b",
+    "publishedDate": "2010-11-16T13:35:09Z"
+  },
+  {
+    "version": "1.0.0-a",
+    "major": 1,
+    "minor": 0,
+    "patch": 0,
+    "subpatch": [
+      "a"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_1_0_0a",
+    "publishedDate": "2010-06-01T13:31:38Z"
+  },
+  {
+    "version": "0.9.8",
+    "major": 0,
+    "minor": 9,
+    "patch": 8,
+    "subpatch": null,
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_8",
+    "publishedDate": "2005-07-05T18:49:43Z"
+  },
+  {
+    "version": "0.9.8-zh",
+    "major": 0,
+    "minor": 9,
+    "patch": 8,
+    "subpatch": [
+      "zh"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_8zh",
+    "publishedDate": "2015-12-03T15:00:17Z"
+  },
+  {
+    "version": "0.9.8-zg",
+    "major": 0,
+    "minor": 9,
+    "patch": 8,
+    "subpatch": [
+      "zg"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_8zg",
+    "publishedDate": "2015-06-11T14:20:22Z"
+  },
+  {
+    "version": "0.9.8-zf",
+    "major": 0,
+    "minor": 9,
+    "patch": 8,
+    "subpatch": [
+      "zf"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_8zf",
+    "publishedDate": "2015-03-19T13:47:27Z"
+  },
+  {
+    "version": "0.9.8-ze",
+    "major": 0,
+    "minor": 9,
+    "patch": 8,
+    "subpatch": [
+      "ze"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_8ze",
+    "publishedDate": "2015-01-15T15:05:59Z"
+  },
+  {
+    "version": "0.9.8-zd",
+    "major": 0,
+    "minor": 9,
+    "patch": 8,
+    "subpatch": [
+      "zd"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_8zd",
+    "publishedDate": "2015-01-08T14:33:47Z"
+  },
+  {
+    "version": "0.9.8-zc",
+    "major": 0,
+    "minor": 9,
+    "patch": 8,
+    "subpatch": [
+      "zc"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_8zc",
+    "publishedDate": "2014-10-15T12:48:52Z"
+  },
+  {
+    "version": "0.9.8-zb",
+    "major": 0,
+    "minor": 9,
+    "patch": 8,
+    "subpatch": [
+      "zb"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_8zb",
+    "publishedDate": "2014-08-06T21:29:20Z"
+  },
+  {
+    "version": "0.9.8-za",
+    "major": 0,
+    "minor": 9,
+    "patch": 8,
+    "subpatch": [
+      "za"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_8za",
+    "publishedDate": "2014-06-05T09:38:57Z"
+  },
+  {
+    "version": "0.9.8-y",
+    "major": 0,
+    "minor": 9,
+    "patch": 8,
+    "subpatch": [
+      "y"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_8y",
+    "publishedDate": "2013-02-05T16:50:37Z"
+  },
+  {
+    "version": "0.9.8-x",
+    "major": 0,
+    "minor": 9,
+    "patch": 8,
+    "subpatch": [
+      "x"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_8x",
+    "publishedDate": "2012-05-10T14:38:52Z"
+  },
+  {
+    "version": "0.9.8-w",
+    "major": 0,
+    "minor": 9,
+    "patch": 8,
+    "subpatch": [
+      "w"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_8w",
+    "publishedDate": "2012-04-23T21:03:04Z"
+  },
+  {
+    "version": "0.9.8-v",
+    "major": 0,
+    "minor": 9,
+    "patch": 8,
+    "subpatch": [
+      "v"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_8v",
+    "publishedDate": "2012-04-19T12:05:18Z"
+  },
+  {
+    "version": "0.9.8-u",
+    "major": 0,
+    "minor": 9,
+    "patch": 8,
+    "subpatch": [
+      "u"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_8u",
+    "publishedDate": "2012-03-12T15:25:53Z"
+  },
+  {
+    "version": "0.9.8-t",
+    "major": 0,
+    "minor": 9,
+    "patch": 8,
+    "subpatch": [
+      "t"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_8t",
+    "publishedDate": "2012-01-18T13:15:37Z"
+  },
+  {
+    "version": "0.9.8-s",
+    "major": 0,
+    "minor": 9,
+    "patch": 8,
+    "subpatch": [
+      "s"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_8s",
+    "publishedDate": "2012-01-04T19:23:07Z"
+  },
+  {
+    "version": "0.9.8-r",
+    "major": 0,
+    "minor": 9,
+    "patch": 8,
+    "subpatch": [
+      "r"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_8r",
+    "publishedDate": "2011-02-08T17:10:47Z"
+  },
+  {
+    "version": "0.9.8-q",
+    "major": 0,
+    "minor": 9,
+    "patch": 8,
+    "subpatch": [
+      "q"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_8q",
+    "publishedDate": "2010-12-02T18:53:52Z"
+  },
+  {
+    "version": "0.9.8-p",
+    "major": 0,
+    "minor": 9,
+    "patch": 8,
+    "subpatch": [
+      "p"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_8p",
+    "publishedDate": "2010-11-16T14:56:17Z"
+  },
+  {
+    "version": "0.9.8-o",
+    "major": 0,
+    "minor": 9,
+    "patch": 8,
+    "subpatch": [
+      "o"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_8o",
+    "publishedDate": "2010-06-01T14:47:12Z"
+  },
+  {
+    "version": "0.9.8-n",
+    "major": 0,
+    "minor": 9,
+    "patch": 8,
+    "subpatch": [
+      "n"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_8n",
+    "publishedDate": "2010-03-24T13:16:55Z"
+  },
+  {
+    "version": "0.9.8-m",
+    "major": 0,
+    "minor": 9,
+    "patch": 8,
+    "subpatch": [
+      "m"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_8m",
+    "publishedDate": "2010-02-25T17:18:23Z"
+  },
+  {
+    "version": "0.9.8-l",
+    "major": 0,
+    "minor": 9,
+    "patch": 8,
+    "subpatch": [
+      "l"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_8l",
+    "publishedDate": "2009-11-05T16:08:52Z"
+  },
+  {
+    "version": "0.9.8-k",
+    "major": 0,
+    "minor": 9,
+    "patch": 8,
+    "subpatch": [
+      "k"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_8k",
+    "publishedDate": "2009-03-25T12:08:15Z"
+  },
+  {
+    "version": "0.9.8-j",
+    "major": 0,
+    "minor": 9,
+    "patch": 8,
+    "subpatch": [
+      "j"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_8j",
+    "publishedDate": "2009-01-07T10:50:54Z"
+  },
+  {
+    "version": "0.9.8-i",
+    "major": 0,
+    "minor": 9,
+    "patch": 8,
+    "subpatch": [
+      "i"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_8i",
+    "publishedDate": "2008-09-15T14:26:34Z"
+  },
+  {
+    "version": "0.9.8-h",
+    "major": 0,
+    "minor": 9,
+    "patch": 8,
+    "subpatch": [
+      "h"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_8h",
+    "publishedDate": "2008-05-28T07:37:14Z"
+  },
+  {
+    "version": "0.9.8-g",
+    "major": 0,
+    "minor": 9,
+    "patch": 8,
+    "subpatch": [
+      "g"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_8g",
+    "publishedDate": "2007-10-19T08:25:15Z"
+  },
+  {
+    "version": "0.9.8-f",
+    "major": 0,
+    "minor": 9,
+    "patch": 8,
+    "subpatch": [
+      "f"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_8f",
+    "publishedDate": "2007-10-11T18:23:17Z"
+  },
+  {
+    "version": "0.9.8-e",
+    "major": 0,
+    "minor": 9,
+    "patch": 8,
+    "subpatch": [
+      "e"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_8e",
+    "publishedDate": "2007-02-23T12:38:11Z"
+  },
+  {
+    "version": "0.9.8-d",
+    "major": 0,
+    "minor": 9,
+    "patch": 8,
+    "subpatch": [
+      "d"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_8d",
+    "publishedDate": "2006-09-28T11:32:42Z"
+  },
+  {
+    "version": "0.9.8-c",
+    "major": 0,
+    "minor": 9,
+    "patch": 8,
+    "subpatch": [
+      "c"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_8c",
+    "publishedDate": "2006-09-05T08:45:37Z"
+  },
+  {
+    "version": "0.9.8-b",
+    "major": 0,
+    "minor": 9,
+    "patch": 8,
+    "subpatch": [
+      "b"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_8b",
+    "publishedDate": "2006-05-04T12:46:42Z"
+  },
+  {
+    "version": "0.9.8-a",
+    "major": 0,
+    "minor": 9,
+    "patch": 8,
+    "subpatch": [
+      "a"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_8a",
+    "publishedDate": "2005-10-11T10:16:21Z"
+  },
+  {
+    "version": "0.9.7",
+    "major": 0,
+    "minor": 9,
+    "patch": 7,
+    "subpatch": null,
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_7",
+    "publishedDate": "2002-12-30T23:54:11Z"
+  },
+  {
+    "version": "0.9.7-m",
+    "major": 0,
+    "minor": 9,
+    "patch": 7,
+    "subpatch": [
+      "m"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_7m",
+    "publishedDate": "2007-02-23T12:49:10Z"
+  },
+  {
+    "version": "0.9.7-l",
+    "major": 0,
+    "minor": 9,
+    "patch": 7,
+    "subpatch": [
+      "l"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_7l",
+    "publishedDate": "2006-09-28T11:56:57Z"
+  },
+  {
+    "version": "0.9.7-k",
+    "major": 0,
+    "minor": 9,
+    "patch": 7,
+    "subpatch": [
+      "k"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_7k",
+    "publishedDate": "2006-09-05T08:34:07Z"
+  },
+  {
+    "version": "0.9.7-j",
+    "major": 0,
+    "minor": 9,
+    "patch": 7,
+    "subpatch": [
+      "j"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_7j",
+    "publishedDate": "2006-05-04T12:52:59Z"
+  },
+  {
+    "version": "0.9.7-i",
+    "major": 0,
+    "minor": 9,
+    "patch": 7,
+    "subpatch": [
+      "i"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_7i",
+    "publishedDate": "2005-10-14T22:15:53Z"
+  },
+  {
+    "version": "0.9.7-h",
+    "major": 0,
+    "minor": 9,
+    "patch": 7,
+    "subpatch": [
+      "h"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_7h",
+    "publishedDate": "2005-10-11T10:10:05Z"
+  },
+  {
+    "version": "0.9.7-g",
+    "major": 0,
+    "minor": 9,
+    "patch": 7,
+    "subpatch": [
+      "g"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_7g",
+    "publishedDate": "2005-04-11T15:10:07Z"
+  },
+  {
+    "version": "0.9.7-f",
+    "major": 0,
+    "minor": 9,
+    "patch": 7,
+    "subpatch": [
+      "f"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_7f",
+    "publishedDate": "2005-03-22T19:15:55Z"
+  },
+  {
+    "version": "0.9.7-e",
+    "major": 0,
+    "minor": 9,
+    "patch": 7,
+    "subpatch": [
+      "e"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_7e",
+    "publishedDate": "2004-10-25T11:24:39Z"
+  },
+  {
+    "version": "0.9.7-d",
+    "major": 0,
+    "minor": 9,
+    "patch": 7,
+    "subpatch": [
+      "d"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_7d",
+    "publishedDate": "2004-03-17T12:01:20Z"
+  },
+  {
+    "version": "0.9.7-c",
+    "major": 0,
+    "minor": 9,
+    "patch": 7,
+    "subpatch": [
+      "c"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_7c",
+    "publishedDate": "2003-09-30T12:08:23Z"
+  },
+  {
+    "version": "0.9.7-b",
+    "major": 0,
+    "minor": 9,
+    "patch": 7,
+    "subpatch": [
+      "b"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_7b",
+    "publishedDate": "2003-04-10T20:37:53Z"
+  },
+  {
+    "version": "0.9.7-a",
+    "major": 0,
+    "minor": 9,
+    "patch": 7,
+    "subpatch": [
+      "a"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_7a",
+    "publishedDate": "2003-02-19T12:33:55Z"
+  },
+  {
+    "version": "0.9.6",
+    "major": 0,
+    "minor": 9,
+    "patch": 6,
+    "subpatch": null,
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_6",
+    "publishedDate": "2000-10-10T09:15:49Z"
+  },
+  {
+    "version": "0.9.6-m",
+    "major": 0,
+    "minor": 9,
+    "patch": 6,
+    "subpatch": [
+      "m"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_6m",
+    "publishedDate": "2004-03-17T11:40:44Z"
+  },
+  {
+    "version": "0.9.6-l",
+    "major": 0,
+    "minor": 9,
+    "patch": 6,
+    "subpatch": [
+      "l"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_6l",
+    "publishedDate": "2003-11-04T11:30:40Z"
+  },
+  {
+    "version": "0.9.6-k",
+    "major": 0,
+    "minor": 9,
+    "patch": 6,
+    "subpatch": [
+      "k"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_6k",
+    "publishedDate": "2003-09-30T12:09:13Z"
+  },
+  {
+    "version": "0.9.6-j",
+    "major": 0,
+    "minor": 9,
+    "patch": 6,
+    "subpatch": [
+      "j"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_6j",
+    "publishedDate": "2003-04-10T20:30:41Z"
+  },
+  {
+    "version": "0.9.6-i",
+    "major": 0,
+    "minor": 9,
+    "patch": 6,
+    "subpatch": [
+      "i"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_6i",
+    "publishedDate": "2003-02-19T12:34:21Z"
+  },
+  {
+    "version": "0.9.6-h",
+    "major": 0,
+    "minor": 9,
+    "patch": 6,
+    "subpatch": [
+      "h"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_6h",
+    "publishedDate": "2002-12-05T22:44:12Z"
+  },
+  {
+    "version": "0.9.6-g",
+    "major": 0,
+    "minor": 9,
+    "patch": 6,
+    "subpatch": [
+      "g"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_6g",
+    "publishedDate": "2002-08-09T11:37:15Z"
+  },
+  {
+    "version": "0.9.6-f",
+    "major": 0,
+    "minor": 9,
+    "patch": 6,
+    "subpatch": [
+      "f"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_6f",
+    "publishedDate": "2002-08-08T20:51:52Z"
+  },
+  {
+    "version": "0.9.6-e",
+    "major": 0,
+    "minor": 9,
+    "patch": 6,
+    "subpatch": [
+      "e"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_6e",
+    "publishedDate": "2002-07-30T10:34:35Z"
+  },
+  {
+    "version": "0.9.6-d",
+    "major": 0,
+    "minor": 9,
+    "patch": 6,
+    "subpatch": [
+      "d"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_6d",
+    "publishedDate": "2002-05-09T22:40:31Z"
+  },
+  {
+    "version": "0.9.6-c",
+    "major": 0,
+    "minor": 9,
+    "patch": 6,
+    "subpatch": [
+      "c"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_6c",
+    "publishedDate": "2001-12-21T01:21:23Z"
+  },
+  {
+    "version": "0.9.6-b",
+    "major": 0,
+    "minor": 9,
+    "patch": 6,
+    "subpatch": [
+      "b"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_6b",
+    "publishedDate": "2001-07-09T14:36:30Z"
+  },
+  {
+    "version": "0.9.6-a",
+    "major": 0,
+    "minor": 9,
+    "patch": 6,
+    "subpatch": [
+      "a"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_6a",
+    "publishedDate": "2001-04-05T21:08:34Z"
+  },
+  {
+    "version": "0.9.5",
+    "major": 0,
+    "minor": 9,
+    "patch": 5,
+    "subpatch": null,
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_5",
+    "publishedDate": "2000-05-25T13:20:13Z"
+  },
+  {
+    "version": "0.9.5-a",
+    "major": 0,
+    "minor": 9,
+    "patch": 5,
+    "subpatch": [
+      "a"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_5a",
+    "publishedDate": "2000-04-01T11:15:15Z"
+  },
+  {
+    "version": "0.9.4",
+    "major": 0,
+    "minor": 9,
+    "patch": 4,
+    "subpatch": null,
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_4",
+    "publishedDate": "1999-08-09T10:40:38Z"
+  },
+  {
+    "version": "0.9.3",
+    "major": 0,
+    "minor": 9,
+    "patch": 3,
+    "subpatch": null,
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_3",
+    "publishedDate": "1999-05-24T20:52:13Z"
+  },
+  {
+    "version": "0.9.3-a",
+    "major": 0,
+    "minor": 9,
+    "patch": 3,
+    "subpatch": [
+      "a"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_3a",
+    "publishedDate": "1999-05-29T14:14:56Z"
+  },
+  {
+    "version": "0.9.2-b",
+    "major": 0,
+    "minor": 9,
+    "patch": 2,
+    "subpatch": [
+      "b"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_2b",
+    "publishedDate": "1999-03-22T16:27:02Z"
+  },
+  {
+    "version": "0.9.1-c",
+    "major": 0,
+    "minor": 9,
+    "patch": 1,
+    "subpatch": [
+      "c"
+    ],
+    "prerelease": null,
+    "url": "https://github.com/openssl/openssl/releases/tag/OpenSSL_0_9_1c",
+    "publishedDate": "1998-12-23T12:09:47Z"
+  }
+]

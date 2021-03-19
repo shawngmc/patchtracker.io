@@ -1,3 +1,3 @@
 
 const github = require('../utils/pollers/github.js');
-github.listTags("postgres", "postgres");
+github.listTags("openssl", "openssl");

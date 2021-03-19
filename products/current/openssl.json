@@ -1,0 +1,44 @@
+{
+  "name": "OpenSSL",
+  "id": "openssl",
+  "links": [
+    {
+      "title": "GitHub",
+      "url": "https://github.com/openssl/openssl"
+    },
+    {
+      "title": "Homepage",
+      "url": "https://www.openssl.org/"
+    }
+  ],
+  "series": [
+
+  ],
+  "polling": [
+    {
+      "method": "github",
+      "owner": "openssl",
+      "project": "openssl",
+      "parse": [
+        {
+          "method": "applyRegex",
+          "pattern": "OpenSSL_(\\d+)_(\\d+)_(\\d+)([a-z]{0,2})$",
+          "replace": "$1.$2.$3-$4"
+        },
+        {
+          "method": "applyRegex",
+          "pattern": "(\\d+).(\\d+).(\\d+)-$",
+          "replace": "$1.$2.$3",
+          "passthrough": true
+        },
+        {
+          "method": "parseSemver",
+          "dropPrereleaseVersions": false
+        },
+        {
+          "method": "convertPrereleaseToSubpatch"
+        }
+      ]
+    }
+  ]
+}
